@@ -991,7 +991,7 @@ label {
     }
 
     #main_nav {
-        justify-content: flex-end
+        justify-content: center
     }
 }
 
@@ -1084,7 +1084,8 @@ button.navbar-toggler:focus {
 
 .navbar-brand img {
     width: 319px;
-    height: 83px
+    height: 83px;
+    
 }
 
 .dropdown-toggle::after {
@@ -3550,7 +3551,7 @@ body.rtl-mode .item-area {
     }
 
     .navbar-brand {
-        padding-left: 10px;
+        
         margin-top: 0
     }
 
@@ -4065,9 +4066,9 @@ i {
         margin-left: -20px
     }
 
-    .navbar-brand {
+    /* .navbar-brand {
         padding: 15px 0
-    }
+    } */
 
     .top-header {
         display: none
