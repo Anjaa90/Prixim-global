@@ -108,10 +108,10 @@
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">FX Platforms</a>
                             <ul class="dropdown-menu fade-down">
                                 <li><a class="dropdown-item" href="mt5-hosting-whitelabel.php">MT5 Hosting</a></li>
-                                <li><a class="dropdown-item" href="match-trader-whitelabel.php">Match Trader</a>
-                                </li>
-                                <li><a class="dropdown-item" href="vertexfx-whitelabel.php">VertexFX</a></li>
-                                <li><a class="dropdown-item" href="wow-trader-whitelabel.php">Wow Trader</a></li>
+                                <!-- <li><a class="dropdown-item" href="match-trader-whitelabel.php">Match Trader</a>
+                                </li> -->
+                                <!-- <li><a class="dropdown-item" href="vertexfx-whitelabel.php">VertexFX</a></li> -->
+                                <!-- <li><a class="dropdown-item" href="wow-trader-whitelabel.php">Wow Trader</a></li> -->
                                 <li><a class="dropdown-item" href="broker-setup-guide.php">Broker Setup Guide</a>
                                 </li>
                                 <li><a class="dropdown-item" href="forex-brokerage-calculator.php">Brokerage Calculator</a>
@@ -134,19 +134,21 @@
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Broker
                                 License</a>
                             <ul class="dropdown-menu fade-down">
+                            <li><a class="dropdown-item" href="St Lucia.php">St Lucia
+                            </a></li>
+                            <li><a class="dropdown-item" href="comoros-islands.php">Comoros Islands
+                            </a></li>
+                            <li><a class="dropdown-item" href="seychelles.php">Seychelles
+                                    </a></li>
+                                    <li><a class="dropdown-item" href="mauritius.php">Mauritius
+                                    </a></li>
                                 <li><a class="dropdown-item" href="labuan.php">Labuan</a></li>
-                                <li><a class="dropdown-item" href="mauritius.php">Mauritius
-                                    </a></li>
-                                  <li><a class="dropdown-item" href="Broker License - St Lucia.php">Broker License-St Lucia
-                                        </a></li>
-                                <li><a class="dropdown-item" href="seychelles.php">Seychelles
-                                    </a></li>
                                 <li><a class="dropdown-item" href="vanuatu.php">Vanuatu
                                     </a></li>
                             </ul>
                         </li>
 
-                        <li class="nav-item"><a class="nav-link" href="pricing.php">Pricing</a></li>
+                        <!-- <li class="nav-item"><a class="nav-link" href="pricing.php">Pricing</a></li> -->
 
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">OutSource</a>
