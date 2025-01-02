@@ -30,11 +30,19 @@
                         <div class="site-heading mb-3">
                             <h1 class="site-title">Forex License <span>- Saint Lucia</span></h1>
                         </div>
-                        <p class="about-text">
-                            Starting a Forex business? Saint Lucia is a great choice! It's perfect for entrepreneurs 
-                            with low taxes, business-friendly rules, and government support. Plus, it’s globally trusted 
-                            and not on any blacklist.
-                        </p>
+                        <div class="about-list-wrapper">
+
+                                <ul class="about-list list-unstyled">
+                                    <li style="font-weight: 400;"><b>Low Taxes:</b>Saint Lucia offers favorable tax rates for Forex businesses.</li>
+                                    <li style="font-weight: 400;"><b>Business-Friendly Regulations:</b> Supportive rules for entrepreneurs.</li>
+                                    <li style="font-weight: 400;"><b>Government Support</b> Encouraging the environment for new businesses.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Global Trust:</b> Recognized and trusted internationally.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Blacklist-Free:</b> Saint Lucia is not listed on any financial blacklists.
+                                    </li>
+                                </ul>
+                        </div>
                         <!-- Button -->
                         <a href="contact-us.html" class="theme-btn" style="margin-top: 20px;">Get Started Now</a>
                     </div>

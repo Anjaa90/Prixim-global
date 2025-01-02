@@ -218,18 +218,14 @@
                             <div class="site-heading mb-3">
                                 <h1 class="site-title">Server Management Services at Prixim Global</h1>
                             </div>
-                            <p class="about-text">Ensure the stability and security of your Forex operations with Prixim
-                                Global’s Server Management services.
-                                We handle all aspects of server setup, monitoring, and maintenance.</p>
+                            <p class="about-text">Ensure the stability and security of your Forex operations with Prixim Global’s Server Management services. We handle all aspects of server setup, monitoring, and maintenance.
+                            </p>
                             <div class="about-list-wrapper">
                                 <h2 class="site-title-1">Why Choose Prixim Global for Server Management?</h2>
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Reliable Infrastructure:</b> Our services guarantee
-                                        high availability and performance.</li>
-                                    <li style="font-weight: 400;"><b>Expert Monitoring:</b> We offer continuous
-                                        monitoring to quickly address performance issues.</li>
-                                    <li style="font-weight: 400;"><b>Scalable services:</b> Our services can grow with
-                                        your business, adapting to your needs.</li>
+                                    <li style="font-weight: 400;"><b>Reliable Infrastructure:</b> Guaranteeing high availability and performance.</li>
+                                    <li style="font-weight: 400;"><b>Expert Monitoring:</b> Continuous monitoring to quickly resolve performance issues.</li>
+                                    <li style="font-weight: 400;"><b>Scalable services:</b> Adapting to your business needs as they grow.</li>
                                 </ul>
                             </div>
                         </div>

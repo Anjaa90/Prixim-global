@@ -321,15 +321,14 @@
                             <div class="about-list-wrapper">
                                 <!-- <h2 class="site-title-1">Why Choose Prixim Global for Live Chat & Email Support?</h2> -->
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Rapid Response </b>Times: We prioritize quick
-                                        reservices to minimize disruption.
+                                    <li style="font-weight: 400;"><b>Comprehensive Tech Support:</b> Ensuring smooth operation of your trading platforms.
+
 
                                     </li>
-                                    <li style="font-weight: 400;"><b>Expert Knowledge:</b> Our team has extensive
-                                        knowledge of various trading technologies.
+                                    <li style="font-weight: 400;"><b>Experienced Team:</b> Quick resolution of any software or platform-related issues.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Proactive Monitoring:</b>We monitor systems
-                                        continuously to prevent potential issues.
+                                    <li style="font-weight: 400;"><b>Reliable Assistance:</b> Available to handle technical challenges promptly.
+
                                     </li>
                                 </ul>
                             </div>
@@ -409,13 +408,7 @@
                     </div>
 
                     <p class="mt-4" style="text-align: center; font-size: 16px;">
-                        Our Commitment to Excellence At Prixim Global, we prioritize continuous improvement and strive
-                        for excellence in every interaction.
-                        Our team undergoes regular training to stay updated on industry trends and customer service best
-                        practices, ensuring that we provide
-                        top-notch support to your clients.
-
-                    </p>
+                    At Prixim Global, we commit to excellence through continuous improvement and regular training, ensuring we provide exceptional support to your clients.</p>
                 </div>
             </div>
         </div><br><br>

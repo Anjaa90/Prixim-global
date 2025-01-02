@@ -198,14 +198,17 @@
                             <div class="site-heading mb-3">
                                 <h1 class="site-title">Broker License <span>- Comoros Islands</span></h1>
                             </div>
-                            <p class="about-text">The Comoros Islands offer a very cost-effective jurisdiction for
-                                establishing a forex brokerage. While the financial sector is still developing, Comoros
-                                provides low regulatory hurdles and a highly favourable tax environment, making it an
-                                attractive option for brokers looking for minimal setup costs and administrative
-                                requirements.
+                            <div class="about-list-wrapper">
 
+                                <ul class="about-list list-unstyled">
+                                    <li style="font-weight: 400;"><b> Cost-Effective Jurisdiction:</b> Mwali, Comoros Islands, offers affordable options for forex brokers.</li>
+                                    <li style="font-weight: 400;"><b>Growing Financial Sector:</b> Mwali's financial sector is developing with strong opportunities.</li>
+                                    <li style="font-weight: 400;"><b>Minimal Regulations:</b> Brokers face fewer regulatory requirements in Mwali.</li>
+                                    <li style="font-weight: 400;"><b>Attractive Tax Environment:</b> Mwali provides a favorable tax structure for brokers.</li>
+                                    <li style="font-weight: 400;"><b>Low Setup Costs:</b>Perfect for brokers seeking affordable setup and minimal administration in Mwali.</li> 
+                                </ul>
+                            </div>
 
-                            </p>
                             <!-- Button -->
                             <a href="contact-us.html" class="theme-btn" style="margin-top: 20px;">Yes, I want to incorporate</a>
                         </div>
@@ -230,10 +233,7 @@
                         <div class="process-single process-color-1">
                             <div class="icon"><span>01</span><i class="fa-thin fa-coins" aria-hidden="true"></i></div>
                             <h3 style="font-size: 22px">Low Costs</h3>
-                            <p>Comoros offers one of the lowest licensing and operational costs for brokers.
-
-
-
+                            <p>Comoros offers low licensing and operational costs for brokers.
                             </p>
                         </div>
                     </div>
@@ -242,7 +242,8 @@
                             <div class="icon"><span>02</span><i class="fa-thin fa-piggy-bank" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Tax Advantages</h3>
-                            <p> No capital gains tax, no inheritance tax, and a very low corporate tax rate.
+                            <p>No capital gains tax, no inheritance tax, and a low corporate tax rate.
+
 
 
                             </p>
@@ -253,18 +254,17 @@
                             <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Simple Regulatory Process</h3>
-                            <p>The licensing process in Comoros is relatively straightforward with fewer compliance
-                                burdens compared to other jurisdictions.
+                            <p>Comoros offers a simple licensing process with minimal compliance requirements.
 
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 text-center mb-30">
                         <div class="process-single process-single-last process-color-3">
-                            <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
+                            <div class="icon"><span>04</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Minimal Bureaucracy</h3>
-                            <p>Brokers can set up and begin operating quickly with minimal administrative delays.
+                            <p>Brokers can set up and start operations quickly with minimal delays.
 
 
                             </p>
@@ -272,10 +272,10 @@
                     </div>
                     <div class="col-lg-4 col-md-6 text-center mb-30">
                         <div class="process-single process-single-last process-color-3">
-                            <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
+                            <div class="icon"><span>05</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Privacy</h3>
-                            <p>Strong privacy protections for business owners and clients.
+                            <p>Strong privacy safeguards for owners and clients.
 
                             </p>
                         </div>
@@ -294,12 +294,16 @@
                                     <span>Overview </span>
                                 </h2>
                             </div>
-                            <p>The Comoros Islands is less regulated compared to major financial jurisdictions but still
-                                requires brokers to follow basic financial compliance procedures such as AML and KYC.
-                                The regulatory body ensures that brokers meet minimal standards to ensure that clients'
-                                funds and transactions are protected.
+                            <div class="about-list-wrapper">
 
-                            </p>
+                                <ul class="about-list list-unstyled">
+                                    <li style="font-weight: 400;"><b>Less Regulated:</b> Comoros has fewer regulations compared to major financial jurisdictions.</li>
+                                    <li style="font-weight: 400;"><b>Basic Compliance Requirements:</b>Brokers must follow AML and KYC procedures.</li>
+                                    <li style="font-weight: 400;"><b>Regulatory Oversight:</b>The regulatory body ensures brokers meet minimal standards.</li>
+                                    <li style="font-weight: 400;"><b>Client Protection:</b>Focuses on safeguarding clients' funds and transactions.</li> 
+                                </ul>
+                            </div>
+                            
 
                         </div>
                     </div>

@@ -196,12 +196,19 @@
                             <div class="site-heading mb-3">
                                 <h1 class="site-title">Broker License <span>- Seychelles</span></h1>
                             </div>
-                            <p class="about-text">Seychelles is one of the most well-known offshore jurisdictions in the
-                                Indian Ocean, known for its low taxation and business-friendly regulatory environment.
-                                The Seychelles Financial Services Authority (FSA) oversees all financial operations
-                                within the country, making it an ideal location for brokers seeking a reliable yet
-                                cost-effective base of operations.
-                            </p>
+                            <div class="about-list-wrapper">
+
+                                <ul class="about-list list-unstyled">
+                                    <li style="font-weight: 400;"><b>Low Taxation:</b>Seychelles offers favorable tax rates for businesses.</li>
+                                    <li style="font-weight: 400;"><b>Business-Friendly:</b> Known for its supportive regulatory environment.</li>
+                                    <li style="font-weight: 400;"><b>Regulated by FSA:</b> The Seychelles Financial Services Authority oversees financial operations.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Cost-Effective Base:</b> Ideal for brokers seeking a reliable and affordable location.
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+
                              <!-- Button -->
                              <a href="contact-us.html" class="theme-btn" style="margin-top: 20px;">Yes, I want to incorporate</a>
 
@@ -292,10 +299,20 @@
                                     <span>Overview </span>
                                 </h2>
                             </div>
-                            <p>The Seychelles Financial Services Authority (FSA) regulates forex brokers, ensuring
-                                compliance with AML and KYC regulations. The FSA provides oversight to ensure that
-                                brokers maintain the proper operational practices and safeguard clients' funds.
-                            </p>
+                            <div class="about-list-wrapper">
+
+                                <ul class="about-list list-unstyled">
+                                    <li style="font-weight: 400;"><b>Regulated by FSA:</b>The Seychelles Financial Services Authority oversees forex brokers.</li>
+                                    <li style="font-weight: 400;"><b>AML & KYC Compliance:</b> Ensures adherence to Anti-Money Laundering and KYC regulations.</li>
+                                    <li style="font-weight: 400;"><b>Operational Oversight:</b> The FSA ensures brokers follow proper operational practices.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Client Fund Protection:</b> Safeguards clients' funds through strict regulatory measures.
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+
+
 
                         </div>
                     </div>

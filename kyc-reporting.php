@@ -198,11 +198,17 @@
                                     </span>
                                 </h1>
                             </div>
-                            <p class="about-text">Compliance is essential in the Forex industry. Prixim Global
-                                specializes in KYC <br>(Know Your Customer) and reporting services , helping brokers
-                                meet
-                                regulatory requirements seamlessly.
-                            </p>
+                            <div class="about-list-wrapper">
+
+                                <ul class="about-list list-unstyled">
+                                    <li style="font-weight: 400;"><b>KYC Services:</b>Specializing in Know Your Customer (KYC) compliance.</li>
+                                    <li style="font-weight: 400;"><b>Regulatory Compliance:</b> Helping brokers meet industry regulations effortlessly.</li>
+                                    <li style="font-weight: 400;"><b>Seamless Reporting: </b> Streamlined reporting services to ensure smooth compliance.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Forex Industry Expertise:</b> In-depth knowledge to assist brokers with regulatory requirements.
+                                    </li>
+                                </ul>
+                            </div>
 
                         </div>
                     </div>
