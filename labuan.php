@@ -26,14 +26,19 @@
                             <div class="site-heading mb-3">
                                 <h1 class="site-title">Broker License <span>- Labuan</span></h1>
                             </div>
-                            <p class="about-text">Labuan, Malaysia’s international business and financial centre, offers
-                                a favourable jurisdiction for forex brokers looking to establish themselves in a
-                                tax-efficient and well-regulated environment. Under the Labuan Financial Services
-                                Authority (LFSA) oversight, Labuan provides a stable platform for brokerage firms to
-                                conduct forex, derivatives, and other financial services globally. A Labuan broker
-                                license offers flexibility and benefits that can support business growth while meeting
-                                international compliance standards.
-                            </p>
+                            <div class="about-list-wrapper">
+
+                                <ul class="about-list list-unstyled">
+                                    <li style="font-weight: 400;"><b>Tax-Efficient & Regulated: </b>Labuan offers a favorable jurisdiction for forex brokers.</li>
+                                    <li style="font-weight: 400;"><b>Regulated by LFSA:</b>Under the oversight of the Labuan Financial Services Authority.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Global Services: </b> A stable platform for forex, derivatives, and financial services worldwide.
+
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Flexible Broker License:</b> Supports business growth and international compliance.
+                                    </li>
+                                </ul>
+                            </div>
                             <!-- Button -->
                             <a href="contact-us.html" class="theme-btn" style="margin-top: 20px;">Yes, I want to
                                 incorporate</a>
@@ -175,14 +180,19 @@
                                     <span>Overview </span>
                                 </h2>
                             </div>
-                            <p>Labuan’s financial sector is regulated by the Labuan Financial Services Authority (LFSA),
-                                which ensures compliance with international standards such as Anti-Money Laundering
-                                (AML) and Know Your Customer (KYC) regulations. The LFSA provides oversight to ensure
-                                that businesses operating within Labuan meet the necessary regulatory requirements for
-                                financial services. This offers brokers operating in Labuan credibility and protection
-                                in their business dealings.
-                            </p>
+                            <div class="about-list-wrapper">
 
+                                <ul class="about-list list-unstyled">
+                                    <li style="font-weight: 400;"><b>Regulated by LFSA: </b>Oversight by the Labuan Financial Services Authority.</li>
+                                    <li style="font-weight: 400;"><b>International Compliance:</b>Adherence to AML and KYC regulations.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Credibility & Protection: </b> Ensures credibility and security for brokers.
+
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Regulatory Assurance:</b> Brokers meet all necessary financial service requirements.
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-6">

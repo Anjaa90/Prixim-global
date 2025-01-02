@@ -43,14 +43,16 @@
                                     </span>
                                 </h1>
                             </div>
-                            <p class="about-text">Prixim Global offers robust live chat and email support, allowing your
-                                clients to receive immediate assistance. Our chat support is tailored for Forex broker
-                                outsourcing, NEO banks, and crypto brokers, ensuring that your clients' queries are
-                                addressed promptly. Additionally, our email support covers back-office operations, KYC
-                                checks, and AML compliance, making us a reliable partner for Forex broker outsourcing.
-                                This comprehensive assistance enhances your business's efficiency and customer
-                                satisfaction.
-                            </p>
+                            <ul class="about-list list-unstyled">
+                                    <li style="font-weight: 400;"><b>Live Chat Support:</b> Tailored for Forex brokers, NEO banks, and crypto brokers, ensuring immediate assistance for client queries.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Email Support:</b> Covers back-office operations, KYC checks, and AML compliance.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Tailored for Specific Industries:</b> Live chat support designed for Forex brokers, NEO banks, and crypto brokers.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Trusted Forex Outsourcing Partner:  </b> Reliable and comprehensive support for your brokerage needs
+                                    </li>
+                                </ul>
 
                         </div>
                     </div>
@@ -87,13 +89,12 @@
                                         Support?</span></h2>
                                 <br>
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Instant Communication:</b> Our live chat feature
-                                        enables real-time interaction, addressing urgent inquiries promptly.
+                                    <li style="font-weight: 400;"><b>Instant Communication:</b> Real-time live chat for prompt inquiries.
+
                                     </li>
-                                    <li style="font-weight: 400;"><b>Thorough Email Support:</b> Our email team provides
-                                        detailed responses to ensure clarity and thoroughness.</li>
-                                    <li style="font-weight: 400;"><b>24/5 Availability: </b>Support is available
-                                        throughout the trading week, ensuring your clients are never left waiting.</li>
+                                    <li style="font-weight: 400;"><b>Thorough Email Support:</b>Detailed responses for clarity and thoroughness.</li>
+                                    <li style="font-weight: 400;"><b>24/5 Availability: </b>Support throughout the trading week, ensuring no delays.
+                                    </li>
                                 </ul>
                             </div>
                         </div>

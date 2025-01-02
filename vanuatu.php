@@ -196,12 +196,18 @@
                             <div class="site-heading mb-3">
                                 <h1 class="site-title">Broker License <span>- Vanuatu</span></h1>
                             </div>
-                            <p class="about-text">Vanuatu offers one of the most affordable and accessible jurisdictions
-                                for forex brokers. Known for its efficient licensing process, low fees, and flexible
-                                regulatory environment, Vanuatu is increasingly becoming a popular choice for both new
-                                and established brokers looking for an affordable way to enter the financial services
-                                market.
-                            </p>
+                            <div class="about-list-wrapper">
+
+                                <ul class="about-list list-unstyled">
+                                    <li style="font-weight: 400;"><b>Cost-Effective License:</b> Vanuatu offers affordable licensing for forex brokers.</li>
+                                    <li style="font-weight: 400;"><b>Quick Licensing:</b> Efficient and straightforward process for brokers.</li>
+                                    <li style="font-weight: 400;"><b>Low Fees:</b> Competitive, low fees for licensing.</li>
+                                    <li style="font-weight: 400;"><b>Flexible Regulations:</b> A business-friendly and adaptable regulatory environment.</li>
+                                    <li style="font-weight: 400;"><b>Growing Popularity:</b>Attracting both new and established brokers.</li>
+                                    
+                                </ul>
+                            </div>
+
                             <a href="contact-us.html" class="theme-btn" style="margin-top: 20px;">Yes, I want to incorporate</a>
 
                         </div>

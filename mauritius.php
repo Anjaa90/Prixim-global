@@ -199,12 +199,20 @@
                             <div class="site-heading mb-3">
                                 <h1 class="site-title">Broker License <span>- Mauritius</span></h1>
                             </div>
-                            <p class="about-text">Mauritius is a rapidly growing financial services hub located in the
-                                Indian Ocean. The jurisdiction has developed a robust financial infrastructure,
-                                attracting brokers looking for a stable regulatory environment with tax advantages.
-                                Regulated by the Financial Services Commission (FSC), Mauritius offers a transparent and
-                                competitive environment for setting up a forex brokerage.
-                            </p>
+                            <div class="about-list-wrapper">
+
+                                <ul class="about-list list-unstyled">
+                                    <li style="font-weight: 400;"><b>Financial Growth Hub:</b>Mauritius is a fast-growing financial services destination.</li>
+                                    <li style="font-weight: 400;"><b>Tax Benefits:</b>Provides tax advantages for brokers.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>FSC Regulation: </b> Governed by the Financial Services Commission (FSC).
+
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Transparent & Competitive:</b>A stable, transparent platform for forex brokerage businesses.
+                                    </li>
+                                </ul>
+                            </div>
+
                              <!-- Button -->
                              <a href="contact-us.html" class="theme-btn" style="margin-top: 20px;">Yes, I want to incorporate</a>
 
@@ -230,9 +238,7 @@
                         <div class="process-single process-color-1">
                             <div class="icon"><span>01</span><i class="fa-thin fa-coins" aria-hidden="true"></i></div>
                             <h3 style="font-size: 22px">Tax Efficiency</h3>
-                            <p>Mauritius offers a relatively low corporate tax rate of 15%, with various tax treaties
-                                available to reduce tax exposure.
-
+                            <p>Mauritius offers a 15% corporate tax rate with tax treaties to reduce exposure.
 
                             </p>
                         </div>
@@ -242,8 +248,7 @@
                             <div class="icon"><span>02</span><i class="fa-thin fa-piggy-bank" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Strategic Location</h3>
-                            <p>Situated at the crossroads of Africa and Asia, Mauritius provides brokers with access to
-                                both emerging and developed markets
+                            <p>Mauritius offers brokers access to both African and Asian markets.
 
                             </p>
                         </div>
@@ -253,8 +258,8 @@
                             <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Strong Regulatory Framework</h3>
-                            <p>The FSC ensures that brokers adhere to international standards of financial services,
-                                providing credibility to clients.
+                            <p>The FSC ensures brokers follow global standards, enhancing credibility.
+
 
                             </p>
                         </div>
@@ -264,7 +269,8 @@
                             <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Business-Friendly</h3>
-                            <p>Mauritius has an easy and quick setup process, making it ideal for new brokers.
+                            <p>Mauritius offers a fast and simple setup process, perfect for new brokers.
+
 
 
                             </p>
@@ -275,7 +281,8 @@
                             <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Highly Skilled Workforce</h3>
-                            <p>The country has a growing pool of skilled professionals in finance and technology.
+                            <p>Mauritius boasts a growing workforce of skilled professionals in finance and technology.
+
 
                             </p>
                         </div>
@@ -294,14 +301,19 @@
                                     <span>Overview </span>
                                 </h2>
                             </div>
-                            <p>Mauritius is regulated by the Financial Services Commission (FSC), which governs all
-                                financial activities, including forex and derivatives trading. The FSC enforces
-                                international standards for Anti-Money Laundering (AML), Know Your Customer (KYC), and
-                                other compliance frameworks. Licensed brokers must adhere to the FSC’s guidelines,
-                                ensuring both operational transparency and client protection.
+                            <div class="about-list-wrapper">
 
-                            </p>
-                            
+                                <ul class="about-list list-unstyled">
+                                    <li style="font-weight: 400;"><b>FSC Regulation:</b> Mauritius is regulated by the Financial Services Commission (FSC).</li>
+                                    <li style="font-weight: 400;"><b>Compliance with Global Standards:</b>Enforces AML, KYC, and other compliance frameworks.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Broker Licensing: </b> Licensed brokers must follow FSC guidelines.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Transparency & Protection:</b>Ensures operational transparency and client protection.
+                                    </li>
+                                </ul>
+                            </div>
+
 
                         </div>
                     </div>

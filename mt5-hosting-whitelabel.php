@@ -40,11 +40,20 @@
                             <div class="site-heading mb-3">
                                 <h1 class="site-title">MT5 Hosting Services at Prixim Global for <span>Optimal Trading</span> </h1>
                             </div>
-                            <p class="about-text">At Prixim Global
-                                 we provide top-tier MT5 hosting with low latency and maximum stability. Our
-                                servers are hosted near Forex banks, ECNs, and liquidity providers, ensuring seamless
-                                trading.
-                            </p>
+                            <div class="about-list-wrapper">
+
+                                <ul class="about-list list-unstyled">
+                                    <li style="font-weight: 400;"><b>High-Quality MT5 Hosting: </b>Premium MT5 hosting with exceptional performance.</li>
+                                    <li style="font-weight: 400;"><b>Low Latency:</b> Ensures fast and responsive trading experiences.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Maximum Stability: </b>Reliable hosting for uninterrupted trading operations.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Proximity to Forex Banks & ECNs:</b>  Servers located near Forex banks, ECNs, and liquidity providers.
+                                    </li>
+                                </ul>
+                            </div>
+
+
                         </div>
                     </div>
                 </div>
@@ -122,8 +131,7 @@
                             <div class="service-icon"><i class="flaticon-financial-advisor"></i></div>
                             <div class="service-content">
                                 <h3 class="service-title"><a href="#">High Availability</a></h3>
-                                <p class="service-text"> We guarantee 99.99% uptime via our SLA, ensuring uninterrupted
-                                    operations.
+                                <p class="service-text"> We guarantee 99.99% uptime with our SLA, ensuring continuous operations.
                                 </p>
                             </div>
                         </div>
@@ -133,11 +141,7 @@
                             <div class="service-icon"><i class="flaticon-call-center-1"></i></div>
                             <div class="service-content">
                                 <h3 class="service-title"><a href="#">DDoS Protection</a></h3>
-                                <p class="service-text"> We use advanced algorithms to monitor traffic and shield from
-                                    attacks, ensuring secure operations.
-
-
-                                </p>
+                                <p class="service-text">We use advanced algorithms to monitor traffic and protect against attacks, ensuring security.</p>
                             </div>
                         </div>
                     </div>
@@ -146,10 +150,7 @@
                             <div class="service-icon"><i class="flaticon-customer-service"></i></div>
                             <div class="service-content">
                                 <h3 class="service-title"><a href="#">Multiple Data Centers</a></h3>
-                                <p class="service-text"> Access 2-3 additional data centers for enhanced performance and
-                                    resource demand.
-
-                                </p>
+                                <p class="service-text"> Access 2-3 additional data centers for improved performance and resource capacity.</p>
                             </div>
                         </div>
                     </div>
@@ -158,9 +159,7 @@
                             <div class="service-icon"><i class="fa-thin fa-phone"></i></div>
                             <div class="service-content">
                                 <h3 class="service-title"><a href="#">Backup Support</a></h3>
-                                <p class="service-text">Managed system redundancies ensure data protection with expert
-                                    oversight at both primary and secondary sites.
-                                </p>
+                                <p class="service-text">Managed redundancies ensure data protection with expert oversight at all sites.</p>
                             </div>
                         </div>
                     </div>
@@ -169,9 +168,7 @@
                             <div class="service-icon"><i class="fa-thin fa-map-location-dot"></i></div>
                             <div class="service-content">
                                 <h3 class="service-title"><a href="#">Multiple Access Points</a></h3>
-                                <p class="service-text">Global access points reduce latency between clients and servers,
-                                    improving performance.
-                                </p>
+                                <p class="service-text">Global access points reduce latency, enhancing performance.</p>
                             </div>
                         </div>
                     </div>
@@ -180,9 +177,7 @@
                             <div class="service-icon"><i class="flaticon-conversation-2"></i></div>
                             <div class="service-content">
                                 <h3 class="service-title"><a href="#">24/5 Support</a></h3>
-                                <p class="service-text"> Get round-the-clock technical assistance and monitoring,
-                                    available five days a week.
-                                </p>
+                                <p class="service-text">Get 24/5 technical support and monitoring.</p>
                             </div>
                         </div>
                     </div>

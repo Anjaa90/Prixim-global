@@ -55,7 +55,7 @@
                                     <h3 style="font-size: 20px;">Multilingual Support</h3>
                                 </div>
                                 <div class="feature-content">
-                                    <p>Our agents speak multiple languages, catering to a diverse clientele.</p>
+                                    <p>Assistance in local languages for seamless communication.</p>
                                 </div>
                             </div>
                         </div>
@@ -78,8 +78,7 @@
                                     <h3 style="font-size: 20px;">24/5 Availability</h3>
                                 </div>
                                 <div class="feature-content">
-                                    <p>We are available during trading hours to assist your clients whenever they need
-                                        help.</p>
+                                    <p>Reliable support when your clients need it.</p>
                                 </div>
                             </div>
                         </div>

@@ -116,14 +116,14 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-right">
-                            <p style="font-size: 17px;"> With the forex market valued at $2.409 quadrillion, starting
-                                your own forex brokerage is a lucrative opportunity.
+                            <p style="font-size: 17px;"> The forex market, valued at $2.409 quadrillion, offers a lucrative opportunity to start your own brokerage. 
                             </p>
                             <br>
-                            <p style="font-size: 17px;">Prixim Global provides comprehensive solutions for launching and
-                                growing Forex brokerages. With industry expertise and cutting-edge technology, we offer
-                                everything from platform integration to regulatory support, helping you navigate the
-                                complexities of the Forex market and succeed in this fast-growing industry.</p>
+                            <p style="font-size: 17px;"> Prixim Global provides complete solutions for launching and growing Forex brokerages, including platform integration and regulatory support, to help you succeed in this fast-growing industry.
+
+                            </p>
+                            <br>
+                            
                         </div>
                     </div>
                 </div>
@@ -233,10 +233,7 @@
                 </div>
             </div>
             <br><br>
-            <p>Launching a forex brokerage can be simplified with the right guidance and tools. By following this setup
-                guide and partnering with Prixim Global, you’ll have everything you need to build a successful brokerage
-                from choosing the right location and technology to managing clients and liquidity. Get started with
-                confidence and thrive in the dynamic forex market.
+            <p>Launch your forex brokerage with Prixim Global's expert guidance and tools, covering location, technology, and client management for success in the forex market.
             </p>
         </div>
     </main>
