@@ -6,12 +6,13 @@
   <meta name="google-site-verification" content="TlcZxQVoKwJF8vMQ7PEgHn4ocwq4k9JWhXJUqDYSLkI" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Prixim Global Infrastructure: Modern Workspace for Productivity</title>
+  <title>
+    <?php echo $title ?>
+  </title>
   <meta name="description"
-    content="Prixim Global offers a workspace with automated desks, high-speed internet, power backup, and data security for seamless and efficient operations.">
+    content=<?php echo $description ?>>
   <meta name="keywords"
-    content="Business Process Outsourcing, Call Center, Customer Support, Customer Service, BPO Business Process Outsourcing, BPO Solutions, IT Outsourcing, Business Process Services, Business Process Outsourcing Meaning, Business Process Outsourcing Companies, BPO Business Process Outsourcing, BPO Solutions, Business Process Outsourcing Call Center, Business Process Outsourcing Industry, Business Process Outsourcing Solutions, Outsourced IT Services, Information Technology Outsourcing Companies, Customer Support Outsourcing Companies, Benefits Of Outsourcing Information Systems, CX Service, Infrastructure, IT Solution" />
-  <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon-01 (1).png" />
+    content= <?php echo $keywords ?>/>
   <script src="https://kit.fontawesome.com/d9355482a9.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
   <link rel="stylesheet" href="assets/css/all-fontawesome.min.css" />
