@@ -32,9 +32,6 @@
       <div></div>
     </div>
   </div>
-
-
-
   <div class="top-header">
     <div class="container">
 
@@ -80,7 +77,7 @@
         <nav class="navbar navbar-expand-lg">
             <div class="container-fluid">
                 <!-- Changed from max-width to container-fluid to remove any extra space -->
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="index.php">
                     <img src="assets/img/logo/logo.webp" alt="logo" loading="lazy" />
                 </a>
                 <div class="mobile-menu-right">
@@ -91,33 +88,33 @@
                 </div>
                 <div class="collapse navbar-collapse" id="main_nav">
                     <ul class="navbar-nav">
-                        <li class="nav-item"><a class="nav-link active" href="index.html">Home</a></li>
+                        <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
 
                         <!-- New Tab Example -->
-                        <!----  <li class="nav-item"><a class="nav-link" href="new-tab.html">New Tab</a></li>  --->
+                        <!----  <li class="nav-item"><a class="nav-link" href="new-tab.php">New Tab</a></li>  --->
 
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Know Us</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="infrastructure.html">Infrastructure</a></li>
-                                <li><a class="dropdown-item" href="our-clients.html">Our Clients</a></li>
-                                <li><a class="dropdown-item" href="our-certification.html">Our Certification</a>
+                                <li><a class="dropdown-item" href="infrastructure.php">Infrastructure</a></li>
+                                <li><a class="dropdown-item" href="our-clients.php">Our Clients</a></li>
+                                <li><a class="dropdown-item" href="our-certification.php">Our Certification</a>
                                 </li>
-                                <li><a class="dropdown-item" href="our-expertise.html">Our Expertise</a></li>
+                                <li><a class="dropdown-item" href="our-expertise.php">Our Expertise</a></li>
                             </ul>
                         </li>
 
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">FX Platforms</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="mt5-hosting-whitelabel.html">MT5 Hosting</a></li>
-                                <li><a class="dropdown-item" href="match-trader-whitelabel.html">Match Trader</a>
+                                <li><a class="dropdown-item" href="mt5-hosting-whitelabel.php">MT5 Hosting</a></li>
+                                <li><a class="dropdown-item" href="match-trader-whitelabel.php">Match Trader</a>
                                 </li>
-                                <li><a class="dropdown-item" href="vertexfx-whitelabel.html">VertexFX</a></li>
-                                <li><a class="dropdown-item" href="wow-trader-whitelabel.html">Wow Trader</a></li>
-                                <li><a class="dropdown-item" href="broker-setup-guide.html">Broker Setup Guide</a>
+                                <li><a class="dropdown-item" href="vertexfx-whitelabel.php">VertexFX</a></li>
+                                <li><a class="dropdown-item" href="wow-trader-whitelabel.php">Wow Trader</a></li>
+                                <li><a class="dropdown-item" href="broker-setup-guide.php">Broker Setup Guide</a>
                                 </li>
-                                <li><a class="dropdown-item" href="forex-brokerage-calculator.html">Brokerage Calculator</a>
+                                <li><a class="dropdown-item" href="forex-brokerage-calculator.php">Brokerage Calculator</a>
                                 </li>
                             </ul>
                         </li>
@@ -126,10 +123,10 @@
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Prop
                                 Platforms</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="match-trader-prop-trading.html">Match Trader</a>
+                                <li><a class="dropdown-item" href="match-trader-prop-trading.php">Match Trader</a>
                                 </li>
-                                <li><a class="dropdown-item" href="wow-trader-prop-trading.html">Wow Trader</a></li>
-                                <li><a class="dropdown-item" href="turn-key-solution.html">Turnkey solution</a></li>
+                                <li><a class="dropdown-item" href="wow-trader-prop-trading.php">Wow Trader</a></li>
+                                <li><a class="dropdown-item" href="turn-key-solution.php">Turnkey solution</a></li>
                             </ul>
                         </li>
 
@@ -137,31 +134,31 @@
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Broker
                                 License</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="labuan.html">Labuan</a></li>
-                                <li><a class="dropdown-item" href="mauritius.html">Mauritius
+                                <li><a class="dropdown-item" href="labuan.php">Labuan</a></li>
+                                <li><a class="dropdown-item" href="mauritius.php">Mauritius
                                     </a></li>
-                                  <li><a class="dropdown-item" href="Broker License - St Lucia.html">Broker License-St Lucia
+                                  <li><a class="dropdown-item" href="Broker License - St Lucia.php">Broker License-St Lucia
                                         </a></li>
-                                <li><a class="dropdown-item" href="seychelles.html">Seychelles
+                                <li><a class="dropdown-item" href="seychelles.php">Seychelles
                                     </a></li>
-                                <li><a class="dropdown-item" href="vanuatu.html">Vanuatu
+                                <li><a class="dropdown-item" href="vanuatu.php">Vanuatu
                                     </a></li>
                             </ul>
                         </li>
 
-                        <li class="nav-item"><a class="nav-link" href="pricing.html">Pricing</a></li>
+                        <li class="nav-item"><a class="nav-link" href="pricing.php">Pricing</a></li>
 
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">OutSource</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="customer-care-outsourcing-fxbroker.html">Customer
+                                <li><a class="dropdown-item" href="customer-care-outsourcing-fxbroker.php">Customer
                                         Care</a></li>
-                                <li><a class="dropdown-item" href="tech-support-outsourcing.html">Tech Support</a>
+                                <li><a class="dropdown-item" href="tech-support-outsourcing.php">Tech Support</a>
                                 </li>
-                                <li><a class="dropdown-item" href="live-chat-emails.html">Live Chat & Emails</a>
+                                <li><a class="dropdown-item" href="live-chat-emails.php">Live Chat & Emails</a>
                                 </li>
-                                <li><a class="dropdown-item" href="kyc-reporting.html">KYC & Reporting</a></li>
-                                <li><a class="dropdown-item" href="server-management.html">Server Management</a>
+                                <li><a class="dropdown-item" href="kyc-reporting.php">KYC & Reporting</a></li>
+                                <li><a class="dropdown-item" href="server-management.php">Server Management</a>
                                 </li>
                             </ul>
                         </li>
@@ -169,13 +166,13 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Digital</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="marketing.html">Marketing</a></li>
-                                <li><a class="dropdown-item" href="web-development.html">Web Development</a></li>
-                                <li><a class="dropdown-item" href="code-devops.html">Code DevOps</a></li>
+                                <li><a class="dropdown-item" href="marketing.php">Marketing</a></li>
+                                <li><a class="dropdown-item" href="web-development.php">Web Development</a></li>
+                                <li><a class="dropdown-item" href="code-devops.php">Code DevOps</a></li>
                             </ul>
                         </li>
 
-                        <li class="nav-item"><a class="nav-link" href="contact-us.html">Contact Us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact Us</a></li>
                     </ul>
                 </div>
             </div>
