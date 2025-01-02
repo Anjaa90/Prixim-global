@@ -1,7 +1,4 @@
 User-agent: *
-Disallow: / wp-admin/
-Disallow: /search
-Disallow: /category/
-Disallow: /tag/
-Allow:/
+Disallow: 
+Disallow: /cgi-bin/
 Sitemap: https://priximglobal.com/sitemap.xml

@@ -1,6 +1,8 @@
+
+
 <?php
 if (isset($_POST['email'])) {
-    $email_to = "sales@priximglobal.com";
+    $email_to = "sales@priximglobal.com, javed@priximglobal.com";
     $email_subject = "PriximGlobal Contact Form";
 
     // Function to show errors and stop script execution
@@ -18,10 +20,10 @@ if (isset($_POST['email'])) {
     }
 
     // Sanitize input data
-    $name = $_POST['name'];
-    $email = $_POST['email'];
-    $phone_number = $_POST['phone_number'];
-    $message = $_POST['message'];
+    $name = htmlspecialchars($_POST['name']);
+    $email = htmlspecialchars($_POST['email']);
+    $phone_number = htmlspecialchars($_POST['phone_number']);
+    $message = htmlspecialchars($_POST['message']);
     $ip = $_SERVER['REMOTE_ADDR']; // Get the user's IP address
 
     // Clean strings to avoid injection
@@ -41,7 +43,8 @@ if (isset($_POST['email'])) {
     // Email headers
     $headers = 'From: noreply@priximglobal.com' . "\r\n" .
                'Reply-To: ' . $email . "\r\n" .
-               'X-Mailer: PHP/' . phpversion();
+               'X-Mailer: PHP/' . phpversion() . "\r\n" .
+               'Content-Type: text/plain; charset=UTF-8';
 
     // Send the email
     if (@mail($email_to, $email_subject, $email_message, $headers)) {

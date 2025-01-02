@@ -242,7 +242,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
               <div class="hero-img vertical-animation">
-                <img src="assets\img\sirix\Fx platforms sirix first image.png" alt="Outsource Sirix" loading="lazy">
+                <img src="assets\img\sirix\Fx platforms sirix first image.png" alt="Prixim Global offers multi-asset Sirix platform for Brokerage Business" loading="lazy">
               </div>
             </div>
           </div>
@@ -308,7 +308,7 @@
         <div class="row">
           <!-- Image Column (Now on the Left) -->
           <div class="col-lg-6">
-            <img src="assets\img\sirix\bulb.png" class="img-fluid" alt="Benefits Image" loading="lazy"
+            <img src="assets\img\sirix\bulb.png" class="img-fluid" alt="SIRIX Platform Benefits" loading="lazy"
               style="padding-top:50px;">
           </div>
 
@@ -400,7 +400,7 @@
             <div class="about-right">
               <div class="about-img vertical-animation"><img
                   src="assets\img\forex\fx platform - Sirix -  Why Choose Sirix with Prixim Global.png"
-                  alt="ISO 9001 Certification" loading="lazy"></div>
+                  alt="Choose Sirix with Prixim Global" loading="lazy"></div>
             </div>
           </div>
         </div>
@@ -749,289 +749,237 @@
 
 
     <footer class="footer-area">
-
-      <!--floating button -->
       <div class="floating-button">
-        <div class="text-bubble">
-          Say Hello to Prixim Global<br> How may I help you?
-        </div>
-        <a href="https://wa.me/971544335310 " class="whatsapp-button">
-          <img src="assets/img/icon/whatsapp.webp" alt="WhatsApp" loading="lazy">
-        </a>
+          <div class="text-bubble">
+              Say Hello to Prixim Global<br> How may I help you?
+          </div>
+          <a href="https://wa.me/971544335310 " class="whatsapp-button">
+              <img src="assets/img/icon/whatsapp.webp" alt="WhatsApp" loading="lazy">
+          </a>
       </div>
-
       <script src="script.js"></script>
-
-
-
       <style>
-        .floating-button {
-          position: fixed;
-          bottom: 90px;
-          right: 20px;
-          display: flex;
-          align-items: center;
-          gap: 10px;
-          z-index: 9999;
-          /* Very high value to ensure it stays above other elements */
-        }
-
-        .text-bubble {
-          background-color: white;
-          border-radius: 10px;
-          padding: 10px;
-          box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-          opacity: 0;
-          transform: translateX(20px);
-          animation: fadeInText 1s forwards;
-          animation-delay: 0.5s;
-          font-size: 14px;
-        }
-
-        @keyframes fadeInText {
-          0% {
-            opacity: 0;
-            transform: translateX(20px);
+          .floating-button {
+              position: fixed;
+              bottom: 90px;
+              right: 20px;
+              display: flex;
+              align-items: center;
+              gap: 10px;
+              z-index: 9999;
+              /* Very high value to ensure it stays above other elements */
           }
 
-          100% {
-            opacity: 1;
-            transform: translateX(0);
+          .text-bubble {
+              background-color: white;
+              border-radius: 10px;
+              padding: 10px;
+              box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+              opacity: 0;
+              transform: translateX(20px);
+              animation: fadeInText 1s forwards;
+              animation-delay: 0.5s;
+              font-size: 14px;
           }
-        }
 
-        .whatsapp-button {
-          background-color: #25D366;
-          border-radius: 50%;
-          padding: 15px;
-          box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-        }
+          @keyframes fadeInText {
+              0% {
+                  opacity: 0;
+                  transform: translateX(20px);
+              }
 
-        .whatsapp-button img {
-          width: 30px;
-          height: 30px;
-        }
+              100% {
+                  opacity: 1;
+                  transform: translateX(0);
+              }
+          }
+
+          .whatsapp-button {
+              background-color: #25D366;
+              border-radius: 50%;
+              padding: 15px;
+              box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+          }
+
+          .whatsapp-button img {
+              width: 30px;
+              height: 30px;
+          }
       </style>
-
-      <!---telegram floating button-->
-      <style>
-        .telegram-float {
-          position: fixed;
-          bottom: 100px;
-          right: 20px;
-          z-index: 1000;
-        }
-
-        .telegram-icon {
-          width: 60px;
-          height: 60px;
-          border-radius: 50%;
-          background-color: #0088cc;
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          animation-name: pulse;
-          animation-duration: 1.5s;
-          animation-timing-function: ease-out;
-          animation-iteration-count: infinite;
-        }
-
-        @keyframes pulse {
-          0% {
-            box-shadow: 0 0 0 0 rgba(0, 136, 204, 0.5);
-          }
-
-          80% {
-            box-shadow: 0 0 0 14px rgba(0, 136, 204, 0);
-          }
-        }
-
-        .telegram-icon svg {
-          fill: #fff;
-          width: 30px;
-          height: 30px;
-        }
-      </style>
-
+     
       <div class="footer-widget">
-        <div class="container">
-          <div class="footer-top pt-40 pb-40">
-            <div class="footer-newsletter">
-
-              <div class="col-md-12">
-                <div class="footer-newsletter-content">
-                  <img src="assets/img/partner/DUNS img.jpeg" style="border-radius: 50%; justify-content: center;"
-                    alt="" class="img1" loading="lazy" />
-                  <img src="assets/img/partner/iso27001.webp" alt="" class="img1" loading="lazy" />
-                  <img src="assets/img/partner/iso9001.webp" alt="" class="img1" loading="lazy" />
-                  <img src="assets/img/partner/maccia.webp" alt="" class="img1" loading="lazy" />
-                  <img src="assets/img/partner/nasscom.webp" alt="" class="img1" loading="lazy" />
-                </div>
+          <div class="container">
+              <div class="footer-top pt-40 pb-40">
+                  <div class="footer-newsletter">
+                      <div class="col-md-12">
+                          <div class="footer-newsletter-content">
+                              <img src="assets/img/partner/DUNS img.jpeg"
+                                  style="border-radius: 50%; justify-content: center;" alt="" class="img1"
+                                  loading="lazy" />
+                              <img src="assets/img/partner/iso27001.webp" alt="" class="img1" loading="lazy" />
+                              <img src="assets/img/partner/iso9001.webp" alt="" class="img1" loading="lazy" />
+                              <img src="assets/img/partner/maccia.webp" alt="" class="img1" loading="lazy" />
+                              <img src="assets/img/partner/nasscom.webp" alt="" class="img1" loading="lazy" />
+                          </div>
+                      </div>
+                  </div>
               </div>
+              <div class="row footer-widget-wrapper pt-100">
+                  <div class="col-md-6 col-lg-3">
+                      <div class="footer-widget-box about-us"><a href="#" class="footer-logo"><img
+                                  src="assets/img/logo/logo.webp" alt="" style="height: 64px; width: 272px"
+                                  aria-label="logo" loading="lazy" /></a>
+                          <p class="mb-3">Prixim Global is a Specializes in FX Platforms Technology and BPM
+                              Outsourcing
+                              Solutions to companies around the World. </p>
+                          <ul class="footer-social">
+                              <li><a href="https://www.facebook.com/priximglobal/" aria-label="facebook"
+                                      target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                              <li><a href="https://twitter.com/prixim_global" aria-label="twitter" target="_blank"><i
+                                          class="fa-brands fa-x-twitter"></i></a></li>
+                              <li><a href="https://www.linkedin.com/company/prixim-global-private-limited/"
+                                      aria-label="linkedin" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                              </li>
+                              <li><a href="https://www.instagram.com/prixim_global/" aria-label="instagram"
+                                      target="_blank"><i class="fab fa-instagram"></i></a></li>
+                              <li><a href="https://join.skype.com/invite/xraWIPh4p9eP" aria-label="skype"
+                                      target="_blank"><i class="fab fa-skype"></i></a></li>
+                          </ul>
+                      </div>
+                  </div>
+                  <div class="col-md-6 col-lg-3">
+                      <div class="footer-widget-box list">
+                          <h3 class="footer-widget-title">Know Us</h3>
+                          <ul class="footer-list">
+                              <li><a href="infrastructure.html"><i class="far fa-caret-right"></i>Infrastructure</a>
+                              </li>
+                              <li><a href="our-clients.html"><i class="far fa-caret-right"></i>Our Clients</a></li>
+                              <li><a href="our-certification.html"><i class="far fa-caret-right"></i>Our
+                                      Certification</a></li>
+                              <li><a href="our-expertise.html"><i class="far fa-caret-right"></i>Our Expertise</a>
+                              </li>
+                          </ul>
+                      </div>
+                  </div>
+                  <div class="col-md-6 col-lg-3">
+                      <div class="footer-widget-box list">
+                          <h3 class="footer-widget-title">FX Platforms</h3>
+                          <ul class="footer-list">
+                              <li><a href="mt5-hosting-whitelabel.html"><i class="far fa-caret-right"></i>MT5
+                                      Hosting</a></li>
+                              <li><a href="match-trader-whitelabel.html"><i class="far fa-caret-right"></i>Match
+                                      Trader</a></li>
+                              <li><a href="vertexfx-whitelabel.html"><i class="far fa-caret-right"></i>VertexFX</a>
+                              </li>
+                              <li><a href="wow-trader-whitelabel.html"><i class="far fa-caret-right"></i>Wow
+                                      Trader</a></li>
+                              <li><a href="broker-setup-guide.html"><i class="far fa-caret-right"></i>Broker Setup
+                                      Guide </a></li>
+                              <li><a href="forex-brokerage-calculator.html"><i class="far fa-caret-right"></i>Brokerage Calculator</a></li>
 
-            </div>
+                          </ul>
+                      </div>
+                  </div>
+                  <div class="col-md-6 col-lg-3">
+                      <div class="footer-widget-box list">
+                          <h3 class="footer-widget-title">Broker License
+                          </h3>
+                          <ul class="footer-list">
+                              <li><a href="labuan.html"><i class="far fa-caret-right"></i>Labuan</a></li>
+                              <li><a href="mauritius.html"><i class="far fa-caret-right"></i>Mauritius</a></li>
+                                <li><a class="dropdown-item" href="Broker License - St Lucia.html">Broker License-St Lucia
+                                        </a></li>
+                                  <li><a href="seychelles.html"><i class="far fa-caret-right"></i>Seychelles</a>
+                                      <li><a href="vanuatu.html"><i class="far fa-caret-right"></i>Vanuatu</a>
+                          </ul>
+                      </div>
+                  </div>
+                 
+                  <div class="col-md-6 col-lg-3">
+                      <div class="footer-widget-box list">
+                          <h3 class="footer-widget-title">Outsource</h3>
+                          <ul class="footer-list">
+                              <li><a href="customer-care-outsourcing-fxbroker.html"><i
+                                          class="far fa-caret-right"></i>Customer Care</a></li>
+                              <li><a href="tech-support-outsourcing.html"><i class="far fa-caret-right"></i>Tech
+                                      Support</a></li>
+                              <li><a href="live-chat-emails.html"><i class="far fa-caret-right"></i>Live Chat &
+                                      Emails</a></li>
+                              <li><a href="kyc-reporting.html"><i class="far fa-caret-right"></i>KYC & Reporting</a>
+                              </li>
+                              <li><a href="server-management.html"><i class="far fa-caret-right"></i>Server
+                                      Management</a></li>
+                          </ul>
+                      </div>
+                  </div>
+                  <div class="col-md-6 col-lg-3">
+                      <div class="footer-widget-box list">
+                          <h3 class="footer-widget-title">Digital</h3>
+                          <ul class="footer-list">
+                              <li><a href="marketing.html"><i class="far fa-caret-right"></i>Marketing</a></li>
+                              <li><a href="web-development.html"><i class="far fa-caret-right"></i>Web Development</a>
+                              </li>
+                              <li><a href="code-devops.html"><i class="far fa-caret-right"></i>Code DevOps</a></li>
+                          </ul>
+                      </div>
+                  </div>
+                  <div class="col-md-6 col-lg-3">
+                      <div class="footer-widget-box list">
+                          <h3 class="footer-widget-title"><a href="match-trader-prop-trading.html" style="color: #fff;"><i class="far fa-caret-right"></i>Pricing
+                              </a></h3>
+                          
+                      </div>
+                  </div>
+              </div>
+              <div class="row footer-widget-wrapper pt-20 pb-70">
+                  <div class="disclaimer-div">
+                      <p><b>Disclaimer : </b>Prixim Global is a company registered in India and other companies
+                          bearing the Prixim Global brand, intellectual property and trademark are registered in their
+                          respective jurisdictions. Prixim Global offers CX, outsourcing and software development
+                          services and is therefore not subject to any regulatory requirements. Prixim Global is not a
+                          broker and does not hold client funds. Prixim Global is a software, outsourcing and
+                          integration company and does not provide financial, stock exchange, investment or consulting
+                          services. Prixim Global does not provide any financial or other services advertised on this
+                          website and does not trade crypto currencies. <br /><br />This website serves as a common
+                          showcase for the marketing services of various products/ services/ affiliate companies that
+                          operate under their local law and have the appropriate licenses and permits for the services
+                          offered to B2B Clients. All the Contractual Nature of assignments with Prixim Global are
+                          subjected to NDA, SLA, KYC and Invoicings. <br /><br />Please carefully study the documents
+                          posted on this website: Legal information and Disclaimers, Privacy Policy, Cookie Policy and
+                          Website Summary. These documents are available only in English. You acknowledge that you
+                          know the English language at a sufficient level to understand the text of these documents.
+                          <br /><br />Prixim Global and its affiliates does not holds any copyright infringement
+                          intents. All the logo or Intellectual propery names mentioned on the website (if any) belong
+                          to their original owner and jurisdictions.
+                      </p><br />
+                      <p>Copyright 2017-2023 © Prixim Global, Office F-09, Nano Wing, Vashi Fantasia Business Park,
+                          Sector 30A, Vashi, Navi Mumbai 400703, Maharashtra, India <br /><br />All Rights Reserved.
+                      </p>
+                  </div>
+              </div>
           </div>
-
-
-          <div class="row footer-widget-wrapper pt-100">
-            <div class="col-md-6 col-lg-3">
-              <div class="footer-widget-box about-us"><a href="#" class="footer-logo"><img
-                    src="assets/img/logo/logo.webp" alt="" style="height: 64px; width: 272px" aria-label="logo"
-                    loading="lazy" /></a>
-                <p class="mb-3">Prixim Global is a Specializes in FX Platforms Technology and BPM
-                  Outsourcing
-                  Solutions to companies around the World. </p>
-                <ul class="footer-social">
-                  <li><a href="https://www.facebook.com/priximglobal/" aria-label="facebook" target="_blank"><i
-                        class="fab fa-facebook-f"></i></a></li>
-                  <li><a href="https://twitter.com/prixim_global" aria-label="twitter" target="_blank"><i
-                        class="fa-brands fa-x-twitter"></i></a></li>
-                  <li><a href="https://www.linkedin.com/company/prixim-global-private-limited/" aria-label="linkedin"
-                      target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                  </li>
-                  <li><a href="https://www.instagram.com/prixim_global/" aria-label="instagram" target="_blank"><i
-                        class="fab fa-instagram"></i></a></li>
-                  <li><a href="https://join.skype.com/invite/xraWIPh4p9eP" aria-label="skype" target="_blank"><i
-                        class="fab fa-skype"></i></a></li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-md-6 col-lg-3">
-              <div class="footer-widget-box list">
-                <h3 class="footer-widget-title">Know Us</h3>
-                <ul class="footer-list">
-                  <!-- <li><a href="#"><i class="far fa-caret-right"></i></a></li> -->
-                  <li><a href="infrastructure.html"><i class="far fa-caret-right"></i>Infrastructure</a>
-                  </li>
-                  <li><a href="our-clients.html"><i class="far fa-caret-right"></i>Our Clients</a></li>
-                  <li><a href="our-certification.html"><i class="far fa-caret-right"></i>Our
-                      Certification</a></li>
-                  <li><a href="our-expertise.html"><i class="far fa-caret-right"></i>Our Expertise</a>
-                  </li>
-                  <!-- <li><a href="our-brands.html"><i class="far fa-caret-right"></i>Our Brands</a></li>
-         <li><a href="#"><i class="far fa-caret-right"></i>Careers</a></li> -->
-                </ul>
-              </div>
-            </div>
-
-            <div class="col-md-6 col-lg-3">
-              <div class="footer-widget-box list">
-                <h3 class="footer-widget-title">FX Platforms</h3>
-                <ul class="footer-list">
-                  <li><a href="mt5-hosting-whitelabel.html"><i class="far fa-caret-right"></i>MT5 Hosting</a></li>
-                  <li><a href="match-trader-whitelabel.html"><i class="far fa-caret-right"></i>Match Trader</a></li>
-                  <li><a href="vertexfx-whitelabel.html"><i class="far fa-caret-right"></i>VertexFX</a></li>
-                  <li><a href="wow-trader-whitelabel.html"><i class="far fa-caret-right"></i>Wow Trader</a></li>
-                  <li><a href="broker-setup-guide.html"><i class="far fa-caret-right"></i>Broker Setup Guide</a></li>
-                  <li><a href="forex-brokerage-calculator.html"><i class="far fa-caret-right"></i>Brokerage Calculator</a></li>
-                  <li><a href="sirix-whitelabel.html"><i class="far fa-caret-right"></i>Sirix (Leverate)</a></li>
-
-                </ul>
-              </div>
-            </div>
-
-            <div class="col-md-6 col-lg-3">
-              <div class="footer-widget-box list">
-                <h3 class="footer-widget-title">Prop Platforms</h3>
-                <ul class="footer-list">
-                  <li><a href="match-trader-prop-trading.html"><i class="far fa-caret-right"></i>Match
-                      Trader</a>
-                  </li>
-                  <li><a href="wow-trader-prop-trading.html"><i class="far fa-caret-right"></i>Wow
-                      Trader</a></li>
-                  <li><a href="turn-key-solution.html"><i class="far fa-caret-right"></i>Turnkey Solution</a>
-                </ul>
-              </div>
-            </div>
-
-            <div class="col-md-6 col-lg-3">
-              <div class="footer-widget-box list">
-                <h3 class="footer-widget-title">Outsource</h3>
-                <ul class="footer-list">
-                  <li><a href="customer-care-outsourcing-fxbroker.html"><i class="far fa-caret-right"></i>Customer
-                      Care</a>
-                  </li>
-                  <li><a href="tech-support-outsourcing.html"><i class="far fa-caret-right"></i>Tech Support</a></li>
-                  <li><a href="live-chat-emails.html"><i class="far fa-caret-right"></i>Live Chat &
-                      Emails</a>
-                  </li>
-                  <li><a href="kyc-reporting.html"><i class="far fa-caret-right"></i>KYC & Reporting</a>
-                  </li>
-                  <li><a href="server-management.html"><i class="far fa-caret-right"></i>Server Management
-                    </a></li>
-                  <li>
-
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-md-6 col-lg-3">
-              <div class="footer-widget-box list">
-                <h3 class="footer-widget-title">Digital</h3>
-                <ul class="footer-list">
-                  <!-- <li><a href="contents.html"><i class="far fa-caret-right"></i>Contents</a></li> -->
-                  <li><a href="marketing.html"><i class="far fa-caret-right"></i>Marketing</a></li>
-                  <li><a href="web-development.html"><i class="far fa-caret-right"></i>Web Development</a>
-                  <li><a href="code-devops.html"><i class="far fa-caret-right"></i>Code DevOps</a></li>
-
-                  </li>
-                </ul>
-              </div>
-
-            </div>
-
-
-          </div>
-
-
-          <div class="row footer-widget-wrapper pt-20 pb-70">
-
-            <div class="disclaimer-div">
-              <p style="font-size: small;"><b>Disclaimer : </b>Prixim Global is a company registered in India and other
-                companies
-                bearing the Prixim Global brand, intellectual property and trademark are registered in their
-                respective jurisdictions. Prixim Global offers CX, outsourcing and software development
-                services and is therefore not subject to any regulatory requirements. Prixim Global is not a
-                broker and does not hold client funds. Prixim Global is a software, outsourcing and
-                integration company and does not provide financial, stock exchange, investment or consulting
-                services. Prixim Global does not provide any financial or other services advertised on this
-                website and does not trade crypto currencies. <br /><br />This website serves as a common
-                showcase for the marketing services of various products/ services/ affiliate companies that
-                operate under their local law and have the appropriate licenses and permits for the services
-                offered to B2B Clients. All the Contractual Nature of assignments with Prixim Global are
-                subjected to NDA, SLA, KYC and Invoicings. <br /><br />Please carefully study the documents
-                posted on this website: Legal information and Disclaimers, Privacy Policy, Cookie Policy and
-                Website Summary. These documents are available only in English. You acknowledge that you
-                know the English language at a sufficient level to understand the text of these documents.
-                <br /><br />Prixim Global and its affiliates does not holds any copyright infringement
-                intents. All the logo or Intellectual propery names mentioned on the website (if any) belong
-                to their original owner and jurisdictions.
-              </p><br />
-              <p>Copyright 2017-2024 © Prixim Global, Office 71-75, Shelton Street, Covent Garden, London,
-                WC2H 9JQ Ltd <br/><br />All Rights Reserved.
-            </p>
-            </div>
-          </div>
-        </div>
       </div>
       <div class="copyright">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-4">
-
-            </div>
-            <div class="col-lg-8 align-self-center">
-              <ul class="copyright-list">
-                <li><a href="terms-of-use.html">Terms of Use</a></li>
-                <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                <li><a href="gdpr-compliances.html">GDPR Compliances</a></li>
-                <li><a href="disclaimer.html">Disclaimer</a></li>
-              </ul>
-            </div>
+          <div class="container">
+              <div class="row">
+                  <div class="col-lg-4">
+                      <a href="//www.dmca.com/Protection/Status.aspx?ID=b09c909e-1592-4ec0-9398-8803fbb34c53"
+                          title="DMCA.com Protection Status" class="dmca-badge"> <img
+                              src="https://images.dmca.com/Badges/DMCA_logo-std-btn140w.png?ID=b09c909e-1592-4ec0-9398-8803fbb34c53"
+                              alt="DMCA.com Protection Status" loading="lazy" /></a>
+                  </div>
+                  <div class="col-lg-8 align-self-center">
+                      <ul class="copyright-list">
+                          <li><a href="terms-of-use.html">Terms of Use</a></li>
+                          <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                          <li><a href="gdpr-compliances.html">GDPR Compliances</a></li>
+                          <li><a href="disclaimer.html">Disclaimer</a></li>
+                      </ul>
+                  </div>
+              </div>
           </div>
-        </div>
       </div>
-    </footer>
+  </footer>
 
     <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
     <!-- <script

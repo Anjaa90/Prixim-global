@@ -11,10 +11,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = htmlspecialchars(trim($_POST['message']));
 
     // Prepare the email
-    $to = "sales@priximglobal.com";
+    $to = "sales@priximglobal.com, javed@priximglobal.com";
     $subject = "New Inquiry from " . $name;
     $body = "You have received a new inquiry from your contact form. \n\n" .
-            "Details:\n" .
+            "Details:\n" .   
             "Name: $name\n" .
             "Email: $email\n" .
             "Phone Number: $phone_number\n" .
