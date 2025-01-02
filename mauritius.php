@@ -1,177 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="google-site-verification" content="TlcZxQVoKwJF8vMQ7PEgHn4ocwq4k9JWhXJUqDYSLkI" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mauritius Forex Broker License for Regulated & Tax-Friendly</title>
-    <meta name="description" content="Prixim Global offers Mauritius Forex Broker Licensing for a stable, tax-friendly setup. Start your brokerage under FSC regulation. Contact Us to Know More">
-    <meta name="keywords" content="">
-    <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon-01 (1).png">
-    <script src="https://kit.fontawesome.com/d9355482a9.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/all-fontawesome.min.css">
-    <link rel="stylesheet" href="assets/css/flaticon.css">
-    <link rel="stylesheet" href="assets/css/animate.min.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
-    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&amp;family=Roboto:wght@100;300;400;500;700;900&amp;display=swap">
-</head>
-
-<body>
-    <div class="preloader">
-        <div class="loader-ripple">
-            <div></div>
-            <div></div>
-        </div>
-    </div>
-    <div class="top-header">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-md-12 col-sm-12">
-                    <div class="contact-details">
-                        <ul>
-                            <li><img src="assets/img/icon/mail.png" alt="" loading="lazy"><a
-                                    href="mailto:sales@priximglobal.com">sales@priximglobal.com</a></li>
-                            <li><img src="assets/img/icon/phone-call.webp" alt="united kingdom" loading="lazy" /><a
-                                    href="tel:+44 20 36952310">+44 20 36952310</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3">
-                    <div class="footer-widget-box about-us">
-
-                        <ul class="footer-social" style="margin-top: 15px; justify-content: flex-end;">
-                            <li><a href="https://www.facebook.com/priximglobal/" aria-label="facebook"
-                                    target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="https://twitter.com/prixim_global" aria-label="twitter" target="_blank"><i
-                                        class="fa-brands fa-x-twitter"></i></a></li>
-                            <li><a href="https://www.linkedin.com/company/prixim-global-private-limited/"
-                                    aria-label="linkedin" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                            </li>
-                            <li><a href="https://www.instagram.com/prixim_global/" aria-label="instagram"
-                                    target="_blank"><i class="fab fa-instagram"></i></a></li>
-                            <li><a href="https://join.skype.com/invite/xraWIPh4p9eP" aria-label="skype"
-                                    target="_blank"><i class="fab fa-skype"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <header class="header">
-        <div class="main-navigation">
-            <nav class="navbar navbar-expand-lg">
-                <div class="container-fluid">
-                    <!-- Changed from max-width to container-fluid to remove any extra space -->
-                    <a class="navbar-brand" href="index.html">
-                        <img src="assets/img/logo/logo.webp" alt="logo" loading="lazy" />
-                    </a>
-                    <div class="mobile-menu-right">
-                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#main_nav" aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-btn-icon"><i class="far fa-bars"></i></span>
-                        </button>
-                    </div>
-                    <div class="collapse navbar-collapse" id="main_nav">
-                        <ul class="navbar-nav">
-                            <li class="nav-item"><a class="nav-link active" href="index.html">Home</a></li>
-
-                            <!-- New Tab Example -->
-                            <!----  <li class="nav-item"><a class="nav-link" href="new-tab.html">New Tab</a></li>  --->
-
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Know Us</a>
-                                <ul class="dropdown-menu fade-down">
-                                    <li><a class="dropdown-item" href="infrastructure.html">Infrastructure</a></li>
-                                    <li><a class="dropdown-item" href="our-clients.html">Our Clients</a></li>
-                                    <li><a class="dropdown-item" href="our-certification.html">Our Certification</a>
-                                    </li>
-                                    <li><a class="dropdown-item" href="our-expertise.html">Our Expertise</a></li>
-                                </ul>
-                            </li>
-
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">FX Platforms</a>
-                                <ul class="dropdown-menu fade-down">
-                                    <li><a class="dropdown-item" href="mt5-hosting-whitelabel.html">MT5 Hosting</a></li>
-                                    <li><a class="dropdown-item" href="match-trader-whitelabel.html">Match Trader</a>
-                                    </li>
-                                    <li><a class="dropdown-item" href="vertexfx-whitelabel.html">VertexFX</a></li>
-                                    <li><a class="dropdown-item" href="wow-trader-whitelabel.html">Wow Trader</a></li>
-                                    <li><a class="dropdown-item" href="broker-setup-guide.html">Broker Setup Guide</a>
-                                    </li>
-                                    <li><a class="dropdown-item" href="forex-brokerage-calculator.html">Brokerage Calculator</a>
-                                    </li>
-                                </ul>
-                            </li>
-
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Prop
-                                    Platforms</a>
-                                <ul class="dropdown-menu fade-down">
-                                    <li><a class="dropdown-item" href="match-trader-prop-trading.html">Match Trader</a>
-                                    </li>
-                                    <li><a class="dropdown-item" href="wow-trader-prop-trading.html">Wow Trader</a></li>
-                                    <li><a class="dropdown-item" href="turn-key-solution.html">Turnkey solution</a></li>
-                                </ul>
-                            </li>
-
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Broker
-                                    License</a>
-                                <ul class="dropdown-menu fade-down">
-                                    <li><a class="dropdown-item" href="labuan.html">Labuan</a></li>
-                                    <li><a class="dropdown-item" href="mauritius.html">Mauritius
-                                        </a></li>
-                                      <li><a class="dropdown-item" href="Broker License - St Lucia.html">Broker License-St Lucia
-                                        </a></li>
-                                    <li><a class="dropdown-item" href="seychelles.html">Seychelles
-                                        </a></li>
-                                    <li><a class="dropdown-item" href="vanuatu.html">Vanuatu
-                                        </a></li>
-                                </ul>
-                            </li>
-
-                            <li class="nav-item"><a class="nav-link" href="pricing.html">Pricing</a></li>
-
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">OutSource</a>
-                                <ul class="dropdown-menu fade-down">
-                                    <li><a class="dropdown-item" href="customer-care-outsourcing-fxbroker.html">Customer
-                                            Care</a></li>
-                                    <li><a class="dropdown-item" href="tech-support-outsourcing.html">Tech Support</a>
-                                    </li>
-                                    <li><a class="dropdown-item" href="live-chat-emails.html">Live Chat & Emails</a>
-                                    </li>
-                                    <li><a class="dropdown-item" href="kyc-reporting.html">KYC & Reporting</a></li>
-                                    <li><a class="dropdown-item" href="server-management.html">Server Management</a>
-                                    </li>
-                                </ul>
-                            </li>
-
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Digital</a>
-                                <ul class="dropdown-menu fade-down">
-                                    <li><a class="dropdown-item" href="marketing.html">Marketing</a></li>
-                                    <li><a class="dropdown-item" href="web-development.html">Web Development</a></li>
-                                    <li><a class="dropdown-item" href="code-devops.html">Code DevOps</a></li>
-                                </ul>
-                            </li>
-
-                            <li class="nav-item"><a class="nav-link" href="contact-us.html">Contact Us</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </nav>
-        </div>
-    </header>
-
-
+<?php include ('includes/header.php');?>
 
     <main class="main">
         <div class="site-breadcrumb">
@@ -199,20 +26,12 @@
                             <div class="site-heading mb-3">
                                 <h1 class="site-title">Broker License <span>- Mauritius</span></h1>
                             </div>
-                            <div class="about-list-wrapper">
-
-                                <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Financial Growth Hub:</b>Mauritius is a fast-growing financial services destination.</li>
-                                    <li style="font-weight: 400;"><b>Tax Benefits:</b>Provides tax advantages for brokers.
-                                    </li>
-                                    <li style="font-weight: 400;"><b>FSC Regulation: </b> Governed by the Financial Services Commission (FSC).
-
-                                    </li>
-                                    <li style="font-weight: 400;"><b>Transparent & Competitive:</b>A stable, transparent platform for forex brokerage businesses.
-                                    </li>
-                                </ul>
-                            </div>
-
+                            <p class="about-text">Mauritius is a rapidly growing financial services hub located in the
+                                Indian Ocean. The jurisdiction has developed a robust financial infrastructure,
+                                attracting brokers looking for a stable regulatory environment with tax advantages.
+                                Regulated by the Financial Services Commission (FSC), Mauritius offers a transparent and
+                                competitive environment for setting up a forex brokerage.
+                            </p>
                              <!-- Button -->
                              <a href="contact-us.html" class="theme-btn" style="margin-top: 20px;">Yes, I want to incorporate</a>
 
@@ -238,7 +57,9 @@
                         <div class="process-single process-color-1">
                             <div class="icon"><span>01</span><i class="fa-thin fa-coins" aria-hidden="true"></i></div>
                             <h3 style="font-size: 22px">Tax Efficiency</h3>
-                            <p>Mauritius offers a 15% corporate tax rate with tax treaties to reduce exposure.
+                            <p>Mauritius offers a relatively low corporate tax rate of 15%, with various tax treaties
+                                available to reduce tax exposure.
+
 
                             </p>
                         </div>
@@ -248,7 +69,8 @@
                             <div class="icon"><span>02</span><i class="fa-thin fa-piggy-bank" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Strategic Location</h3>
-                            <p>Mauritius offers brokers access to both African and Asian markets.
+                            <p>Situated at the crossroads of Africa and Asia, Mauritius provides brokers with access to
+                                both emerging and developed markets
 
                             </p>
                         </div>
@@ -258,8 +80,8 @@
                             <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Strong Regulatory Framework</h3>
-                            <p>The FSC ensures brokers follow global standards, enhancing credibility.
-
+                            <p>The FSC ensures that brokers adhere to international standards of financial services,
+                                providing credibility to clients.
 
                             </p>
                         </div>
@@ -269,8 +91,7 @@
                             <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Business-Friendly</h3>
-                            <p>Mauritius offers a fast and simple setup process, perfect for new brokers.
-
+                            <p>Mauritius has an easy and quick setup process, making it ideal for new brokers.
 
 
                             </p>
@@ -281,8 +102,7 @@
                             <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Highly Skilled Workforce</h3>
-                            <p>Mauritius boasts a growing workforce of skilled professionals in finance and technology.
-
+                            <p>The country has a growing pool of skilled professionals in finance and technology.
 
                             </p>
                         </div>
@@ -301,19 +121,14 @@
                                     <span>Overview </span>
                                 </h2>
                             </div>
-                            <div class="about-list-wrapper">
+                            <p>Mauritius is regulated by the Financial Services Commission (FSC), which governs all
+                                financial activities, including forex and derivatives trading. The FSC enforces
+                                international standards for Anti-Money Laundering (AML), Know Your Customer (KYC), and
+                                other compliance frameworks. Licensed brokers must adhere to the FSC’s guidelines,
+                                ensuring both operational transparency and client protection.
 
-                                <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>FSC Regulation:</b> Mauritius is regulated by the Financial Services Commission (FSC).</li>
-                                    <li style="font-weight: 400;"><b>Compliance with Global Standards:</b>Enforces AML, KYC, and other compliance frameworks.
-                                    </li>
-                                    <li style="font-weight: 400;"><b>Broker Licensing: </b> Licensed brokers must follow FSC guidelines.
-                                    </li>
-                                    <li style="font-weight: 400;"><b>Transparency & Protection:</b>Ensures operational transparency and client protection.
-                                    </li>
-                                </ul>
-                            </div>
-
+                            </p>
+                            
 
                         </div>
                     </div>
