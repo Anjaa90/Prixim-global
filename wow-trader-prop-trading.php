@@ -1,28 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="google-site-verification" content="TlcZxQVoKwJF8vMQ7PEgHn4ocwq4k9JWhXJUqDYSLkI" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>
-        Launch Your Prop Trading Brokerage with WoW Trader
-    </title>
-    <meta name="description"
-        content="Start your prop trading brokerage with WoW Trader. Enjoy an intuitive platform designed for brokers and clients, making trading accessible for all skill levels.">
-    <meta name="keywords" content="">
-    <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon-01 (1).png">
-    <script src="https://kit.fontawesome.com/d9355482a9.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/all-fontawesome.min.css">
-    <link rel="stylesheet" href="assets/css/flaticon.css">
-    <link rel="stylesheet" href="assets/css/animate.min.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
-    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&amp;family=Roboto:wght@100;300;400;500;700;900&amp;display=swap">
+<?php include ('includes/header.php');?>
 
     <style>
         .item p {

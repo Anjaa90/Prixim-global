@@ -45,57 +45,7 @@
             href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&amp;family=Roboto:wght@100;300;400;500;700;900&amp;display=swap" />
     </noscript>
     <link rel="canonical" href="https://priximglobal.com/" />
-    <style>
-        .accordion-button {
-            font-size: 18px;
-        }
-
-        .service-item {
-            height: 180px;
-        }
-
-        .h-img-max-width img {
-            max-width: 700px;
-        }
-
-        @media (min-width: 768px) and (max-width: 1500px) {
-            .h-img-max-width img {
-                max-width: 100%;
-            }
-        }
-
-        .hero-title {
-            font-size: 58px;
-        }
-
-        @media all and (max-width: 700px) {
-            .service-item {
-                height: fit-content;
-            }
-
-            .hero-title {
-                font-size: 30px;
-            }
-
-            .accordion-button {
-                font-size: 14px;
-            }
-        }
-
-        @media (max-width: 991px) {
-            .hero-single {
-                padding-top: 140px;
-            }
-        }
-
-        video {
-            display: block;
-            width: 100%;
-            height: 566px;
-            z-index: -100;
-
-        }
-    </style>
+    
 </head>
 
 <body>
@@ -252,6 +202,57 @@
             </nav>
         </div>
     </header>
+    <style>
+        .accordion-button {
+            font-size: 18px;
+        }
+
+        .service-item {
+            height: 180px;
+        }
+
+        .h-img-max-width img {
+            max-width: 700px;
+        }
+
+        @media (min-width: 768px) and (max-width: 1500px) {
+            .h-img-max-width img {
+                max-width: 100%;
+            }
+        }
+
+        .hero-title {
+            font-size: 58px;
+        }
+
+        @media all and (max-width: 700px) {
+            .service-item {
+                height: fit-content;
+            }
+
+            .hero-title {
+                font-size: 30px;
+            }
+
+            .accordion-button {
+                font-size: 14px;
+            }
+        }
+
+        @media (max-width: 991px) {
+            .hero-single {
+                padding-top: 140px;
+            }
+        }
+
+        video {
+            display: block;
+            width: 100%;
+            height: 566px;
+            z-index: -100;
+
+        }
+    </style>
 
 
 
