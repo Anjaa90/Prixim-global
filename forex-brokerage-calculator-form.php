@@ -8,12 +8,6 @@
             <div class="hero-shape"><img class="hero-shape-1" src="assets/img/shape/01.png" alt="" loading="lazy"></div>
             <div class="hero-right-circles"></div>
         </div>
-
-
-
-
-
-
         <div class="contact-area">
             <div class="container">
                 <div class="row justify-content-center">
