@@ -50,13 +50,20 @@
 
         }
     </style>
-     <main class="main">
+
+
+
+    <main class="main">
         <div class="hero-section banner">
+
             <div class="hero-single custom-hero-single ">
+
                 <div class="container ">
+
                     <div class="row align-items-center">
                         <div class="col-md-6 col-lg-6">
-                            <div class="hero-content" style="position: relative; top: -50px;">
+                            <div class="hero-content" style="position: relative;
+    top: -50px;">
                                 <h6 class="hero-sub-title wow " data-wow-duration="1s" data-wow-delay=".25s">Best
                                     Customer Experience </h6>
                                 <h1 class="hero-title wow " data-wow-duration="1s" data-wow-delay=".50s">Whitelabel
@@ -73,7 +80,7 @@
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-6">
-                            <div class="hero-img  h-img-max-width"><img src="assets\img\home\Prixim _Landing  page Img .png"
+                            <div class="hero-img  h-img-max-width"><img src="assets\img\home/prixim slider image.webp"
                                     width="1000" height="800"
                                     alt="Low Cost Whitelabel solutions for forex brokerage with multiple trading platforms"
                                     /></div>

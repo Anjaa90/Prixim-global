@@ -110,6 +110,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown">FX Platforms</a>
                             <ul class="dropdown-menu fade-down">
+                            <li><a class="dropdown-item" href="turn-key-solution.php">Turnkey solution</a></li>
                                 <li><a class="dropdown-item" href="mt5-hosting-whitelabel.php">MT5 Hosting</a></li>
                                 <!-- <li><a class="dropdown-item" href="match-trader-whitelabel.php">Match Trader</a>
                                 </li> -->
@@ -118,10 +119,7 @@
                                 <li><a class="dropdown-item" href="broker-setup-guide.php">Broker Setup Guide</a>
                                 </li>
                                 <li><a class="dropdown-item" href="forex-brokerage-calculator.php">Brokerage Calculator</a>
-
                                 </li>
-                                <li><a class="dropdown-item" href="turn-key-solution.php">Turnkey solution</a></li>
-                            </ul>
                             </ul>
                         </li>
 
@@ -133,6 +131,7 @@
                                 </li>
                                 <li><a class="dropdown-item" href="wow-trader-prop-trading.php">Wow Trader</a></li>
                                 
+                            </ul>
                         </li>
 
                         <li class="nav-item dropdown">
