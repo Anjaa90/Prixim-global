@@ -174,7 +174,7 @@
                             </ul>
                         </li>
 
-                        <li class="nav-item"><a class="nav-link" href="contact-us.html">Contact Us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact Us</a></li>
                     </ul>
                 </div>
             </div>
@@ -351,7 +351,7 @@
       <div class="row align-items-center">
         <div class="col-lg-8 mx-auto">
           <div class="cta-content">
-            <h2>Best IT and BPM Solution for your business</h2><a href="contact-us.html" class="theme-btn">Contact Now
+            <h2>Best IT and BPM Solution for your business</h2><a href="contact-us.php" class="theme-btn">Contact Now
               <i class="far fa-arrow-right"></i></a>
           </div>
         </div>

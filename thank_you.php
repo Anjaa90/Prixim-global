@@ -182,7 +182,7 @@
                                     <li><a class="dropdown-item" href="edtech.html">EdTech</a></li>
                                 </ul>
                             </li> -->
-                            <li class="nav-item"><a class="nav-link" href="contact-us.html">Contact Us</a></li>
+                            <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact Us</a></li>
                             <!-- <li class="nav-item"><a class="nav-link" href="https://priximglobal.com/blogs">Blogs</a>
                             </li> -->
                         </ul>
@@ -476,7 +476,7 @@
                             <h3 class="footer-widget-title">Quick Links</h3>
                             <ul class="footer-list">
                                 <li><a href="index.html"><i class="far fa-caret-right"></i>Home</a></li>
-                                <li><a href="contact-us.html"><i class="far fa-caret-right"></i>Contact Us</a></li>
+                                <li><a href="contact-us.php"><i class="far fa-caret-right"></i>Contact Us</a></li>
                                 <!-- <li><a href="https://priximglobal.com/blogs"><i class="far fa-caret-right"></i>Blogs</a>
              </li> -->
                             </ul>

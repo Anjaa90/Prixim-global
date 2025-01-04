@@ -1,3 +1,4 @@
+<?php include ('config.php');?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,13 +7,15 @@
   <meta name="google-site-verification" content="TlcZxQVoKwJF8vMQ7PEgHn4ocwq4k9JWhXJUqDYSLkI" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
   <title>
-    <?php echo htmlspecialchars($title, ENT_QUOTES, 'UTF-8'); ?>
-</title>
-<meta name="description" 
-    content="<?php echo htmlspecialchars($description, ENT_QUOTES, 'UTF-8'); ?>">
-
+        <?php echo $title ?>
+    </title>
+  <meta name="description" content="<?php echo $description ?> " />
+    <meta name="keywords" content="<?php echo $keywords ?> " />
+  
   <script src="https://kit.fontawesome.com/d9355482a9.js" crossorigin="anonymous"></script>
+  <link rel="icon" type="image/png" sizes="56x56" href="assets\img\logo\favicon-01 (1).png">
   <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
   <link rel="stylesheet" href="assets/css/all-fontawesome.min.css" />
   <link rel="stylesheet" href="assets/css/flaticon.css" />
@@ -22,8 +25,8 @@
   <link rel="stylesheet" href="assets/css/style.css" />
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&amp;family=Roboto:wght@100;300;400;500;700;900&amp;display=swap">
-
 </head>
+
 
 <body>
   <div class="preloader">
@@ -94,7 +97,7 @@
                         <!----  <li class="nav-item"><a class="nav-link" href="new-tab.php">New Tab</a></li>  --->
 
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Know Us</a>
+                            <a class="nav-link dropdown-toggle"  data-bs-toggle="dropdown">Know Us</a>
                             <ul class="dropdown-menu fade-down">
                                 <li><a class="dropdown-item" href="infrastructure.php">Infrastructure</a></li>
                                 <li><a class="dropdown-item" href="our-clients.php">Our Clients</a></li>
@@ -105,7 +108,7 @@
                         </li>
 
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">FX Platforms</a>
+                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown">FX Platforms</a>
                             <ul class="dropdown-menu fade-down">
                                 <li><a class="dropdown-item" href="mt5-hosting-whitelabel.php">MT5 Hosting</a></li>
                                 <!-- <li><a class="dropdown-item" href="match-trader-whitelabel.php">Match Trader</a>
@@ -115,7 +118,10 @@
                                 <li><a class="dropdown-item" href="broker-setup-guide.php">Broker Setup Guide</a>
                                 </li>
                                 <li><a class="dropdown-item" href="forex-brokerage-calculator.php">Brokerage Calculator</a>
+
                                 </li>
+                                <li><a class="dropdown-item" href="turn-key-solution.php">Turnkey solution</a></li>
+                            </ul>
                             </ul>
                         </li>
 
@@ -126,15 +132,14 @@
                                 <li><a class="dropdown-item" href="match-trader-prop-trading.php">Match Trader</a>
                                 </li>
                                 <li><a class="dropdown-item" href="wow-trader-prop-trading.php">Wow Trader</a></li>
-                                <li><a class="dropdown-item" href="turn-key-solution.php">Turnkey solution</a></li>
-                            </ul>
+                                
                         </li>
 
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Broker
+                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Broker
                                 License</a>
                             <ul class="dropdown-menu fade-down">
-                            <li><a class="dropdown-item" href="St Lucia.php">St Lucia
+                            <li><a class="dropdown-item" href="St-Lucia.php">St Lucia
                             </a></li>
                             <li><a class="dropdown-item" href="comoros-islands.php">Comoros Islands
                             </a></li>

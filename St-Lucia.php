@@ -1,4 +1,4 @@
-<?php include ('includes\header.php');?>
+<?php include ('includes/header.php');?>
     <main class="main main-body">
         <div class="site-breadcrumb">
             <div class="container">
@@ -44,7 +44,7 @@
                                 </ul>
                         </div>
                         <!-- Button -->
-                        <a href="contact-us.html" class="theme-btn" style="margin-top: 20px;">Get Started Now</a>
+                        <a href="contact-us.php" class="theme-btn" style="margin-top: 20px;">Get Started Now</a>
                     </div>
                 </div>
             </div>
@@ -133,7 +133,7 @@
     
             <!-- Call to Action -->
             <div class="text-center" style="margin-top: 40px;">
-                <a href="contact-us.html" class="theme-btn" style="color: #fff; padding: 15px 30px; font-size: 1rem; text-transform: uppercase;">
+                <a href="contact-us.php" class="theme-btn" style="color: #fff; padding: 15px 30px; font-size: 1rem; text-transform: uppercase;">
                     Start Your Journey Today
                 </a>
             </div>
