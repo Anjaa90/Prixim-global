@@ -316,7 +316,7 @@
                                 </ul>
                             </li>
 
-                            <li class="nav-item"><a class="nav-link" href="contact-us.html">Contact Us</a></li>
+                            <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -1476,7 +1476,7 @@
     <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments) } gtag('js', new Date()); gtag('config', 'UA-249509848-1');
     </script>
     <script
-        type="application/ld+json">{ "@context": "https://schema.org", "@type": "Organization", "name": "Contact Us", "alternateName": "Contact Us", "url": "https://priximglobal.com/contact-us.html", "logo": "https://priximglobal.com/assets/img/logo/logo.webp", "contactPoint":{ "@type": "ContactPoint", "telephone": "+917972359229", "contactType": "customer service", "areaServed": "GB", "availableLanguage": "en"}, "sameAs": [ "https://www.facebook.com/priximglobal/", "https://twitter.com/prixim_global", "https://www.instagram.com/prixim_global/", "https://www.linkedin.com/company/prixim-global-private-limited" ]} </script>
+        type="application/ld+json">{ "@context": "https://schema.org", "@type": "Organization", "name": "Contact Us", "alternateName": "Contact Us", "url": "https://priximglobal.com/contact-us.php", "logo": "https://priximglobal.com/assets/img/logo/logo.webp", "contactPoint":{ "@type": "ContactPoint", "telephone": "+917972359229", "contactType": "customer service", "areaServed": "GB", "availableLanguage": "en"}, "sameAs": [ "https://www.facebook.com/priximglobal/", "https://twitter.com/prixim_global", "https://www.instagram.com/prixim_global/", "https://www.linkedin.com/company/prixim-global-private-limited" ]} </script>
     <script src="assets/js/jquery-3.6.0.min.js"></script>
     <script src="assets/js/modernizr.min.js"></script>
     <script src="assets/js/bootstrap.bundle.min.js"></script>

@@ -52,7 +52,7 @@ if (isset($_POST['email'])) {
         ?>
         <script language="javascript" type="text/javascript">
             alert('Thank you for the message. We will contact you shortly.');
-            window.location = 'index.html'; // Redirect to the homepage after success
+            window.location = 'index.php'; // Redirect to the homepage after success
         </script>
         <?php
     } else {

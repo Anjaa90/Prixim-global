@@ -97,26 +97,16 @@
             <div class="hero-shape"><img class="hero-shape-1" src="assets/img/shape/01.png" alt=""></div>
             <div class="hero-right-circles"></div>
         </div>
-
-
-
         <div class="about-area pt-20 pb-0">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-right">
                             <div class="site-heading mb-3">
-                                <h1 class="site-title">Helping Prop Trading Firms Grow with <span>Tailored
-                                        Solutions</span></h1>
+                                <h1 class="site-title">MT5 Turnkey Solutions by Prixim Global:<span> Start Your Forex Brokerage Business Today </span></h1>
                             </div>
                             <ul>
-                                <li>At Prixim Global, we provide tailored lead generation,
-                                    sales strategies, capital, and liquidity solutions
-                                    to help your prop trading firm thrive. Our services include merchant account
-                                    solutions, connections to key industry players, and
-                                    multilingual customer support. With cutting-edge tools and expert guidance, we
-                                    ensure your firm's reputation remains strong while you
-                                    focus on trading success.
+                                <li>Prixim Global is your trusted partner in building a successful Forex brokerage business. With our comprehensive <strong>MT5 Turnkey solutions,</strong> we simplify every step of the process, from acquiring licenses to setting up advanced trading platforms.
                                 </li>
                             </ul>
                         </div>
@@ -139,7 +129,7 @@
                 <div class="row">
                     <div class="col-lg-6 mx-auto">
                         <div class="site-heading text-center">
-                            <h2 class="site-title">Lead &amp; <span>Generation</span></h2>
+                            <h2 class="site-title">Key Features of Our <span>MT5 Turnkey Solution</span></h2>
                             <div class="heading-divider"></div>
                         </div>
                     </div>
@@ -152,8 +142,9 @@
                                     src="assets\img\pop trading\prop-trading-broker lead generation - Customized services.png"
                                     alt="Complete lead generation services for prop trading Firm"></div>
                             <div class="item blog-item-info">
-                                <h3>Customized services:</h3><br>
-                                <span> Complete lead generation services designed specifically for prop trading.</span>
+                                <h3> MT5 Full License or White Label Options</h3><br>
+                                <span> MT5 Whitelabel ,MetaTrader Main License
+                                </span>
 
                             </div>
                         </div>
@@ -165,9 +156,9 @@
                                     alt="Targeted Marketing Strategies for prop trading Firm"
                                     style="height: 230px;width:400px ;"></div>
                             <div class="item blog-item-info">
-                                <h3>Marketing Strategies:</h3><br>
-                                <span> Implement targeted marketing techniques to effectively reach and attract top
-                                    traders.</span>
+                                <h3>Forex Company Formation
+                                </h3><br>
+                                <span>Prixim Global provides step-by-step guidance, and builds trust for forex brokerage setup.</span>
 
                             </div>
                         </div>
@@ -178,9 +169,8 @@
                                     src="assets\img\pop trading\prop-trading-broker lead generation - Dedicated Support.png"
                                     alt="Dedicated Support for prop trading Firm"></div>
                             <div class="item blog-item-info">
-                                <h3>Dedicated Support:</h3><br>
-                                <span>Assistance to help you maintain a strong reputation while focusing on
-                                    trading.</span>
+                                <h3>Forex Licensing Services</h3><br>
+                                <span>Prixim Global provides step-by-step guidance, expert jurisdictional support, and helps build forex brokerage setup.</span>
 
                             </div>
                         </div>
@@ -195,8 +185,8 @@
                 <div class="row">
                     <div class="col-lg-6 mx-auto">
                         <div class="site-heading text-center">
-                            <h4><span class="site-title-tagline">Sales Strategy
-                                </span></h4>
+                            <!-- <h4><span class="site-title-tagline">Sales Strategy
+                                </span></h4> -->
 
                             <div class="heading-divider"></div>
                         </div>
@@ -207,9 +197,9 @@
                         <div class="service-item service-color-1">
                             <div class="service-icon"><i class="fa-thin fa-people-arrows"></i></div>
                             <div class="service-content">
-                                <h3 class="service-title"><a href="#">Compelling Sales Pitches</a></h3>
-                                <p class="service-text">Craft tailored pitches that resonate with your audience, driving
-                                    engagement and conversion.</p>
+                                <h3 class="service-title"><a href="#">Website and CRM Development</a></h3>
+                                <p class="service-text">Prixim Global offers custom website designs, CRM integration, and real-time analytics for your forex brokerage.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -217,9 +207,8 @@
                         <div class="service-item service-color-2">
                             <div class="service-icon"><i class="fa-thin fa-id-card"></i></div>
                             <div class="service-content">
-                                <h3 class="service-title"><a href="#">Ideal Customer Profiling</a></h3>
-                                <p class="service-text">Utilize data analysis to identify key demographics and
-                                    behaviors, allowing for a focused sales approach.
+                                <h3 class="service-title"><a href="#">PSP (Payment Service Provider) Solutions</a></h3>
+                                <p class="service-text">Prixim Global offers multi-currency gateways, secure payments, and tailored PSP solutions
                                 </p>
                             </div>
                         </div>
@@ -228,9 +217,8 @@
                         <div class="service-item service-color-3">
                             <div class="service-icon"><i class="fa-thin fa-hands-holding-dollar"></i></div>
                             <div class="service-content">
-                                <h3 class="service-title"><a href="#">Streamlined Trading Experience</a></h3>
-                                <p class="service-text">Leverage our specialized prop trading dashboard to enhance
-                                    efficiency and empower data-driven decisions.</p>
+                                <h3 class="service-title"><a href="#">Multi-Currency Corporate Bank Accounts</a></h3>
+                                <p class="service-text">Prixim Global offers secure financial operations, solutions for high-volume transactions, and global access.</p>
                             </div>
                         </div>
                     </div>
@@ -238,7 +226,7 @@
                 </div>
             </div>
         </div>
-
+<!-- 
 
 
         <div class="about-area pt-20 pb-30">
@@ -285,8 +273,8 @@
                     </div>
                 </div>
             </div>
-        </div>
-
+        </div> -->
+<!-- 
 
         <div class="blog-area pt-60">
             <div class="container-fluid">
@@ -294,7 +282,7 @@
                     <div class="col-lg-6 mx-auto">
                         <div class="site-heading text-center">
                             <h2 class="site-title">Merchant Account Solutions</span></h2>
-                            <!-- <p>The VertexFX Client Terminal is designed for ease of use, offering:</p> -->
+                             <p>The VertexFX Client Terminal is designed for ease of use, offering:</p> 
                             <div class="heading-divider"></div>
                         </div>
                     </div>
@@ -341,7 +329,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
 
         <div class="about-area pt-60 pb-0">
@@ -350,23 +338,17 @@
                     <div class="col-lg-6">
                         <div class="about-right">
                             <div class="site-heading mb-3">
-                                <h2 class="site-title">Connections & Network
+                                <h2 class="site-title">What we offer 
                                 </h2>
                             </div>
                             <ul class="about-list list-unstyled">
-                                <li style="font-weight:normal;">At Prixim Global, we empower prop trading firms by
-                                    connecting them with key industry players through our
-                                    extensive network. Our vast array of influential contacts opens doors to top brokers
-                                    and partners, giving your firm a competitive edge.
+                                <li style="font-weight:normal;">Complete FX Brokerage Setup seamless global operations
                                 </li>
-                                <li style="font-weight:normal;">With years of expertise in the prop trading sector, we
-                                    offer deep insights into the latest trends and developments,
-                                    ensuring you stay ahead. Our tailored networking solutions are designed to meet your
-                                    firm’s unique needs, and we provide ongoing support and
-                                    guidance to help you navigate the complexities of the industry. Expand your reach
-                                    and unlock new opportunities with Prixim Global.
+                                <li style="font-weight:normal;">Free 3-Month Trial for Turnkey Solutions
+                                </li>
+                                <li style="font-weight:normal;">Full Access</li>
+                                <li style="font-weight:normal;">Automatic server performance monitoring</li>
 
-                                </li>
                             </ul>
                         </div>
                     </div>
@@ -381,7 +363,7 @@
             </div>
         </div>
     </main><br>
-
+<!-- 
 
 
 
@@ -430,7 +412,7 @@
             </div>
         </div>
     </div>
-
+ -->
 
     <div class="cta-area bg pt-50 pb-50">
         <div class="cta-shape"><img class="cta-shape-2" src="assets/img/shape/04.png" alt=""></div>
@@ -438,11 +420,10 @@
             <div class="row align-items-center">
                 <div class="col-lg-8 mx-auto">
                     <div class="cta-content">
-                        <h2>Want To Open a Prop Trading Firm?
+                        <h2>Unlock Fast and Secure MT5 Turnkey Solution with Prixim Global
 
                         </h2>
-                        <p style="font-size: 18px;">Join us today and elevate your prop trading brokerage with
-                            PriximGlobal.
+                        <p style="font-size: 18px;">Contact Prixim Global to start your free trial!
 
                         </p>
                         <button class="theme-btn" onclick="toggleForm()">Get in Touch</button>
@@ -840,195 +821,4 @@
             }
         </style>
 
-        <div class="footer-widget">
-            <div class="container">
-                <div class="footer-top pt-40 pb-40">
-                    <div class="footer-newsletter">
-                        <div class="col-md-12">
-                            <div class="footer-newsletter-content">
-                                <img src="assets/img/partner/DUNS img.jpeg"
-                                    style="border-radius: 50%; justify-content: center;" alt="" class="img1"
-                                    loading="lazy" />
-                                <img src="assets/img/partner/iso27001.webp" alt="" class="img1" loading="lazy" />
-                                <img src="assets/img/partner/iso9001.webp" alt="" class="img1" loading="lazy" />
-                                <img src="assets/img/partner/maccia.webp" alt="" class="img1" loading="lazy" />
-                                <img src="assets/img/partner/nasscom.webp" alt="" class="img1" loading="lazy" />
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row footer-widget-wrapper pt-100">
-                    <div class="col-md-6 col-lg-3">
-                        <div class="footer-widget-box about-us"><a href="#" class="footer-logo"><img
-                                    src="assets/img/logo/logo.webp" alt="" style="height: 64px; width: 272px"
-                                    aria-label="logo" loading="lazy" /></a>
-                            <p class="mb-3">Prixim Global is a Specializes in FX Platforms Technology and BPM
-                                Outsourcing
-                                Solutions to companies around the World. </p>
-                            <ul class="footer-social">
-                                <li><a href="https://www.facebook.com/priximglobal/" aria-label="facebook"
-                                        target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="https://twitter.com/prixim_global" aria-label="twitter" target="_blank"><i
-                                            class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="https://www.linkedin.com/company/prixim-global-private-limited/"
-                                        aria-label="linkedin" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                                </li>
-                                <li><a href="https://www.instagram.com/prixim_global/" aria-label="instagram"
-                                        target="_blank"><i class="fab fa-instagram"></i></a></li>
-                                <li><a href="https://join.skype.com/invite/xraWIPh4p9eP" aria-label="skype"
-                                        target="_blank"><i class="fab fa-skype"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="footer-widget-box list">
-                            <h3 class="footer-widget-title">Know Us</h3>
-                            <ul class="footer-list">
-                                <li><a href="infrastructure.html"><i class="far fa-caret-right"></i>Infrastructure</a>
-                                </li>
-                                <li><a href="our-clients.html"><i class="far fa-caret-right"></i>Our Clients</a></li>
-                                <li><a href="our-certification.html"><i class="far fa-caret-right"></i>Our
-                                        Certification</a></li>
-                                <li><a href="our-expertise.html"><i class="far fa-caret-right"></i>Our Expertise</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="footer-widget-box list">
-                            <h3 class="footer-widget-title">FX Platforms</h3>
-                            <ul class="footer-list">
-                                <li><a href="mt5-hosting-whitelabel.html"><i class="far fa-caret-right"></i>MT5
-                                        Hosting</a></li>
-                                <li><a href="match-trader-whitelabel.html"><i class="far fa-caret-right"></i>Match
-                                        Trader</a></li>
-                                <li><a href="vertexfx-whitelabel.html"><i class="far fa-caret-right"></i>VertexFX</a>
-                                </li>
-                                <li><a href="wow-trader-whitelabel.html"><i class="far fa-caret-right"></i>Wow
-                                        Trader</a></li>
-                                <li><a href="broker-setup-guide.html"><i class="far fa-caret-right"></i>Broker Setup
-                                        Guide </a></li>
-                                <li><a href="forex-brokerage-calculator.html"><i class="far fa-caret-right"></i>Brokerage Calculator</a></li>
-
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="footer-widget-box list">
-                            <h3 class="footer-widget-title">Prop Platforms</h3>
-                            <ul class="footer-list">
-                                <li><a href="match-trader-prop-trading.html"><i class="far fa-caret-right"></i>Match
-                                        Trader</a></li>
-                                <li><a href="wow-trader-prop-trading.html"><i class="far fa-caret-right"></i>Wow
-                                        Trader</a></li>
-                                <li><a href="turn-key-solution.html"><i class="far fa-caret-right"></i>Turnkey
-                                        Solution</a>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="footer-widget-box list">
-                            <h3 class="footer-widget-title">Outsource</h3>
-                            <ul class="footer-list">
-                                <li><a href="customer-care-outsourcing-fxbroker.html"><i
-                                            class="far fa-caret-right"></i>Customer Care</a></li>
-                                <li><a href="tech-support-outsourcing.html"><i class="far fa-caret-right"></i>Tech
-                                        Support</a></li>
-                                <li><a href="live-chat-emails.html"><i class="far fa-caret-right"></i>Live Chat &
-                                        Emails</a></li>
-                                <li><a href="kyc-reporting.html"><i class="far fa-caret-right"></i>KYC & Reporting</a>
-                                </li>
-                                <li><a href="server-management.html"><i class="far fa-caret-right"></i>Server
-                                        Management</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="footer-widget-box list">
-                            <h3 class="footer-widget-title">Digital</h3>
-                            <ul class="footer-list">
-                                <li><a href="marketing.html"><i class="far fa-caret-right"></i>Marketing</a></li>
-                                <li><a href="web-development.html"><i class="far fa-caret-right"></i>Web Development</a>
-                                </li>
-                                <li><a href="code-devops.html"><i class="far fa-caret-right"></i>Code DevOps</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="row footer-widget-wrapper pt-20 pb-70">
-                    <div class="disclaimer-div">
-                        <p><b>Disclaimer : </b>Prixim Global is a company registered in India and other companies
-                            bearing the Prixim Global brand, intellectual property and trademark are registered in their
-                            respective jurisdictions. Prixim Global offers CX, outsourcing and software development
-                            services and is therefore not subject to any regulatory requirements. Prixim Global is not a
-                            broker and does not hold client funds. Prixim Global is a software, outsourcing and
-                            integration company and does not provide financial, stock exchange, investment or consulting
-                            services. Prixim Global does not provide any financial or other services advertised on this
-                            website and does not trade crypto currencies. <br /><br />This website serves as a common
-                            showcase for the marketing services of various products/ services/ affiliate companies that
-                            operate under their local law and have the appropriate licenses and permits for the services
-                            offered to B2B Clients. All the Contractual Nature of assignments with Prixim Global are
-                            subjected to NDA, SLA, KYC and Invoicings. <br /><br />Please carefully study the documents
-                            posted on this website: Legal information and Disclaimers, Privacy Policy, Cookie Policy and
-                            Website Summary. These documents are available only in English. You acknowledge that you
-                            know the English language at a sufficient level to understand the text of these documents.
-                            <br /><br />Prixim Global and its affiliates does not holds any copyright infringement
-                            intents. All the logo or Intellectual propery names mentioned on the website (if any) belong
-                            to their original owner and jurisdictions.
-                        </p><br />
-                        <p>Copyright 2017-2024 © Prixim Global, Office 71-75, Shelton Street, Covent Garden, London,
-                            WC2H 9JQ Ltd <br/><br />All Rights Reserved.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="copyright">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <a href="//www.dmca.com/Protection/Status.aspx?ID=b09c909e-1592-4ec0-9398-8803fbb34c53"
-                            title="DMCA.com Protection Status" class="dmca-badge"> <img
-                                src="https://images.dmca.com/Badges/DMCA_logo-std-btn140w.png?ID=b09c909e-1592-4ec0-9398-8803fbb34c53"
-                                alt="DMCA.com Protection Status" loading="lazy" /></a>
-                    </div>
-                    <div class="col-lg-8 align-self-center">
-                        <ul class="copyright-list">
-                            <li><a href="terms-of-use.html">Terms of Use</a></li>
-                            <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                            <li><a href="gdpr-compliances.html">GDPR Compliances</a></li>
-                            <li><a href="disclaimer.html">Disclaimer</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
-    <script>
-        type = "text/javascript" > $(document).ready(function () { $(".hide-text").hide(); $(document).on('click', ".showbtn", function () { var morelessbutton = $(".hide-text").is(":visible") ? 'Read More' : 'Read Less'; $(this).text(morelessbutton); $(this).parent(".box").find(".hide-text").toggle(); $(this).parent(".box").find(".show-text").toggle(); }); console.log(morelessbutton); }); </script>
-    </script>
-    <!-- <script
-        type="text/javascript"> var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date(); (function () { var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0]; s1.async = true; s1.src = 'https://embed.tawk.to/645b4eb9ad80445890ec1d03/1h02an22m'; s1.charset = 'UTF-8'; s1.setAttribute('crossorigin', '*'); s0.parentNode.insertBefore(s1, s0); })(); </script> -->
-    <a href="#" id="scroll-top"><i class="far fa-arrow-up-to-line"></i></a>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YJWLNTER06"></script>
-    <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-YJWLNTER06'); </script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-249509848-1"></script>
-    <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'UA-249509848-1'); </script>
-    <script
-        type="application/ld+json">{ "@context": "https://schema.org", "@type": "Organization", "name": "Tech Support-Sales", "alternateName": "Tech Support-Sales", "url": "https://priximglobal.com/tech-support.html", "logo": "https://priximglobal.com/assets/img/logo/logo.webp", "contactPoint":{ "@type": "ContactPoint", "telephone": "+917972359229", "contactType": "customer service", "areaServed": "GB", "availableLanguage": "en"}, "sameAs": [ "https://www.facebook.com/priximglobal/", "https://twitter.com/prixim_global", "https://www.instagram.com/prixim_global/", "https://www.linkedin.com/company/prixim-global-private-limited" ]} </script>
-    <script src="assets/js/jquery-3.6.0.min.js"></script>
-    <script src="assets/js/modernizr.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="assets/js/isotope.pkgd.min.js"></script>
-    <script src="assets/js/jquery.appear.min.js"></script>
-    <script src="assets/js/jquery.easing.min.js"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>
-    <script src="assets/js/counter-up.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/main.js"></script>
-</body>
-
-</html>
+<?php include ('includes/footer.php');?>
