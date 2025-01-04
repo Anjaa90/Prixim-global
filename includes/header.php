@@ -7,12 +7,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>
-    <?php echo $title ?>
-  </title>
-  <meta name="description"
-    content=<?php echo $description ?>>
-  <meta name="keywords"
-    content= <?php echo $keywords ?>/>
+    <?php echo htmlspecialchars($title, ENT_QUOTES, 'UTF-8'); ?>
+</title>
+<meta name="description" 
+    content="<?php echo htmlspecialchars($description, ENT_QUOTES, 'UTF-8'); ?>">
+
   <script src="https://kit.fontawesome.com/d9355482a9.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
   <link rel="stylesheet" href="assets/css/all-fontawesome.min.css" />
