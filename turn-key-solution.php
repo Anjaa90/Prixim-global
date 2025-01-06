@@ -135,7 +135,7 @@
                     </div>
                 </div>
 
-                <!-- <div class="row">
+                <div class="row">
                     <div class="col-md-6 col-lg-4">
                         <div class="wrapper blog-item">
                             <div class="blog-item-img"><img class="blog-img2"
@@ -175,20 +175,7 @@
                             </div>
                         </div>
                     </div>
-                </div> -->
-                <div class="row">
-                    <div class="">
-                        <div class="wrapper blog-item">
-                            
-                            <div class="item blog-item-info">
-                                <h3> MT5 White Label</h3><br>
-                               <p></p>
-
-                            </div>
-                        </div>
-                    </div>
                 </div>
-
             </div>
         </div>
 
@@ -355,12 +342,14 @@
                                 </h2>
                             </div>
                             <ul class="about-list list-unstyled">
-                                <li style="font-weight:normal;">Complete FX Brokerage Setup seamless global operations
+                                <li style="font-weight:normal;">Complete FX Brokerage Setup
                                 </li>
-                                <li style="font-weight:normal;">Free 3-Month Trial for Turnkey Solutions
+                                <li style="font-weight:normal;">Free 3-Month Trial for Outsource Services
                                 </li>
                                 <li style="font-weight:normal;">Full Access</li>
+                                <li style="font-weight:normal;">Seamless Upgrade</li>
                                 <li style="font-weight:normal;">Automatic server performance monitoring</li>
+                                <li style="font-weight:normal;">seamless global operations</li>
 
                             </ul>
                         </div>
@@ -436,7 +425,7 @@
                         <h2>Unlock Fast and Secure MT5 Turnkey Solution with Prixim Global
 
                         </h2>
-                        <p style="font-size: 18px;">Contact Prixim Global to start your free trial!
+                        <p style="font-size: 18px;"><strong>Contact Prixim Global</strong> to start your free trial!
 
                         </p>
                         <button class="theme-btn" onclick="toggleForm()">Get in Touch</button>
