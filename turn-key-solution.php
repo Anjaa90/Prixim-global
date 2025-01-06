@@ -135,7 +135,7 @@
                     </div>
                 </div>
 
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-md-6 col-lg-4">
                         <div class="wrapper blog-item">
                             <div class="blog-item-img"><img class="blog-img2"
@@ -175,7 +175,20 @@
                             </div>
                         </div>
                     </div>
+                </div> -->
+                <div class="row">
+                    <div class="">
+                        <div class="wrapper blog-item">
+                            
+                            <div class="item blog-item-info">
+                                <h3> MT5 White Label</h3><br>
+                               <p></p>
+
+                            </div>
+                        </div>
+                    </div>
                 </div>
+
             </div>
         </div>
 
