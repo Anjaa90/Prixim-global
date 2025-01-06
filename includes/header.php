@@ -10,7 +10,7 @@
   
   <title>
         <?php echo $title ?>
-    </title>
+  </title>
   <meta name="description" content="<?php echo $description ?> " />
     <meta name="keywords" content="<?php echo $keywords ?> " />
   
@@ -110,7 +110,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown">FX Platforms</a>
                             <ul class="dropdown-menu fade-down">
-                            <li><a class="dropdown-item" href="turn-key-solution.php">Turnkey solution</a></li>
+                            <li><a class="dropdown-item" href="turn-key-solution.php">MT5 Turnkey solution</a></li>
                                 <li><a class="dropdown-item" href="mt5-hosting-whitelabel.php">MT5 Hosting</a></li>
                                 <!-- <li><a class="dropdown-item" href="match-trader-whitelabel.php">Match Trader</a>
                                 </li> -->
