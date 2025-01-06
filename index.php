@@ -557,59 +557,83 @@
                 </div>
             </div>
         </section>
-        <section>
-            <div class="container">
-                <h2 class="title">Start Your Broker with Our Company Licensing Services</h2>
+<section>
+    <div class="container">
+        <h2 class="title text-center">Start Your Broker with Our Company Licensing Services</h2>
 
-                <div class="country-cards">
-                    <div class="country-card">
-                        <a href="labuan.html" target="_blank">
-                            <img src="assets\img\icon\download.png" alt="Labuan Logo" class="country-logo">
-                            <h3 class="country-title">Labuan (Malaysia)</h3>
-                            <p>Labuan offers a tax-friendly and well-regulated environment for forex brokers, with
-                                PriximGlobal helping you secure the necessary license.</p>
-                        </a>
-                    </div>
-
-                    <div class="country-card">
-                        <a href="mauritius.html" target="_blank">
-                            <img src="assets\img\icon\mauritius.png" alt="Mauritius Logo" class="country-logo">
-                            <h3 class="country-title">Mauritius</h3>
-                            <p>Mauritius provides a strong regulatory framework for forex brokers, and PriximGlobal can
-                                assist with obtaining an FSC license.</p>
-                        </a>
-                    </div>
-
-                    <div class="country-card">
-                        <a href="seychelles.html" target="_blank">
-                            <img src="assets\img\icon\seychellas.png" alt="Seychelles Logo" class="country-logo">
-                            <h3 class="country-title">Seychelles</h3>
-                            <p>Seychelles offers a cost-effective licensing option for forex brokers, and PriximGlobal
-                                can streamline the application process.</p>
-                        </a>
-                    </div>
-
-                    <div class="country-card">
-                        <a href="comoros-islands.html" target="_blank">
-                            <img src="assets\img\icon\comoros-islands.png" alt="Comoros Islands Logo"
-                                class="country-logo">
-                            <h3 class="country-title">Comoros Islands</h3>
-                            <p>The Comoros Islands provide a relaxed regulatory environment for forex brokers, with
-                                PriximGlobal guiding you through the licensing process.</p>
-                        </a>
-                    </div>
-
-                    <div class="country-card">
-                        <a href="vanuatu.html" target="_blank">
-                            <img src="assets\img\icon\vanuatu.png" alt="Vanuatu Logo" class="country-logo">
-                            <h3 class="country-title">Vanuatu</h3>
-                            <p>Vanuatu offers an affordable and efficient licensing process for forex brokers, and
-                                PriximGlobal can facilitate obtaining a license quickly.</p>
-                        </a>
-                    </div>
+        <div class="row">
+            <!-- First Row -->
+            <div class="col-4">
+                <div class="country-card">
+                    <a href="St-Lucia.php" target="_blank">
+                        <img src="assets\img\saint lucia.png" alt="St Lucia Logo" class="country-logo">
+                        <h3 class="country-title">St Lucia</h3>
+                        <p>Saint Lucia offers low taxes, supportive regulations, and government Support for forex businesses. Trusted globally and not on any financial blacklists, it provides a secure environment for new ventures.</p>
+                    </a>
                 </div>
             </div>
-        </section>
+
+            <div class="col-4">
+                <div class="country-card">
+                    <a href="comoros-islands.php" target="_blank">
+                        <img src="assets\img\icon\comoros-islands.png" alt="Comoros Islands Logo" class="country-logo">
+                        <h3 class="country-title">Comoros Islands</h3>
+                        <p>The Comoros Islands provide a relaxed regulatory environment for forex brokers, with
+                            PriximGlobal guiding you through the licensing process.</p>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-4">
+                <div class="country-card">
+                    <a href="seychelles.php" target="_blank">
+                        <img src="assets\img\icon\seychellas.png" alt="Seychelles Logo" class="country-logo">
+                        <h3 class="country-title">Seychelles</h3>
+                        <p>Seychelles offers a cost-effective licensing option for forex brokers, and PriximGlobal
+                            can streamline the application process.</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <!-- Second Row -->
+            <div class="col-4">
+                <div class="country-card">
+                    <a href="mauritius.php" target="_blank">
+                        <img src="assets\img\icon\mauritius.png" alt="Mauritius Logo" class="country-logo">
+                        <h3 class="country-title">Mauritius</h3>
+                        <p>Mauritius provides a strong regulatory framework for forex brokers, and PriximGlobal can
+                            assist with obtaining an FSC license.</p>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-4">
+                <div class="country-card">
+                    <a href="labuan.php" target="_blank">
+                        <img src="assets\img\icon\download.png" alt="Labuan Logo" class="country-logo">
+                        <h3 class="country-title">Labuan (Malaysia)</h3>
+                        <p>Labuan offers a tax-friendly and well-regulated environment for forex brokers, with
+                            PriximGlobal helping you secure the necessary license.</p>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-4">
+                <div class="country-card">
+                    <a href="vanuatu.php" target="_blank">
+                        <img src="assets\img\icon\vanuatu.png" alt="Vanuatu Logo" class="country-logo">
+                        <h3 class="country-title">Vanuatu</h3>
+                        <p>Vanuatu offers an affordable and efficient licensing process for forex brokers, and
+                            PriximGlobal can facilitate obtaining a license quickly.</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 
 
         <style>
@@ -628,23 +652,23 @@
             }
 
             /* Country Cards Layout */
-            .country-cards {
+            .country-card{
                 display: flex;
                 justify-content: space-evenly;
                 /* Distribute the cards evenly */
                 flex-wrap: wrap;
                 gap: 20px;
                 /* Ensure the cards stretch to the same height */
-
+                margin-bottom: 0px;
             }
 
             /* Country Card Styling */
             .country-card {
-                width: 18%;
+                width: 90%;
                 /* Ensure uniform width */
                 height: 350px;
                 /* Set a fixed height for consistency */
-                padding: 20px;
+                padding: 10px;
                 text-align: center;
                 border: 1px solid #ddd;
                 border-radius: 8px;
@@ -656,10 +680,11 @@
                 /* Ensures padding does not affect height/width */
                 display: flex;
                 flex-direction: column;
-
-
+                margin-bottom: 15px;
             }
-
+            .col-4{
+                padding-bottom: 0;
+            }
             /* Flag Image Styling */
             .country-card .country-logo {
                 width: 100%;
@@ -697,6 +722,7 @@
                 /* Adds space below the paragraph */
             }
 
+
             /* For medium to large screens */
             @media (max-width: 992px) {
                 .country-card {
@@ -710,6 +736,40 @@
                     width: 100%;
                 }
             }
+            /* Media Query for Small Mobile Devices (max-width: 576px) */
+            @media (max-width: 576px) {
+                .row {
+                display: flex;
+                flex-direction: column;
+                align-items: center; 
+            }
+
+            .col-4 {
+                width: 100%; 
+                margin-bottom: 20px; 
+            }
+
+            .country-card {
+                width: 90%; 
+                padding: 15px; 
+                text-align: center;
+            }
+
+            .country-logo {
+                max-width: 100px; 
+                height: auto; 
+                margin-bottom: 15px; 
+            }
+
+            .country-title {
+                font-size: 18px; 
+            }
+
+            .country-card p {
+                font-size: 14px; 
+                line-height: 1.4; 
+            }
+
         </style>
         <br><br>
         <!-- CTA Section -->
