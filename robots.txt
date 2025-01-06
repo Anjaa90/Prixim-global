@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-=======
-User-agent: *
-Disallow: 
-Disallow: /cgi-bin/
->>>>>>> f30fde97f6d2beb1ca3dc810158ec1ca6dbadd90
 Sitemap: https://priximglobal.com/sitemap.xml

@@ -344,7 +344,7 @@
                             <ul class="about-list list-unstyled">
                                 <li style="font-weight:normal;">Complete FX Brokerage Setup seamless global operations
                                 </li>
-                                <li style="font-weight:normal;">Free 3-Month Trial for Turnkey Solutions
+                                <li style="font-weight:normal;">Free 3-Month Trial for Outsource Services
                                 </li>
                                 <li style="font-weight:normal;">Full Access</li>
                                 <li style="font-weight:normal;">Automatic server performance monitoring</li>
