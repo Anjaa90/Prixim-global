@@ -87,11 +87,11 @@
     <main class="main">
         <div class="site-breadcrumb">
             <div class="container">
-                <h1 class="breadcrumb-title">Turnkey Solution</h1>
+                <h1 class="breadcrumb-title">MT5 Turnkey Solution</h1>
                 <ul class="breadcrumb-menu">
                     <li><a href="index.html">Home</a></li>
                     <li><a href="#">Prop Platforms</a></li>
-                    <li class="active">Turnkey Solution</li>
+                    <li class="active">MT5 Turnkey Solution</li>
                 </ul>
             </div>
             <div class="hero-shape"><img class="hero-shape-1" src="assets/img/shape/01.png" alt=""></div>
