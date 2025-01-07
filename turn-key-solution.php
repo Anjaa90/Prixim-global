@@ -135,7 +135,273 @@
                     </div>
                 </div>
 
-                <div class="row">
+<!-- New Section Start -->
+
+    <section class="unique-section" style="background-color: transparent;">
+        <div class="container ">
+            <!-- <h4 class="text-primary">
+                Unique features
+            </h4>
+            <h2 class="text-white">
+                Nurturing Broker Excellence
+            </h2>
+            <p class="text-white">
+                YaPrime is dedicated to nurturing broker excellence through comprehensive training initiatives and continuous professional development programs, empowering individuals to reach their full potential in the dynamic world of brokerage. Our commitment to
+                nurturing talent extends beyond merely providing educational resources. We foster an environment that encourages growth, innovation, and the exchange of knowledge
+            </p> -->
+            <div class="row n1 ">
+                <div class="col-md-4 featured-sidebar">
+                    <div class="row featured-card-wrapper">
+                        <div class="col-md-12">
+                            <div class="card  featured-card one">
+                                <div class="card-body ">
+                                    <div class="feqatured-card-header mb-3">
+                                        <img src="assets/img/MT5.png">
+                                        <h5 class="card-title">
+                                        MT5 White Label & Full License
+                                        </h5>
+                                    </div>
+
+                                    <p class="card-text">
+                                    <ul class="about-list">
+                                            <li  style="font-weight: 400;">Access Prixim Global’s technology.</li>
+                                            <li style="font-weight: 400;">MT5 Full License: Full control, customizability.</li>
+                                            <li style="font-weight: 400;">Independent server management.</li>
+                                            <li style="font-weight: 400;">Perfect for long-term investment.</li>
+                                    </ul>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="card  featured-card two">
+                                <div class="card-body ">
+                                    <div class="feqatured-card-header mb-3">
+                                        <img src="assets/img/FX.png" />
+                                        <h5 class="card-title">
+                                        Forex Company Formation
+                                        </h5>
+                                    </div>
+                                    <p class="card-text">
+                                    <ul class="about-list">
+                                            <li  style="font-weight: 400;"> Quick and easy forex company setup.</li>
+                                            <li style="font-weight: 400;">Expert jurisdiction advice.</li>
+                                            <li style="font-weight: 400;">Ensure full regulatory compliance.</li>
+                                            <li style="font-weight: 400;">Complete support from setup to operation.</li>
+                                    </ul>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 ">
+                    <div class="row featured-card-wrapper">
+                        <div class="col-md-12">
+                            <div class="card  featured-card one">
+                                <div class="card-body ">
+                                    <div class="feqatured-card-header mb-3">
+                                        <img src="assets/img/FXL.png" />
+                                        <h5 class="card-title">
+                                        Forex Licensing Services
+                                        </h5>
+                                    </div>
+
+                                    <p class="card-text">
+                                    <ul class="about-list">
+                                            <li  style="font-weight: 400;">Step-by-step guidance and trusted expertise.</li>
+                                            <li style="font-weight: 400;">Ensure regulatory compliance.</li>
+                                            <li style="font-weight: 400;">Simplify application submission.</li>
+                                            <li style="font-weight: 400;">Establish a licensed forex brokerage.</li>
+                                    </ul>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12 featured-card text-center">
+                            <figure class="mb-0  mx-auto">
+                                <lottie-player src="assets/img/lottie-json/benefit-home.json" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
+                                </lottie-player>
+                            </figure>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="card  featured-card two">
+                                <div class="card-body ">
+                                    <div class="feqatured-card-header mb-3">
+                                        <img src="assets/img/Code.png" />
+                                        <h5 class="card-title">
+                                        Website and CRM Development
+                                        </h5>
+                                    </div>
+
+                                    <p class="card-text">
+                                    <ul class="about-list">
+                                            <li  style="font-weight: 400;">Custom websites tailored for forex brokerages.</li>
+                                            <li style="font-weight: 400;">Seamless CRM integration for client management.</li>
+                                            <li style="font-weight: 400;">Forex-focused solutions for unique business needs.</li>
+                                            <li style="font-weight: 400;">Optimized for better client interactions and operations.</li>
+                                    </ul>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 featured-sidebar">
+                    <div class="row featured-card-wrapper">
+                        <div class="col-md-12">
+                            <div class="card  featured-card one">
+                                <div class="card-body ">
+                                    <div class="feqatured-card-header mb-3">
+                                        <img src="assets/img/Payment.png" class="img-fluid" />
+                                        <h5 class="card-title">
+                                        PSP Solutions
+                                        </h5>
+                                    </div>
+
+                                    <p class="card-text about-list">
+                                        <ul class="about-list">
+                                            <li  style="font-weight: 400;">Multi-currency gateways for global payments.</li>
+                                            <li style="font-weight: 400;">Advanced security for secure transactions.</li>
+                                            <li style="font-weight: 400;">Seamless integration with your systems.</li>
+                                            <li style="font-weight: 400;">Reliable, efficient payment processing.</li>
+                                        </ul>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="card  featured-card two">
+                                <div class="card-body ">
+                                    <div class="feqatured-card-header mb-3">
+                                        <img src="assets/img/Multi.png" />
+                                        <h5 class="card-title">
+                                        Multi-Currency Corporate Bank Accounts
+                                        </h5>
+                                    </div>
+
+                                    <p class="card-text">
+                                    <ul class="about-list">
+                                            <li  style="font-weight: 400;">Simplify global transactions in multiple currencies.</li>
+                                            <li style="font-weight: 400;">Ideal for high-volume transactions.</li>
+                                            <li style="font-weight: 400;">Manage finances seamlessly worldwide.</li>
+                                            <li style="font-weight: 400;">Minimize fees and optimize currency conversions.</li>
+                                    </ul>         
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<style>
+/*Unique features*/
+
+.unique-section {
+    text-align: center;
+    background-color: #000;
+    padding: 80px 0px;
+}
+
+.featured-card {
+    margin-bottom: 10%;
+    padding: 5px;
+    text-align: left;
+    border-radius: 16px !important;
+}
+
+.featured-card h5 {
+    margin-left: 5%;
+    color: #ff366b;
+}
+
+.featured-sidebar {
+    display: grid;
+    align-items: center;
+    align-self: center;
+}
+
+.featured-card-wrapper {
+    display: flex;
+    justify-items: space-between;
+}
+
+.card.featured-card.one {
+    border-style: solid;
+    border-width: 0 0 5px;
+    border-color:  #ff366b;
+    box-shadow: 0 0 40px 0 rgba(0, 0, 0, .1);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    background: ;
+    color: black;
+}
+
+.card.featured-card.one:hover {
+    border-style: solid;
+    border-width: 5px 0 0;
+    border-color:  #ff366b;
+    cursor: pointer;
+}
+
+.feqatured-card-header {
+    display: flex;
+    align-items: center;
+}
+
+.card.featured-card.two {
+    border-style: solid;
+    border-width: 5px 0 0;
+    border-color:  #ff366b;
+    box-shadow: 0 0 40px 0 rgba(0, 0, 0, .1);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    background:;
+    color: black;
+}
+
+.card.featured-card.two:hover {
+    border-style: solid;
+    border-width: 0 0 5px;
+    border-color:  #ff366b;
+    cursor: pointer;
+}
+
+.border-anim {
+    position: relative;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.border-anim::before {
+    position: absolute;
+    content: '';
+    inset: 0;
+    border: 3px dashed #ff366b;
+    border-right-color: #ff366b;
+    border-left-color: #ff366b;
+    border-radius: 50%;
+    animation: round 30s 0s infinite linear;
+    background: #F9FAFB;
+}
+
+@keyframes round {
+    100% {
+        transform: rotate(360deg)
+    }
+}
+
+/*Unique features*/
+
+</style>
+
+<!-- New Section End -->
+
+                <!-- <div class="row">
                     <div class="col-md-6 col-lg-4">
                         <div class="wrapper blog-item">
                             <div class="blog-item-img"><img class="blog-img2"
@@ -175,18 +441,18 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
+
             </div>
         </div>
 
 
-        <div class="service-area bg ">
+        <!-- <div class="service-area bg ">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 mx-auto">
                         <div class="site-heading text-center">
-                            <!-- <h4><span class="site-title-tagline">Sales Strategy
-                                </span></h4> -->
+                           
 
                             <div class="heading-divider"></div>
                         </div>
@@ -225,7 +491,7 @@
 
                 </div>
             </div>
-        </div>
+        </div> -->
 <!-- 
 
 
@@ -342,12 +608,14 @@
                                 </h2>
                             </div>
                             <ul class="about-list list-unstyled">
-                                <li style="font-weight:normal;">Complete FX Brokerage Setup seamless global operations
+                                <li style="font-weight:normal;">Complete FX Brokerage Setup
                                 </li>
                                 <li style="font-weight:normal;">Free 3-Month Trial for Outsource Services
                                 </li>
                                 <li style="font-weight:normal;">Full Access</li>
+                                <li style="font-weight:normal;">Seamless Upgrade</li>
                                 <li style="font-weight:normal;">Automatic server performance monitoring</li>
+                                <li style="font-weight:normal;">seamless global operations</li>
 
                             </ul>
                         </div>
@@ -423,7 +691,7 @@
                         <h2>Unlock Fast and Secure MT5 Turnkey Solution with Prixim Global
 
                         </h2>
-                        <p style="font-size: 18px;">Contact Prixim Global to start your free trial!
+                        <p style="font-size: 18px;"><strong>Contact Prixim Global</strong> to start your free trial!
 
                         </p>
                         <button class="theme-btn" onclick="toggleForm()">Get in Touch</button>
@@ -821,4 +1089,23 @@
             }
         </style>
 
+
+
 <?php include ('includes/footer.php');?>
+
+</script>
+  
+   
+    <!-- <link rel="shortcut icon" href="https://www.yaprime.com/public/web/images/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://www.yaprime.com/public/web/vendor/bootstrap/css/bootstrap.min.css" />
+  
+    <link rel="stylesheet" type="text/css" href="https://www.yaprime.com/public/web/css/responsive.css">
+ 
+
+ 
+
+  
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script> -->
+    <!-- <link rel="stylesheet" type="text/css" href="https://www.yaprime.com/public/web/css/style.css"> -->
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<script>
