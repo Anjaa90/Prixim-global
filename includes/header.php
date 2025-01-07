@@ -46,7 +46,7 @@
               <li><img src="assets/img/icon/mail.png" alt="" loading="lazy"><a
                   href="mailto:sales@priximglobal.com">sales@priximglobal.com</a></li>
               <li><img src="assets/img/icon/phone-call.webp" alt="united kingdom" loading="lazy" /><a
-                  href="tel:+44 20 36952310">+44 20 36952310</a></li>
+                  href="tel:+971544335310">+971544335310</a></li>
 
             </ul>
           </div>
