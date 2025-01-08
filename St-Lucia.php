@@ -5,7 +5,7 @@
               <h1 class="breadcrumb-title">St Lucia</h1>
               <ul class="breadcrumb-menu">
                 <li><a href="index.html">Home</a></li>
-                <li><a href="Broker License - St Lucia.html">St Lucia</a></li>
+                <li><a href="Broker License - St Lucia.html">Broker License</a></li>
                 <li class="active">St Lucia</li>
               </ul>
             </div>
