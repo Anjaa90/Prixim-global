@@ -694,14 +694,14 @@
                             <div class="card  featured-card one">
                                 <div class="card-body ">
                                     <div class="feqatured-card-header mb-3">
-                                        <img src="assets/img/MT5.png">
+                                        <img src="assets/img/graph.png">
                                         <h5 class="card-title">
                                         MT5 White Label & Full License
                                         </h5>
                                     </div>
 
                                     <p class="card-text">
-                                    <ul class="about-list">
+                                    <ul class="about-list l1">
                                             <li  style="font-weight: 400;">Access Prixim Global’s technology.</li>
                                             <li style="font-weight: 400;">MT5 Full License: Full control, customizability.</li>
                                             <li style="font-weight: 400;">Independent server management.</li>
@@ -715,13 +715,13 @@
                             <div class="card  featured-card two">
                                 <div class="card-body ">
                                     <div class="feqatured-card-header mb-3">
-                                        <img src="assets/img/FX.png" />
+                                        <img src="assets/img/fxlogo.png" />
                                         <h5 class="card-title">
                                         Forex Company Formation
                                         </h5>
                                     </div>
                                     <p class="card-text">
-                                    <ul class="about-list">
+                                    <ul class="about-list l1">
                                             <li  style="font-weight: 400;"> Quick and easy forex company setup.</li>
                                             <li style="font-weight: 400;">Expert jurisdiction advice.</li>
                                             <li style="font-weight: 400;">Ensure full regulatory compliance.</li>
@@ -739,14 +739,14 @@
                             <div class="card  featured-card one">
                                 <div class="card-body ">
                                     <div class="feqatured-card-header mb-3">
-                                        <img src="assets/img/FXL.png" />
+                                        <img src="assets/img/fxllogo.png" />
                                         <h5 class="card-title">
                                         Forex Licensing Services
                                         </h5>
                                     </div>
 
                                     <p class="card-text">
-                                    <ul class="about-list">
+                                    <ul class="about-list l1">
                                             <li  style="font-weight: 400;">Step-by-step guidance and trusted expertise.</li>
                                             <li style="font-weight: 400;">Ensure regulatory compliance.</li>
                                             <li style="font-weight: 400;">Simplify application submission.</li>
@@ -766,14 +766,14 @@
                             <div class="card  featured-card two">
                                 <div class="card-body ">
                                     <div class="feqatured-card-header mb-3">
-                                        <img src="assets/img/Code.png" />
+                                        <img src="assets/img/codelogo.png" />
                                         <h5 class="card-title">
                                         Website and CRM Development
                                         </h5>
                                     </div>
 
                                     <p class="card-text">
-                                    <ul class="about-list">
+                                    <ul class="about-list l1">
                                             <li  style="font-weight: 400;">Custom websites tailored for forex brokerages.</li>
                                             <li style="font-weight: 400;">Seamless CRM integration for client management.</li>
                                             <li style="font-weight: 400;">Forex-focused solutions for unique business needs.</li>
@@ -791,14 +791,14 @@
                             <div class="card  featured-card one">
                                 <div class="card-body ">
                                     <div class="feqatured-card-header mb-3">
-                                        <img src="assets/img/Payment.png" class="img-fluid" />
+                                        <img src="assets/img/paymentlogo.png" class="img-fluid" />
                                         <h5 class="card-title">
                                         PSP Solutions
                                         </h5>
                                     </div>
 
                                     <p class="card-text about-list">
-                                        <ul class="about-list">
+                                        <ul class="about-list l1">
                                             <li  style="font-weight: 400;">Multi-currency gateways for global payments.</li>
                                             <li style="font-weight: 400;">Advanced security for secure transactions.</li>
                                             <li style="font-weight: 400;">Seamless integration with your systems.</li>
@@ -812,14 +812,14 @@
                             <div class="card  featured-card two">
                                 <div class="card-body ">
                                     <div class="feqatured-card-header mb-3">
-                                        <img src="assets/img/Multi.png" />
+                                        <img src="assets/img/multilogo.png" />
                                         <h5 class="card-title">
                                         Multi-Currency Corporate Bank Accounts
                                         </h5>
                                     </div>
 
                                     <p class="card-text">
-                                    <ul class="about-list">
+                                    <ul class="about-list l1">
                                             <li  style="font-weight: 400;">Simplify global transactions in multiple currencies.</li>
                                             <li style="font-weight: 400;">Ideal for high-volume transactions.</li>
                                             <li style="font-weight: 400;">Manage finances seamlessly worldwide.</li>
@@ -838,6 +838,16 @@
 <style>
 /*Unique features*/
 
+
+.l1 li::before {
+    content: "\f560";
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-family: "font awesome 6 pro";
+    color: #4ba5fe;
+}
+rgb(24, 9, 13)
 .unique-section {
     text-align: center;
     background-color: #000;
@@ -853,7 +863,7 @@
 
 .featured-card h5 {
     margin-left: 5%;
-    color: #ff366b;
+    color: #4ba5fe;
 }
 
 .featured-sidebar {
@@ -870,17 +880,17 @@
 .card.featured-card.one {
     border-style: solid;
     border-width: 0 0 5px;
-    border-color:  #ff366b;
+    border-color:  #4ba5fe;
     box-shadow: 0 0 40px 0 rgba(0, 0, 0, .1);
     transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
     background: ;
     color: black;
-}
+} 
 
 .card.featured-card.one:hover {
     border-style: solid;
     border-width: 5px 0 0;
-    border-color:  #ff366b;
+    border-color:  #4ba5fe;
     cursor: pointer;
 }
 
@@ -892,7 +902,7 @@
 .card.featured-card.two {
     border-style: solid;
     border-width: 5px 0 0;
-    border-color:  #ff366b;
+    border-color:  #4ba5fe;
     box-shadow: 0 0 40px 0 rgba(0, 0, 0, .1);
     transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
     background:;
@@ -902,7 +912,7 @@
 .card.featured-card.two:hover {
     border-style: solid;
     border-width: 0 0 5px;
-    border-color:  #ff366b;
+    border-color:  #4ba5fe;
     cursor: pointer;
 }
 
