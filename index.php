@@ -66,13 +66,11 @@
     top: -50px;">
                                 <h6 class="hero-sub-title wow " data-wow-duration="1s" data-wow-delay=".25s">Best
                                     Customer Experience </h6>
-                                <h1 class="hero-title wow " data-wow-duration="1s" data-wow-delay=".50s">Whitelabel
-                                    Solutions at Low Cost
+                                <h1 class="hero-title wow " data-wow-duration="1s" data-wow-delay=".50s">FX & Brokerage One Point Solutions
                                 </h1>
 
                                 <p class="wow " data-wow-duration="1s" data-wow-delay=".75s">
-                                    Launch your forex brokerage quickly with multiple trading platforms and get
-                                    everything you need for a fast, easy setup.
+                                Technology, Corporate Consulting and Outsourcing all at one place.
                                 </p>
                                 <div class="hero-btn wow " data-wow-duration="1s" data-wow-delay="1s"><a
                                         href="our-expertise.html" class="theme-btn">Explore More<i
@@ -80,14 +78,14 @@
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-6">
-                            <div class="hero-img  h-img-max-width"><img src="assets\img\home/prixim slider image.webp"
+                            <div class="hero-img  h-img-max-width"><img src="assets\img\home\Prixim _ Landing page.png"
                                     width="1000" height="800"
                                     alt="Low Cost Whitelabel solutions for forex brokerage with multiple trading platforms"
                                     /></div>
                         </div>
                     </div>
                 </div>
-                <div class="hero-shape"><img class="hero-shape-1" src="assets\img\shape\Prixim Global_landing page.png" alt=""
+                <div class="hero-shape"><img class="hero-shape-1" src="assets\img\shape\Prixim Global_landing page 3.png" alt=""
                         loading="lazy" /><img class="hero-shape-2 " src="" alt="" /></div>
             </div>
             <div class="service-area pt-50 pb-50">
