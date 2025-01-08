@@ -2,11 +2,11 @@
     <main class="main main-body">
         <div class="site-breadcrumb">
             <div class="container">
-              <h1 class="breadcrumb-title">Broker License-St Lucia</h1>
+              <h1 class="breadcrumb-title">St Lucia</h1>
               <ul class="breadcrumb-menu">
                 <li><a href="index.html">Home</a></li>
-                <li><a href="Broker License - St Lucia.html">Broker License-St Lucia</a></li>
-                <li class="active">Broker License-St Lucia</li>
+                <li><a href="Broker License - St Lucia.html">St Lucia</a></li>
+                <li class="active">St Lucia</li>
               </ul>
             </div>
             <div class="hero-shape"><img class="hero-shape-1" src="assets/img/shape/01.png" alt="" loading="lazy" /></div>
