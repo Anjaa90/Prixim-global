@@ -675,7 +675,7 @@
 
 <!-- New Section Start -->
 
-    <section class="unique-section" style="background-color: transparent;">
+    <section class="unique-section mt-4" style="background-color: transparent;">
         <div class="container ">
             <!-- <h4 class="text-primary">
                 Unique features
