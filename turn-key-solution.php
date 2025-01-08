@@ -87,11 +87,11 @@
     <main class="main">
         <div class="site-breadcrumb">
             <div class="container">
-                <h1 class="breadcrumb-title">Turnkey Solution</h1>
+                <h1 class="breadcrumb-title">MT5 Turnkey Solution</h1>
                 <ul class="breadcrumb-menu">
                     <li><a href="index.html">Home</a></li>
                     <li><a href="#">Prop Platforms</a></li>
-                    <li class="active">Turnkey Solution</li>
+                    <li class="active">MT5 Turnkey Solution</li>
                 </ul>
             </div>
             <div class="hero-shape"><img class="hero-shape-1" src="assets/img/shape/01.png" alt=""></div>
@@ -124,6 +124,544 @@
         </div>
 
 
+        <section class="process-steps overflow-hidden" style="background-color: transparent;">
+        <div class="container work-process">
+            <div class="title mb-5 text-center">
+                <h4 style="color: #1a2180;">Build and Launch Your Forex Brokerage Today</h4>
+                <h3 class="text-dark">How to Start Your Own Forex Brokerage in Just 8 Steps</h3>
+                <!-- <p class="text-white">
+                Register your company legally to establish credibility and comply with regulations.
+            </p> -->
+            </div>
+            <!-- ============ step 1 =========== -->
+            <div class="row mb-lg-0 mb-md-5 mb-xs-5">
+                <div class="col-lg-5 col-md-12">
+                    <div class="process-box process-left" data-aos="fade-right" data-aos-duration="1000">
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="process-step">
+                                    <p class="m-0 p-0">Step</p>
+                                    <h2 class="m-0 p-0">01</h2>
+                                </div>
+                            </div>
+                            <div class="col-md-7">
+                                <h5>Company Formation</h5>
+                                <p><small>Register your company and secure the necessary licenses for your business operations</small></p>
+                            </div>
+                        </div>
+                        <div class="process-line-l"></div>
+                    </div>
+                </div>
+                <div class="col-md-2"></div>
+                <div class="col-md-5 position-relative">
+                    <div class="process-point-right"></div>
+                </div>
+            </div>
+            <!-- ============ step 2 =========== -->
+            <div class="row mb-lg-0 mb-md-5 mb-xs-5">
+                <div class="col-md-5 position-relative">
+                    <div class="process-point-left"></div>
+                </div>
+                <div class="col-md-2"></div>
+                <div class="col-lg-5 col-md-12">
+                    <div class="process-box process-right" data-aos="fade-left" data-aos-duration="1000">
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="process-step">
+                                    <p class="m-0 p-0">Step</p>
+                                    <h2 class="m-0 p-0">02</h2>
+                                </div>
+                            </div>
+                            <div class="col-md-7">
+                                <h5>Corporate Bank Account</h5>
+                                <p><small>Open a corporate bank account with a licensed bank registered under your brokerage company.</small></p>
+                            </div>
+                        </div>
+                        <div class="process-line-r"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- ============ step 3 =========== -->
+            <div class="row mb-lg-0 mb-md-5 mb-xs-5">
+                <div class="col-lg-5 col-md-12">
+                    <div class="process-box process-left" data-aos="fade-right" data-aos-duration="1000">
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="process-step">
+                                    <p class="m-0 p-0">Step</p>
+                                    <h2 class="m-0 p-0">03</h2>
+                                </div>
+                            </div>
+                            <div class="col-md-7">
+                                <h5>Physical Address</h5>
+                                <p><small>Set up a physical office to meet regulatory requirements and enhance business credibility.</small></p>
+                            </div>
+                        </div>
+                        <div class="process-line-l"></div>
+                    </div>
+                </div>
+                <div class="col-md-2"></div>
+                <div class="col-md-5 position-relative">
+                    <div class="process-point-right"></div>
+                </div>
+            </div>
+            <!-- ============ step 4 =========== -->
+            <div class="row mb-lg-0 mb-md-5 mb-xs-5">
+                <div class="col-md-5 position-relative">
+                    <div class="process-point-left"></div>
+                </div>
+                <div class="col-md-2"></div>
+                <div class="col-lg-5 col-md-12">
+                    <div class="process-box process-right" data-aos="fade-left" data-aos-duration="1000">
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="process-step">
+                                    <p class="m-0 p-0">Step</p>
+                                    <h2 class="m-0 p-0">04</h2>
+                                </div>
+                            </div>
+                            <div class="col-md-7">
+                                <h5>Website & Branding</h5>
+                                <p><small>Develop a professional website and create a distinctive logo to define your brokerage’s brand.</small></p>
+                            </div>
+                        </div>
+                        <div class="process-line-r"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- ============ step 5 =========== -->
+            <div class="row mb-lg-0 mb-md-5 mb-xs-5">
+                <div class="col-lg-5 col-md-12">
+                    <div class="process-box process-left" data-aos="fade-right" data-aos-duration="1000">
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="process-step">
+                                    <p class="m-0 p-0">Step</p>
+                                    <h2 class="m-0 p-0">05</h2>
+                                </div>
+                            </div>
+                            <div class="col-md-7">
+                                <h5>CRM System</h5>
+                                <p><small>Implement a CRM system to streamline and manage client relationships efficiently.</small></p>
+                            </div>
+                        </div>
+                        <div class="process-line-l"></div>
+                    </div>
+                </div>
+                <div class="col-md-2"></div>
+                <div class="col-md-5 position-relative">
+                    <div class="process-point-right"></div>
+                </div>
+            </div>
+            <!-- ============ step 6 =========== -->
+            <div class="row mb-lg-0 mb-md-5 mb-xs-5">
+                <div class="col-md-5 position-relative">
+                    <div class="process-point-left"></div>
+                </div>
+                <div class="col-md-2"></div>
+                <div class="col-lg-5 col-md-12">
+                    <div class="process-box process-right" data-aos="fade-left" data-aos-duration="1000">
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="process-step">
+                                    <p class="m-0 p-0">Step</p>
+                                    <h2 class="m-0 p-0">06</h2>
+                                </div>
+                            </div>
+                            <div class="col-md-7">
+                                <h5>Trading Platform</h5>
+                                <p><small>Choose MT5 turnkey solutions for a reliable platform with advanced features and tools.</small></p>
+                            </div>
+                        </div>
+                        <div class="process-line-r"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- ============ step 7 =========== -->
+            <div class="row mb-lg-0 mb-md-5 mb-xs-5">
+                <div class="col-lg-5 col-md-12">
+                    <div class="process-box process-left" data-aos="fade-right" data-aos-duration="1000">
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="process-step">
+                                    <p class="m-0 p-0">Step</p>
+                                    <h2 class="m-0 p-0">07</h2>
+                                </div>
+                            </div>
+                            <div class="col-md-7">
+                                <h5>Server Setup</h5>
+                                <p><small>Install secure servers to guarantee smooth and reliable trading operations.</small></p>
+                            </div>
+                        </div>
+                        <div class="process-line-l"></div>
+                    </div>
+                </div>
+                <div class="col-md-2"></div>
+                <div class="col-md-5 position-relative">
+                    <div class="process-point-right"></div>
+                </div>
+            </div>
+            <!-- ============ step 8 =========== -->
+            <div class="row mb-lg-0 mb-md-5  mb-xs-l-0">
+                <div class="col-md-5 position-relative">
+                    <div class="process-point-left process-last"></div>
+                </div>
+                <div class="col-md-2"></div>
+                <div class="col-lg-5 col-md-12">
+                    <div class="process-box process-right" data-aos="fade-left" data-aos-duration="1000">
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="process-step">
+                                    <p class="m-0 p-0">Step</p>
+                                    <h2 class="m-0 p-0">08</h2>
+                                </div>
+                            </div>
+                            <div class="col-md-7">
+                                <h5>Liquidity Providers Partnership</h5>
+                                <p><small>Partner with top liquidity providers to offer tight spreads and access to deep liquidity pools.</small></p>
+                            </div>
+                        </div>
+                        <div class="process-line-r"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- ============ -->
+        </div>
+    </section>
+
+    <style>
+
+        /*STeps Process*/
+
+.title.mb-5 h3 {
+    font-size: 40px;
+}
+
+.process-steps {
+    padding: 80px 0;
+    background: #000;
+    background-attachment: fixed;
+}
+
+.process-box {
+    background: #fff;
+    padding: 10px;
+    border-radius: 15px;
+    position: relative;
+    box-shadow: 2px 2px 7px 0 #00000057;
+}
+
+.process-left:after {
+    content: "";
+    border-top: 15px solid #ff366b;
+    border-bottom: 15px solid #ffffff;
+    border-left: 15px solid #ffffff;
+    border-right: 15px solid #ff366b;
+    display: inline-grid;
+    position: absolute;
+    right: -15px;
+    top: 42%;
+    transform: rotate(45deg);
+    box-shadow: 3px -2px 3px 0px #00000036;
+    z-index: 1;
+}
+
+.process-right:after {
+    content: "";
+    border-top: 15px solid #ffffff00;
+    border-bottom: 15px solid #ff366b;
+    border-left: 15px solid #ff366b;
+    border-right: 15px solid #ffffff00;
+    display: inline-grid;
+    position: absolute;
+    left: -15px;
+    top: 42%;
+    transform: rotate(45deg);
+    box-shadow: -1px 1px 3px 0px #0000001a;
+    z-index: 1;
+}
+
+.process-step {
+    background: #ff366b;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    color: #fff;
+    height: 100%;
+    padding-top: 8px;
+    position: relative;
+    top: -26px;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: -6px 8px 0px 0px rgba(255, 54, 108, 0.25);
+}
+
+ /* .process-point-right {
+    background:rgb(255, 255, 255);
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 8px solid #ff366b;
+    box-shadow: 0 0 0px 4px #fff;
+    margin: auto 0;
+    position: absolute;
+    bottom: 40px;
+    left: -83px;
+} 
+
+.process-point-right:before {
+    content: "";
+    height: 115px;
+    width: 11px;
+    background: #1a2180;
+    display: inline-grid;
+    transform: rotate(36deg);
+    position: relative;
+    left: -40px;
+    top: 6px;
+} 
+
+ .process-point-left {
+    background:rgb(255, 255, 255);
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 8px solid #ff366b;
+    box-shadow: 0 0 0px 4px #fff;
+    margin: auto 0;
+    position: absolute;
+    bottom: 40px;
+    right: -95px;
+}
+
+.process-point-left:before {
+    content: "";
+    height: 110px;
+    width: 11px;
+    background: #1a2180;
+    display: inline-grid;
+    transform: rotate(-32deg);
+    position: relative;
+    left: 30px;
+    top: 10px;
+}  */
+
+.process-last:before {
+    display: none;
+}
+
+.process-box p {
+    z-index: 9;
+}
+
+.process-step p {
+    font-size: 20px;
+}
+
+.process-step h2 {
+    font-size: 39px;
+}
+
+.process-step:after {
+    content: "";
+    border-top: 8px solid #04889800;
+    border-bottom: 8px solid #ff366b;
+    border-left: 8px solid #04889800;
+    border-right: 8px solid #ff366b;
+    display: inline-grid;
+    position: absolute;
+    left: -16px;
+    top: 0;
+}
+
+.process-step:before {
+    content: "";
+    border-top: 8px solid #ff000000;
+    border-bottom: 8px solid #ff366b;
+    border-left: 8px solid #ff366b;
+    border-right: 8px solid #ff000000;
+    display: inline-grid;
+    position: absolute;
+    right: -16px;
+    top: 0;
+}
+
+.process-line-l {
+    background: #ff366b;
+    height: 4px;
+    position: absolute;
+    width: 140px;
+    right: -145px;
+    top: 60px;
+    z-index: 9;
+}
+
+.process-line-r {
+    background: #ff366b;
+    height: 4px;
+    position: absolute;
+    width: 130px;
+    left: -133px;
+    top: 60px;
+    z-index: 9;
+}
+
+.process-box h5 {
+    font-size: 18px
+}
+
+
+
+
+
+
+
+@media(max-width:1399.99px) {
+    .process-point-right,
+    .process-point-left,
+    .process-line-l,
+    .process-line-r {
+        display: none !important;
+    }
+    .process-right:after,
+    .process-left:after {
+        display: none;
+    }
+}
+
+
+
+@media(max-width:1199.98px) {
+  
+    .request-quote {
+        display: none;
+    }
+    .pointer_ul li {
+        width: 100%;
+    }
+    .unique-pills .nav-pills {
+        justify-content: start !important;
+    }
+    .unique-pills .nav-pills {
+        justify-content: start !important;
+        flex-wrap: nowrap;
+        overflow-x: scroll;
+    }
+    .unique-pills .nav-pills .nav-item {
+        flex-shrink: 0;
+    }
+}
+
+@media(max-width:991.99px) {
+
+    
+ 
+    .unique-section {
+        padding: 80px 12px;
+    }
+    .partners_tabs li {
+        padding: 12px;
+        width: 30%;
+    }
+    .breadcrumb-banner {
+        padding: 100px 0px !important;
+    }
+    .breadcrumb-banner .banner_content h1 {
+        font-size: 3rem;
+    }
+    .banner_content h1 {
+        font-size: 3rem;
+    }
+    .home-banner {
+        padding: 200px 0px;
+    }
+}
+
+@media(max-width:767.98px) {
+   
+    .mb-xs-5 {
+        margin-bottom: 3rem;
+    }
+    .mb-xs-l-0 {
+        margin-bottom: 0rem;
+    }
+    .order-xs-1 {
+        order: 1;
+    }
+    .order-xs-2 {
+        order: 2;
+    }
+    .order-xs-3 {
+        order: 3;
+    }
+    .yllw {
+        background: #fac213;
+    }
+    .yllw .symbol,
+    .yllw .rate,
+    .yllw .spread {
+        color: #000;
+    }
+    .order-xs-4 {
+        order: 4;
+    }
+    .order-xs-5 {
+        order: 5;
+    }
+    .order-xs-6 {
+        order: 6;
+    }
+    .order-xs-7 {
+        order: 7;
+    }
+    .order-xs-8 {
+        order: 8;
+    }
+    .breadcrumb-banner {
+        padding: 80px 0px !important;
+    }
+    .breadcrumb-banner .banner_content h1 {
+        font-size: 2.1rem !important;
+    }
+    .mb-xs-5 {
+        margin-bottom: 3rem;
+    }
+    .featured-card h5 {
+        margin-top: 1rem;
+        margin-left: 0%;
+    }
+}
+
+@media(max-width:575.98px) {
+    .partners_tabs li {
+        padding: 5px;
+        width: 30%;
+    }
+    .banner_content h1 {
+        font-size: 2.1rem !important;
+    }
+    .banner_shape {
+        display: none;
+    }
+    .banner_shapee {
+        display: none;
+    }
+    .home-banner {
+        padding: 170px 0px;
+        padding-top: 80px;
+    }
+}
+
+@media(max-width:479.98px) {
+    .liquidity_pointers_ul li {
+        flex-basis: 100%;
+    }
+}
+
+/*Step Process*/
+    </style>
+    <!-- Steps end -->
+
+
         <div class="blog-area bg pt-70 pb-60">
             <div class="container">
                 <div class="row">
@@ -137,7 +675,7 @@
 
 <!-- New Section Start -->
 
-    <section class="unique-section" style="background-color: transparent;">
+    <section class="unique-section mt-4" style="background-color: transparent;">
         <div class="container ">
             <!-- <h4 class="text-primary">
                 Unique features
@@ -156,14 +694,14 @@
                             <div class="card  featured-card one">
                                 <div class="card-body ">
                                     <div class="feqatured-card-header mb-3">
-                                        <img src="assets/img/MT5.png">
+                                        <img src="assets/img/graph.png">
                                         <h5 class="card-title">
                                         MT5 White Label & Full License
                                         </h5>
                                     </div>
 
                                     <p class="card-text">
-                                    <ul class="about-list">
+                                    <ul class="about-list l1">
                                             <li  style="font-weight: 400;">Access Prixim Global’s technology.</li>
                                             <li style="font-weight: 400;">MT5 Full License: Full control, customizability.</li>
                                             <li style="font-weight: 400;">Independent server management.</li>
@@ -177,13 +715,13 @@
                             <div class="card  featured-card two">
                                 <div class="card-body ">
                                     <div class="feqatured-card-header mb-3">
-                                        <img src="assets/img/FX.png" />
+                                        <img src="assets/img/fxlogo.png" />
                                         <h5 class="card-title">
                                         Forex Company Formation
                                         </h5>
                                     </div>
                                     <p class="card-text">
-                                    <ul class="about-list">
+                                    <ul class="about-list l1">
                                             <li  style="font-weight: 400;"> Quick and easy forex company setup.</li>
                                             <li style="font-weight: 400;">Expert jurisdiction advice.</li>
                                             <li style="font-weight: 400;">Ensure full regulatory compliance.</li>
@@ -201,14 +739,14 @@
                             <div class="card  featured-card one">
                                 <div class="card-body ">
                                     <div class="feqatured-card-header mb-3">
-                                        <img src="assets/img/FXL.png" />
+                                        <img src="assets/img/fxllogo.png" />
                                         <h5 class="card-title">
                                         Forex Licensing Services
                                         </h5>
                                     </div>
 
                                     <p class="card-text">
-                                    <ul class="about-list">
+                                    <ul class="about-list l1">
                                             <li  style="font-weight: 400;">Step-by-step guidance and trusted expertise.</li>
                                             <li style="font-weight: 400;">Ensure regulatory compliance.</li>
                                             <li style="font-weight: 400;">Simplify application submission.</li>
@@ -219,23 +757,26 @@
                             </div>
                         </div>
                         <div class="col-md-12 featured-card text-center">
+                        <!-- assets/img/lottie-json/benefit-home.json -->
                             <figure class="mb-0  mx-auto">
-                                <lottie-player src="assets/img/lottie-json/benefit-home.json" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
-                                </lottie-player>
+                                <!-- <lottie-player src="assets/img/logo/favicon-01.png" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
+                                </lottie-player> -->
+                                <img src="assets/img/logo/favicon-01 (1).png"/>
+                                
                             </figure>
                         </div>
                         <div class="col-md-12">
                             <div class="card  featured-card two">
                                 <div class="card-body ">
                                     <div class="feqatured-card-header mb-3">
-                                        <img src="assets/img/Code.png" />
+                                        <img src="assets/img/codelogo.png" />
                                         <h5 class="card-title">
                                         Website and CRM Development
                                         </h5>
                                     </div>
 
                                     <p class="card-text">
-                                    <ul class="about-list">
+                                    <ul class="about-list l1">
                                             <li  style="font-weight: 400;">Custom websites tailored for forex brokerages.</li>
                                             <li style="font-weight: 400;">Seamless CRM integration for client management.</li>
                                             <li style="font-weight: 400;">Forex-focused solutions for unique business needs.</li>
@@ -253,14 +794,14 @@
                             <div class="card  featured-card one">
                                 <div class="card-body ">
                                     <div class="feqatured-card-header mb-3">
-                                        <img src="assets/img/Payment.png" class="img-fluid" />
+                                        <img src="assets/img/paymentlogo.png" class="img-fluid" />
                                         <h5 class="card-title">
                                         PSP Solutions
                                         </h5>
                                     </div>
 
                                     <p class="card-text about-list">
-                                        <ul class="about-list">
+                                        <ul class="about-list l1">
                                             <li  style="font-weight: 400;">Multi-currency gateways for global payments.</li>
                                             <li style="font-weight: 400;">Advanced security for secure transactions.</li>
                                             <li style="font-weight: 400;">Seamless integration with your systems.</li>
@@ -274,14 +815,14 @@
                             <div class="card  featured-card two">
                                 <div class="card-body ">
                                     <div class="feqatured-card-header mb-3">
-                                        <img src="assets/img/Multi.png" />
+                                        <img src="assets/img/multilogo.png" />
                                         <h5 class="card-title">
                                         Multi-Currency Corporate Bank Accounts
                                         </h5>
                                     </div>
 
                                     <p class="card-text">
-                                    <ul class="about-list">
+                                    <ul class="about-list l1">
                                             <li  style="font-weight: 400;">Simplify global transactions in multiple currencies.</li>
                                             <li style="font-weight: 400;">Ideal for high-volume transactions.</li>
                                             <li style="font-weight: 400;">Manage finances seamlessly worldwide.</li>
@@ -300,6 +841,16 @@
 <style>
 /*Unique features*/
 
+
+.l1 li::before {
+    content: "\f560";
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-family: "font awesome 6 pro";
+    color: #4ba5fe;
+}
+rgb(24, 9, 13)
 .unique-section {
     text-align: center;
     background-color: #000;
@@ -315,7 +866,7 @@
 
 .featured-card h5 {
     margin-left: 5%;
-    color: #ff366b;
+    color: #4ba5fe;
 }
 
 .featured-sidebar {
@@ -332,17 +883,17 @@
 .card.featured-card.one {
     border-style: solid;
     border-width: 0 0 5px;
-    border-color:  #ff366b;
+    border-color:  #4ba5fe;
     box-shadow: 0 0 40px 0 rgba(0, 0, 0, .1);
     transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
     background: ;
     color: black;
-}
+} 
 
 .card.featured-card.one:hover {
     border-style: solid;
     border-width: 5px 0 0;
-    border-color:  #ff366b;
+    border-color:  #4ba5fe;
     cursor: pointer;
 }
 
@@ -354,7 +905,7 @@
 .card.featured-card.two {
     border-style: solid;
     border-width: 5px 0 0;
-    border-color:  #ff366b;
+    border-color:  #4ba5fe;
     box-shadow: 0 0 40px 0 rgba(0, 0, 0, .1);
     transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
     background:;
@@ -364,7 +915,7 @@
 .card.featured-card.two:hover {
     border-style: solid;
     border-width: 0 0 5px;
-    border-color:  #ff366b;
+    border-color:  #4ba5fe;
     cursor: pointer;
 }
 
@@ -608,16 +1159,17 @@
                                 </h2>
                             </div>
                             <ul class="about-list list-unstyled">
-                                <li style="font-weight:normal;">Complete FX Brokerage Setup
+                                <li style="font-weight:normal;">Company Setup
                                 </li>
-                                <li style="font-weight:normal;">Free 3-Month Trial for Outsource Services
+                                <li style="font-weight:normal;">Corporate Bank Account
                                 </li>
-                                <li style="font-weight:normal;">Full Access</li>
-                                <li style="font-weight:normal;">Seamless Upgrade</li>
-                                <li style="font-weight:normal;">Automatic server performance monitoring</li>
-                                <li style="font-weight:normal;">seamless global operations</li>
-
+                                <li style="font-weight:normal;">Website & Branding</li>
+                                <li style="font-weight:normal;">CRM System</li>
+                                <li style="font-weight:normal;">Trading Platform</li>
+                                <li style="font-weight:normal;">Server Setup</li>
+                                <li style="font-weight:normal;">Liquidity Providers Partnership</li>
                             </ul>
+                            <h4 class=" mb-3 mt-3 font-weight-bold">Complete FX Brokerage Setup<br>Free 3-Month Trial for Outsource Services</h4>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -688,7 +1240,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-8 mx-auto">
                     <div class="cta-content">
-                        <h2>Unlock Fast and Secure MT5 Turnkey Solution with Prixim Global
+                        <h2 >Unlock Fast and Secure MT5 Turnkey Solution with Prixim Global
 
                         </h2>
                         <p style="font-size: 18px;"><strong>Contact Prixim Global</strong> to start your free trial!
@@ -1105,7 +1657,10 @@
  
 
   
-    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script> -->
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script> --> 
     <!-- <link rel="stylesheet" type="text/css" href="https://www.yaprime.com/public/web/css/style.css"> -->
     <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+    
+    
 <script>
