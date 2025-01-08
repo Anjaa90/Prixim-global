@@ -80,7 +80,7 @@
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-6">
-                            <div class="hero-img  h-img-max-width"><img src="assets\img\home/prixim slider image.webp"
+                            <div class="hero-img  h-img-max-width"><img src="assets\img\home\Prixim _ Landing page.png"
                                     width="1000" height="800"
                                     alt="Low Cost Whitelabel solutions for forex brokerage with multiple trading platforms"
                                     /></div>
