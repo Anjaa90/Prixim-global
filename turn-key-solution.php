@@ -675,7 +675,7 @@
 
 <!-- New Section Start -->
 
-    <section class="unique-section" style="background-color: transparent;">
+    <section class="unique-section mt-4" style="background-color: transparent;">
         <div class="container ">
             <!-- <h4 class="text-primary">
                 Unique features
@@ -757,9 +757,12 @@
                             </div>
                         </div>
                         <div class="col-md-12 featured-card text-center">
+                        <!-- assets/img/lottie-json/benefit-home.json -->
                             <figure class="mb-0  mx-auto">
-                                <lottie-player src="assets/img/lottie-json/benefit-home.json" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
-                                </lottie-player>
+                                <!-- <lottie-player src="assets/img/logo/favicon-01.png" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay="">
+                                </lottie-player> -->
+                                <img src="assets/img/logo/favicon-01 (1).png"/>
+                                
                             </figure>
                         </div>
                         <div class="col-md-12">
@@ -1156,16 +1159,17 @@ rgb(24, 9, 13)
                                 </h2>
                             </div>
                             <ul class="about-list list-unstyled">
-                                <li style="font-weight:normal;">Complete FX Brokerage Setup
+                                <li style="font-weight:normal;">Company Setup
                                 </li>
-                                <li style="font-weight:normal;">Free 3-Month Trial for Outsource Services
+                                <li style="font-weight:normal;">Corporate Bank Account
                                 </li>
-                                <li style="font-weight:normal;">Full Access</li>
-                                <li style="font-weight:normal;">Seamless Upgrade</li>
-                                <li style="font-weight:normal;">Automatic server performance monitoring</li>
-                                <li style="font-weight:normal;">seamless global operations</li>
-
+                                <li style="font-weight:normal;">Website & Branding</li>
+                                <li style="font-weight:normal;">CRM System</li>
+                                <li style="font-weight:normal;">Trading Platform</li>
+                                <li style="font-weight:normal;">Server Setup</li>
+                                <li style="font-weight:normal;">Liquidity Providers Partnership</li>
                             </ul>
+                            <h4 class=" mb-3 mt-3 font-weight-bold">Complete FX Brokerage Setup<br>Free 3-Month Trial for Outsource Services</h4>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -1236,7 +1240,7 @@ rgb(24, 9, 13)
             <div class="row align-items-center">
                 <div class="col-lg-8 mx-auto">
                     <div class="cta-content">
-                        <h2>Unlock Fast and Secure MT5 Turnkey Solution with Prixim Global
+                        <h2 >Unlock Fast and Secure MT5 Turnkey Solution with Prixim Global
 
                         </h2>
                         <p style="font-size: 18px;"><strong>Contact Prixim Global</strong> to start your free trial!
