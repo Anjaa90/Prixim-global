@@ -606,20 +606,20 @@
         </script>
     </main>
     <footer class="footer-area">
-        <div class="floating-button">
+         <div class="floating-button"> 
+            <a href="https://wa.me/971544335310" class="whatsapp-button">
+                <img src="assets/img/icon/whatsapp.webp" alt="WhatsApp" loading="lazy">
+            </a>
             <div class="text-bubble">
                 Say Hello to Prixim Global<br> How may I help you?
             </div>
-            <a href="https://wa.me/971544335310 " class="whatsapp-button">
-                <img src="assets/img/icon/whatsapp.webp" alt="WhatsApp" loading="lazy">
-            </a>
         </div>
         <script src="script.js"></script>
         <style>
-            .floating-button {
+           .floating-button {
                 position: fixed;
                 bottom: 90px;
-                right: 20px;
+                left: 20px;
                 display: flex;
                 align-items: center;
                 gap: 10px;
@@ -661,6 +661,11 @@
             .whatsapp-button img {
                 width: 30px;
                 height: 30px;
+            }
+            @media (max-width: 750px) {
+            .floating-button {   
+                bottom: 160px;
+            }
             }
         </style>
 
