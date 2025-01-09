@@ -631,26 +631,26 @@
 
 
 <footer class="footer-area">
-    <div class="floating-button">
-        <div class="text-bubble">
-            Say Hello to Prixim Global<br> How may I help you?
+    <div class="floating-button"> 
+            <a href="https://wa.me/971544335310" class="whatsapp-button">
+                <img src="assets/img/icon/whatsapp.webp" alt="WhatsApp" loading="lazy">
+            </a>
+            <div class="text-bubble">
+                Say Hello to Prixim Global<br> How may I help you?
+            </div>
         </div>
-        <a href="https://wa.me/971544335310 " class="whatsapp-button">
-            <img src="assets/img/icon/whatsapp.webp" alt="WhatsApp" loading="lazy">
-        </a>
-    </div>
     <script src="script.js"></script>
     <style>
         .floating-button {
-            position: fixed;
-            bottom: 90px;
-            right: 20px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            z-index: 9999;
-            /* Very high value to ensure it stays above other elements */
-        }
+                position: fixed;
+                bottom: 90px;
+                left: 20px;
+                display: flex;
+                align-items: center;
+                gap: 10px;
+                z-index: 9999;
+                /* Very high value to ensure it stays above other elements */
+            }
 
         .text-bubble {
             background-color: white;
