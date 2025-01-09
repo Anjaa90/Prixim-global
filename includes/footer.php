@@ -57,18 +57,20 @@
                         <div class="footer-widget-box list">
                             <h3 class="footer-widget-title">FX Platforms</h3>
                             <ul class="footer-list">
-                                <li><a href="mt5-hosting-whitelabel.php"><i class="far fa-caret-right"></i>MT5
-                                        Hosting</a></li>
-                                <li><a href="match-trader-whitelabel.php"><i class="far fa-caret-right"></i>Match
+                                <li><a href="turn-key-solution.php"><i class="far fa-caret-right"></i>MT5
+                                        Turn-key Solutions</a></li>
+                                <!-- <li><a href="match-trader-whitelabel.php"><i class="far fa-caret-right"></i>Match
                                         Trader</a></li>
                                 <li><a href="vertexfx-whitelabel.php"><i class="far fa-caret-right"></i>VertexFX</a>
                                 </li>
                                 <li><a href="wow-trader-whitelabel.php"><i class="far fa-caret-right"></i>Wow
-                                        Trader</a></li>
+                                        Trader</a></li> -->
                                 <li><a href="broker-setup-guide.php"><i class="far fa-caret-right"></i>Broker Setup
                                         Guide </a></li>
                                 <li><a href="forex-brokerage-calculator.php"><i
                                             class="far fa-caret-right"></i>Brokerage Calculator</a></li>
+                                <li><a href="payments-psp.php"><i
+                                            class="far fa-caret-right"></i>PSP solutions</a></li>
 
                             </ul>
                         </div>
@@ -147,10 +149,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4">
-                        <a href="//www.dmca.com/Protection/Status.aspx?ID=b09c909e-1592-4ec0-9398-8803fbb34c53"
-                            title="DMCA.com Protection Status" class="dmca-badge"> <img
-                                src="https://images.dmca.com/Badges/DMCA_logo-std-btn140w.png?ID=b09c909e-1592-4ec0-9398-8803fbb34c53"
-                                alt="DMCA.com Protection Status" loading="lazy" /></a>
+                        
                     </div>
                     <div class="col-lg-8 align-self-center">
                         <ul class="copyright-list">

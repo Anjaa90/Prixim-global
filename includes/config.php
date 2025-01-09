@@ -136,16 +136,16 @@ switch ($menuactive) {
             break;
 
         case 'comoros-islands.php':
-            $title = "Comoros Islands Forex Broker License Affordable & Tax-Friendly ";
+            $title = "Comoros Islands Forex Broker License Affordable & Tax-Friendly";
             $description = "Prixim Global offers Comoros Islands Forex Broker Licensing with low regulatory hurdles and a favorable tax environment. Contact Us To Start Brokerage Now  ";
                 break;
-        case 'forex-brokerage-calculator-form.php':
+        case 'forex-brokerage-calculator.php':
             $title = "Forex Brokerage Calculator - Estimate Your Forex Setup Costs";
             $description = "Use Prixim Global's Forex Brokerage Calculator to estimate setup costs for licensing, platform fees, and operational expenses. ";
             break;
 
 
-            case 'labuan.php':
+        case 'labuan.php':
                 $title = "Labuan Forex Broker License - Tax-Efficient Solutions";
                 $description = "Prixim Global offers Labuan Forex Broker Licensing for a tax-efficient, regulated setup. Get a license under LFSA for global operations with compliance support.";
                 break;
@@ -169,6 +169,11 @@ switch ($menuactive) {
                             $title =" St Lucia Forex Broker License - Affordable & Flexible";
                             $description ="";
                             break;
+
+                            case 'payments-psp.php':
+                                $title =" PSP for Forex Brokers | Prixim Global | Payment Solution";
+                                $description ="Prixim Global offers secure PSP solutions tailored for Forex brokers. Ensure seamless payment processing and efficient operations with our expertise.";
+                                break;
                     }
 ?>
 

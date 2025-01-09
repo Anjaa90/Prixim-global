@@ -121,6 +121,8 @@
                                 </li>
                                 <li><a class="dropdown-item" href="forex-brokerage-calculator.php">Brokerage Calculator</a>
                                 </li>
+                                <li><a class="dropdown-item" href="payments-psp.php">PSP Solutions</a>
+                                </li>
                             </ul>
                         </li>
 
