@@ -32,7 +32,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
-                                    src="assets\img\outsource\outsource - customer support - Customer Care Excellence at Prixim Global.png"
+                                    src="assets\img\outsource\outsource - customer support - Customer Care Excellence at Prixim Global.webp"
                                     alt="Prixim Global's Customer Care services for clients" loading="lazy"></div>
                         </div>
                     </div>

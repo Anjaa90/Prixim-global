@@ -45,7 +45,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation">
-                                <img src="assets/img/cx-services/prop platform - wow trader first image.png"
+                                <img src="assets/img/cx-services/prop platform - wow trader first image.webp"
                                     alt="Wow Trader for Prop Trading Brokerage " loading="lazy">
                             </div>
                         </div>
@@ -230,7 +230,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
-                                    src="assets/img/cx-services/Why Choose Prixim Global - wow trader.png"
+                                    src="assets/img/cx-services/Why Choose Prixim Global - wow trader.webp"
                                     alt="WoW Trader state-of-the-art trading platforms for prop trading brokerage needs."
                                     loading="lazy" /></div>
                         </div>

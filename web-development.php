@@ -79,7 +79,7 @@
                     <div class="row align-items-center">
                         <div class="col-md-6 col-lg-6">
                             <div class="hero-img vertical-animation"><img
-                                    src="assets\img\digital\digital - Web Development - Types of Web Developemet Services.png"
+                                    src="assets\img\digital\digital - Web Development - Types of Web Developemet Services.webp"
                                     alt="Web Developemet Services"></div>
                         </div>
 
@@ -138,7 +138,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="choose-img vertical-animation">
-                            <img src="assets\img\digital\digital - Web Development - Our Web Development Services.png"
+                            <img src="assets\img\digital\digital - Web Development - Our Web Development Services.webp"
                                 alt=" Prixim Global's Web Development Services">
                         </div>
                     </div>
@@ -232,7 +232,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="choose-img vertical-animation">
-                            <img src="assets/img/digital/why choose prixim global.png"
+                            <img src="assets/img/digital/why choose prixim global.webp"
                                 alt="Prixim Global gives SEO-Friendly Design and Commitment to Quality">
                         </div>
                     </div>

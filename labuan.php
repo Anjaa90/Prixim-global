@@ -16,7 +16,7 @@
                     <div class="col-lg-7">
                         <div class="about-left">
                             <div class="about-img vertical-animation">
-                                <img src="assets\img/labuan flag.png"
+                                <img src="assets\img/labuan flag.webp"
                                     alt="Prixim Global Workspace for Business Operations" loading="lazy">
                             </div>
                         </div>

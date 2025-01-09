@@ -58,7 +58,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="choose-img vertical-animation"><img
-                                src="assets\img\digital\digital -Marketing -Transform Your Business with Prixim Global's Digital Marketing.png"
+                                src="assets\img\digital\digital -Marketing -Transform Your Business with Prixim Global's Digital Marketing.webp"
                                 alt="Prixim Global offers digital marketing solutions for Forex brokerages."
                                 loading="lazy"></div>
                     </div>

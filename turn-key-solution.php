@@ -114,7 +114,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
-                                    src="assets/img/cx-services/prop platform - Prop Trading Broker  first image.png"
+                                    src="assets/img/cx-services/prop platform - Prop Trading Broker first image.webp"
                                     alt="Prixim Global offers tailored lead generation,capital and liquidity solutions to help prop trading Firm"
                                     loading="lazy"></div>
                         </div>
@@ -1175,7 +1175,7 @@ rgb(24, 9, 13)
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
-                                    src="assets\img\pop trading\Connections Network.png"
+                                    src="assets\img\pop trading\Connections Network.webp"
                                     alt="Technical Support Outsourcing" loading="lazy"></div>
                         </div>
                     </div>

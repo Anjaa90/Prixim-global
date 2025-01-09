@@ -20,7 +20,7 @@
           <div class="col-lg-7">
             <div class="about-left">
               <div class="about-img vertical-animation"><img
-                  src="assets\img\about\know us - Infrastructure - Prixim Global Infrastructure.png"
+                  src="assets\img\about\know us - Infrastructure - Prixim Global Infrastructure.webp"
                   alt="Prixim Global Workspace for Business Operations" loading="lazy" /></div>
             </div>
           </div>

@@ -39,7 +39,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation">
-                                <img src="assets\img\kyc/outsource - KYC Reporting -KYC and Reporting Services at Prixim Global.png"
+                                <img src="assets\img\kyc/outsource - KYC Reporting -KYC and Reporting Services at Prixim Global (1).webp"
                                     alt="Prixim Global specializes in KYC and reporting services" loading="lazy">
                             </div>
                         </div>
@@ -54,7 +54,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation">
-                                <img src="assets\img\kyc/why choose KYC & Reporting.png"
+                                <img src="assets\img\kyc/why choose KYC & Reporting.webp"
                                     alt="Choose Prixim Global for KYC & Reporting" loading="lazy">
                             </div>
                         </div>

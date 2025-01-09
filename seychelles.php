@@ -16,7 +16,7 @@
                     <div class="col-lg-7">
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
-                                    src="assets\img/Seychelles flag.png"
+                                    src="assets\img/Seychelles flag.webp"
                                     alt="Prixim Global Workspace for Business Operations" loading="lazy"></div>
                         </div>
                     </div>

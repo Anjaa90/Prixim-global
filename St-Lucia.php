@@ -20,7 +20,7 @@
                 <div class="col-lg-7">
                     <div class="about-left">
                         <div class="about-img vertical-animation">
-                            <img src="assets\img\saint lucia.png" 
+                            <img src="assets\img\saint lucia.webp" 
                                  alt="Forex License in Saint Lucia" loading="lazy">
                         </div>
                     </div>

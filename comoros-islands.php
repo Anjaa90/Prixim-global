@@ -16,7 +16,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-7">
                         <div class="about-left">
-                            <div class="about-img vertical-animation"><img src="assets\img/Comoros Islands flag.png"
+                            <div class="about-img vertical-animation"><img src="assets\img/Comoros Islands flag.webp"
                                     alt="Prixim Global Workspace for Business Operations" loading="lazy"></div>
                         </div>
                     </div>
