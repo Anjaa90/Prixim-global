@@ -38,7 +38,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation">
-                                <img src="assets\img\server/outsource -Server Management - Server Management Services.png"
+                                <img src="assets\img\server/outsource -Server Management - Server Management Services (1).webp"
                                     alt="Server Management Services" loading="lazy">
                             </div>
                         </div>

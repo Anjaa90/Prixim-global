@@ -22,7 +22,7 @@
                 <!-- Row 1: Image on Left, Text on Right -->
                 <div class="row align-items-center mb-5">
                     <div class="col-lg-6">
-                        <img src="assets\img\about\know us - our Expertise-  Enhance Your Brokerage with Expert Outsourcing Services.png"
+                        <img src="assets\img\about\know us - our Expertise- Enhance Your Brokerage with Expert Outsourcing Services.webp"
                             class="img-fluid" alt="Outsourcing Services Image" loading="lazy">
                     </div>
                     <div class="col-lg-6">

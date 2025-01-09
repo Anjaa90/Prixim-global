@@ -59,7 +59,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation">
-                                <img src="assets\img\live\outsource - live chat - Live Chat and Email Support at Prixim Global.png"
+                                <img src="assets\img\live\outsource - live chat - Live Chat and Email Support at Prixim Global (1).webp"
                                     alt="Prixim Global offers live chat and email support,for your client immediate assistance"
                                     loading="lazy">
                             </div>
@@ -75,7 +75,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation">
-                                <img src="assets\img\live/Why Choose Prixim Global for Live Chat & Email Support.png"
+                                <img src="assets\img\live/Why Choose Prixim Global for Live Chat & Email Support.webp"
                                     alt="Live Chat & Email Support for Instant Communication, Thorough Email Support and 24/5 Availability."
                                     loading="lazy">
                             </div>

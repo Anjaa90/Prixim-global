@@ -103,7 +103,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
-                                    src="assets\img\outsource\outsource - Tech Support Sales - Comprehensive Tech Support services at Prixim Global.png"
+                                    src="assets\img\outsource\outsource - Tech Support Sales - Comprehensive Tech Support services at Prixim Global.webp"
                                     loading="lazy" alt="Prixim Global provides complete Tech Support"></div>
                         </div>
                     </div>
@@ -157,7 +157,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation">
-                                <img src="assets\img\outsource\outsource - Tech Support Sales - Why Choose Prixim Global for Tech Support.png"
+                                <img src="assets\img\outsource\outsource - Tech Support Sales - Why Choose Prixim Global for Tech Support.webp"
                                     alt="Expert support, quick responses, tailored technology solutions by Prixim Global"
                                     loading="lazy">
                             </div>

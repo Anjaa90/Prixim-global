@@ -34,7 +34,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
-                                    src="assets\img\cx-services\prop platform - Match trader first image.png"
+                                    src="assets\img\cx-services\prop platform - Match trader first image.webp"
                                     alt="Match Trader Services" loading="lazy"></div>
                         </div>
                     </div>
@@ -222,7 +222,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
-                                    src="assets/img/cx-services/Why Choose Prixim Global - match trader.png"
+                                    src="assets/img/cx-services/Why Choose Prixim Global - match trader.webp"
                                     alt="Choose Prixim Global for Prop Trading Brokerage" loading="lazy" /></div>
                         </div>
                     </div>

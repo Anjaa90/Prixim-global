@@ -38,7 +38,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
-                                    src="assets\img\about\know us - Our Certification - Ensuring Customer Safety and Quality Standards.png"
+                                    src="assets\img\about\know us - Our Certification - Ensuring Customer Safety and Quality Standards.webp"
                                     alt="Our Certification" loading="lazy"></div>
                         </div>
                     </div>
@@ -97,7 +97,7 @@
                     <div class="col-lg-6">
                         <div class="about-right">
                             <div class="about-img vertical-animation"><img
-                                    src="assets/img/about/know us - Our Certification - ISO 9001 Certification at Prixim Global.png"
+                                    src="assets/img/about/know us - Our Certification - ISO 9001 Certification at Prixim Global.webp"
                                     alt="ISO 9001 Certification" loading="lazy"></div>
                         </div>
                     </div>
@@ -110,7 +110,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
-                                    src="assets/img/about/know us - Our Certification - ISO 27001 Certification at Prixim Global.png"
+                                    src="assets/img/about/know us - Our Certification - ISO 27001 Certification at Prixim Global.webp"
                                     alt="ISO 27001 Certification" loading="lazy"></div>
                         </div>
                     </div>
@@ -156,7 +156,7 @@
                     <div class="col-lg-6">
                         <div class="about-right">
                             <div class="about-img vertical-animation"><img
-                                    src="assets\img\about\know us - Our Certification - Shariah-Compliant IT Solutions at Prixim Global.png"
+                                    src="assets\img\about\know us - Our Certification - Shariah-Compliant IT Solutions at Prixim Global.webp"
                                     alt="Shariah Compliant" loading="lazy"></div>
                         </div>
                     </div>
@@ -169,7 +169,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
-                                    src="assets/img/about/know us - Our Certification - Proud NASSCOM Member.png"
+                                    src="assets/img/about/know us - Our Certification - Proud NASSCOM Member.webp"
                                     alt="NASSCOM Member" loading="lazy">
                             </div>
                         </div>
