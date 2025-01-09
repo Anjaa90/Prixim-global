@@ -1024,10 +1024,10 @@
         </div>
         <script src="script.js"></script>
         <style>
-            .floating-button {
+           .floating-button {
                 position: fixed;
                 bottom: 90px;
-                right: 20px;
+                left: 20px;
                 display: flex;
                 align-items: center;
                 gap: 10px;
