@@ -609,6 +609,11 @@
           width: 30px;
           height: 30px;
         }
+        @media (max-width: 750px) {
+            .floating-button {   
+                bottom: 160px;
+            }
+            }
       </style>
 
       <!---telegram floating button-->
