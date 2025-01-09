@@ -38,18 +38,18 @@
                     <div class="col-lg-6">
                         <div class="about-right">
                             <div class="site-heading mb-3">
-                                <h1 class="site-title">MT5 Hosting Services at Prixim Global for <span>Optimal Trading</span> </h1>
-                            </div>
+                                <h1 class="site-title" style="font-size:24px">MT5 Hosting Services at Prixim Global – The Best Forex Trading Platform
+                                <span>Forex Trading Platform</span> </h1>
+                            </div><br>
+                            <p>Discover premium MT5 hosting services with Prixim Global, your trusted MT5 White Label Provider and Metatrader5 Provider.
+                            </p>
                             <div class="about-list-wrapper">
 
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>High-Quality MT5 Hosting: </b>Premium MT5 hosting with exceptional performance.</li>
-                                    <li style="font-weight: 400;"><b>Low Latency:</b> Ensures fast and responsive trading experiences.
-                                    </li>
-                                    <li style="font-weight: 400;"><b>Maximum Stability: </b>Reliable hosting for uninterrupted trading operations.
-                                    </li>
-                                    <li style="font-weight: 400;"><b>Proximity to Forex Banks & ECNs:</b>  Servers located near Forex banks, ECNs, and liquidity providers.
-                                    </li>
+                                    <li style="font-weight: 400;"><b>High-Quality Hosting: </b> Experience top-notch performance for seamless trading on MetaTrader5.</li>
+                                    <li style="font-weight: 400;"><b>Low Latency:</b>Enjoy lightning-fast responses, perfect for forex traders.</li>
+                                    <li style="font-weight: 400;"><b>Maximum Stability: </b> Reliable and uninterrupted operations for forex brokers.</li>
+                                    <li style="font-weight: 400;"><b>Proximity to Forex Banks & ECNs:</b>Servers strategically located near Forex banks and ECNs.</li>
                                 </ul>
                             </div>
 
@@ -272,43 +272,42 @@
                                         for Your Forex Brokerage
 
                                     </span></h2>
-                                <h4 style="margin-bottom: 6px;">Proven Expertise</h4>
-                                <p> Years of experience helping brokerages launch and grow.
-
+                                <h4 style="margin-bottom: 6px;">Premium Performance:</h4>
+                                <p>  High-quality hosting for MetaTrader 5 login and smooth FX trade operations.
                                 </p>
                             </div>
 
                             <div class="mb-4">
-                                <h4 style="margin-bottom: 6px;">Strategic Partnership</h4>
-                                <p> Dedicated to your long-term success in the Forex market.
-
+                                <h4 style="margin-bottom: 6px;">User-Friendly Access:</h4>
+                                <p>Seamless trading MT5 and meta trading 5 experiences for brokers and traders.
                                 </p>
                             </div>
 
                             <div class="mb-4">
-                                <h4 style="margin-bottom: 6px;">Market Insights</h4>
-                                <p> Valuable analytics to keep you ahead of trends.
-
+                                <h4 style="margin-bottom: 6px;">Global Currency Trading:</h4>
+                                <p> Supports forex online, currency trading platforms, and foreign exchange brokers.
                                 </p>
                             </div>
 
                             <div class="mb-4">
-                                <h4 style="margin-bottom: 6px;">Regulatory Guidance</h4>
-                                <p>Support navigating complex compliance requirements.
+                                <h4 style="margin-bottom: 6px;">Comprehensive Technology Solutions:</h4>
+                                <p> Leading Technology Provider for Forex Brokerage and Metatrader5 Provider.
                                 </p>
                             </div>
 
                             <div class="mb-4">
-                                <h4 style="margin-bottom: 6px;">Innovative Technology</h4>
-                                <p> Cutting-edge solutions to meet client demands.</p>
+                                <h4 style="margin-bottom: 6px;">Affordable Services:</h4>
+                                <p>Low Cost Services for Forex Brokers with an Affordable MT5 Server Provider and server management.</p>
                             </div>
 
                             <div class="mb-4">
-                                <h4 style="margin-bottom: 6px;">Client-focused</h4>
-                                <p>Personalized services that build loyalty and trust.
+                                <h4 style="margin-bottom: 6px;">Brokerage Setup Support:</h4>
+                                <p>Seamlessly start your Forex brokerage, setup your Forex brokerage, or open your brokerage business with expert guidance.
                                 </p>
                             </div>
+                            
                         </div>
+                        
                     </div>
                 </div>
             </div>
@@ -324,8 +323,8 @@
                 <div class="row align-items-center">
                     <div class="col-lg-8 mx-auto">
                         <div class="cta-content">
-                            <h2>Unlock Fast and Secure MT5 Hosting with Prixim Global</h2>
-                            <p>Request your free quote today. Just leave your details, and we’ll be in touch shortly</p>
+                            <h2 style="font-size:20px">Experience the best foreign exchange trading platform</h2>
+                            <p>Prixim Global’s hosting services!</p>
                             <button class="theme-btn" onclick="toggleForm()">Get in Touch</button>
                         </div>
                     </div>
