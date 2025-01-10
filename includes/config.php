@@ -131,8 +131,8 @@ switch ($menuactive) {
             break;
     
         case 'contact-us.php':
-            $title = "Contact Prixim Global for MT5 Hosting & Prop Trading";
-            $description = "Get in touch with Prixim Global for reliable MT5 hosting and tailored solutions for your prop trading firm. We're here to assist you with your trading needs.";
+            $title = "Contact Prixim Global for MT5 Turnkey & White Label Solutions";
+            $description = "Contact Prixim Global for MT5 Hosting, White Label, MT5 Turnkey solutions, and MetaTrader5 services to streamline and grow your Forex brokerage.";
             break;
 
         case 'comoros-islands.php':
@@ -180,6 +180,16 @@ switch ($menuactive) {
                                     $title ="Forex Brokerage Setup Guide | Company Formation";
                                     $description ="Start your Forex brokerage with Prixim Global. Get expert guidance on company formation, regulation, and business setup.";
                                     break;
+
+                                    case 'customer-care-outsourcing-fxbroker.php':
+                                        $title = "24/5 Customer Support Services | Outsourcing Company in India";
+                                        $description = "Enhance your client support with 24/5 customer care services. As an outsourcing company in India, we provide expert solutions for all your business needs.";
+                                        break;
+
+                                        case 'tech-support-outsourcing.php':
+                                            $title = "Tech Support for Forex Brokerage | Technology Provider";
+                                            $description = "As a technology provider for Forex brokerage and Forex, we deliver reliable solutions for your business.";
+                                            break;
 
                                 
                     }
