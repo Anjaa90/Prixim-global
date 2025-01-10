@@ -73,7 +73,7 @@
                                 Technology, Corporate Consulting and Outsourcing all at one place.
                                 </p>
                                 <div class="hero-btn wow " data-wow-duration="1s" data-wow-delay="1s"><a
-                                        href="turn-key-solution.php" class="theme-btn">Explore More<i
+                                        href="turn-key-solution.php" class="theme-btn">TurnKey Solution<i
                                             class="far fa-arrow-right"></i></a></div>
                             </div>
                         </div>
