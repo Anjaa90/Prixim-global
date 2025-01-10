@@ -2,31 +2,31 @@
 $menuactive = basename($_SERVER['PHP_SELF']);
 switch ($menuactive) {
     case 'index.php':
-        $title = "Low Cost White Label Solutions for Forex Brokerage";
-        $description = "Launch your forex brokerage with our low-cost white label solutions. Get multiple trading platforms, outsourcing services, and everything for an easy, fast setup.";
+        $title = "Setup Your Forex Brokerage with Prixim Global | Trusted Partner";
+        $description = "Grow your Forex brokerage with Prixim Global. We provide technology solutions, outsourcing services, and support to set up and scale your Forex business.";
         $name = "Prixim Global";
         $alternateName = "Prixim Global";
         $url = "https://priximglobal.com/";
         break;
 
     case 'infrastructure.php':
-        $title = "Modern Workspace for Productivity";
-        $description = "Prixim Global offers a workspace with automated desks, high-speed internet, power backup, and data security for seamless and efficient operations.";
+        $title = "Prixim Global | Forex Brokerage Infrastructure & Technology";
+        $description = "Build and scale your Forex brokerage with Prixim Global. We provide infrastructure, technology, and outsourcing services to set up and grow your Brokerage";
         $name = "Prixim Global";
         $alternateName = "Prixim Global Infrastructure";
        
         break;
 
     case 'our-clients.php':
-        $title = "Trust and Partnership at Prixim Global";
-        $description = "We build strong partnerships and provide tailored Forex solutions to empower traders and institutions alike.";
+        $title = "Prixim Global | Trusted Partner for Forex Brokerage";
+        $description = "Partner with Prixim Global for company formation, brokerage regulation, trading platforms, and outsourcing services to grow your Forex business.";
         $name = "Prixim Global";
         $alternateName = "Prixim Global Clients";
        
         break;
 
     case 'our-expertise.php':
-        $title = "Multiple Trading Platforms & Outsourcing Services for Brokerage";
+        $title = "Forex Company Formation, Regulation & Platforms Prixim Global";
         $description = "Launch your brokerage with multiple trading platforms and expert outsourcing services for IT and BPM, banking BPO, and forex outsourcing solutions.";
         break;
     
@@ -36,13 +36,13 @@ switch ($menuactive) {
             break;
     
         case 'mt5-hosting-whitelabel.php':
-            $title = "MT5 Hosting Solutions by Prixim Global for Forex Brokerage";
-            $description = "Prixim Global offers premium MT5 hosting with low latency, dedicated virtual servers, and bare metal options for seamless trading performance worldwide.";
+            $title = "Prixim Global | MT5 Hosting, White Label & MetaTrader5";
+            $description = "Start your Forex brokerage with Prixim Global. We offer MT5 Hosting, MT5 White Label, and MetaTrader5 for a seamless business setup.";
             break;
     
         case 'match-trader-whitelabel.php':
-            $title = "Match Trader Platform by Prixim Global for Brokerage Businesses";
-            $description = "Match-Trader by Prixim Global: an all-in-one platform for brokers, featuring built-in CRM, social and prop trading, and advanced tools for traders and brokers.";
+            $title = "Brokerage Setup | Match Trader Platform | Company Formation";
+            $description = "Start your Forex brokerage with Prixim Global. Use our Brokerage Calculator and Match Trader Platform for company formation and regulation guidance.";
             break;
 
         case 'match-trader-prop-trading.php':
@@ -56,8 +56,8 @@ switch ($menuactive) {
             break;
     
         case 'wow-trader-prop-trading.php':
-            $title = "Intuitive Trading with WOW Trader by Prixim Global";
-            $description = "WOW Trader by Prixim Global for an intuitive trading experience. Designed for all skill levels, this platform boosts customer retention and performance.";
+            $title = "Forex Brokerage Setup | Match Trader, Wow Trader & Formation";
+            $description = "Start your Forex brokerage with Prixim Global. Use Match Trader and Wow Trader platforms for company formation and regulation guidance.";
             break;
     
         case 'xtreme-next.php':
@@ -81,18 +81,18 @@ switch ($menuactive) {
             break;
     
         case 'prop-trading-wow-trader.php':
-            $title = "Launch Your Prop Trading Brokerage with WoW Trader";
-            $description = "Start your prop trading brokerage with WoW Trader. Enjoy an intuitive platform designed for brokers and clients, making trading accessible for all skill levels.";
+            $title = "Forex Brokerage Setup | Match Trader, Wow Trader & Formation";
+            $description = "Start your Forex brokerage with Prixim Global. Use Match Trader and Wow Trader platforms for company formation and regulation guidance.";
             break;
     
         case 'turn-key-solution.php':
-            $title = "Tailored Solutions for Growing Prop Trading Firms";
-            $description = "Prixim Global offers tailored lead generation, sales strategies, and liquidity solutions to help your prop trading firm thrive with expert guidance.";
+            $title = "MT5 Turnkey Solutions | MT5 White Label | Prixim Global";
+            $description = "Start your brokerage with Prixim Global. We provide MT5 White Label, MT5 Turnkey solutions, and MetaTrader5 for a complete Forex business setup.";
             break;
     
         case 'customer-care.php':
-            $title = "24/5 Customer Care Services for Enhanced Client Support";
-            $description = "Prixim Global's 24/5 customer care services offer multilingual support to enhance client experience with effective communication and quick inquiry resolution.";
+            $title = "24/5 Customer Support Services | Outsourcing Company in India";
+            $description = "Enhance your client support with 24/5 customer care services. As an outsourcing company in India, we provide expert solutions for all your business needs.";
             break;
     
         case 'tech-support-outsourcing.php':
@@ -101,18 +101,18 @@ switch ($menuactive) {
             break;
     
         case 'live-chat-emails.php':
-            $title = "Live Chat & Email Support for Forex Broker Outsourcing";
-            $description = "Live Chat and Email Support by Prixim Global offers instant communication, thorough responses, and 24/5 availability for your clients.";
+            $title = "Live Chat & Email Support for Forex | Live Chat Outsourcing";
+            $description = "Boost client service with live chat and email support. Our live chat services are available on an hourly basis for Forex brokers.";
             break;
     
         case 'kyc-reporting.php':
-            $title = "KYC & Reporting Services for Forex Broker Outsourcing";
-            $description = "Prixim Global offers KYC and reporting services to help Forex brokers meet regulatory requirements efficiently, ensuring seamless compliance in the industry.";
+            $title = "KYC & Reporting  for Forex Brokers | AML & Risk Management";
+            $description = "Get KYC AML outsourcing for brokerage and risk management services for Forex brokers. Enhance compliance and secure your Forex business efficiently.";
             break;
     
         case 'server-management.php':
-            $title = "Prixim Global: Secure and Reliable Server Management";
-            $description = "Prixim Global ensures stable Forex operations with server management services, offering expert monitoring, scalability, and infrastructure.";
+            $title = "Prixim Global | Server Management & MT4 Admin Services";
+            $description = "Reliable server management and MT4 Admin Services by Prixim Global to optimize your Forex brokerage operations.";
             break;
     
         case 'marketing.php':
@@ -126,7 +126,7 @@ switch ($menuactive) {
             break;
     
         case 'code-devops.php':
-            $title = "Prixim Global Code DevOps Solutions for Software Development";
+            $title = "Prixim Global Code DevOps Solutions for Forex Brokers";
             $description = "Prixim Global's Code DevOps combines software development and IT operations, ensuring faster delivery of software through collaboration and automation.";
             break;
     
@@ -136,44 +136,52 @@ switch ($menuactive) {
             break;
 
         case 'comoros-islands.php':
-            $title = "Comoros Islands Forex Broker License Affordable & Tax-Friendly";
-            $description = "Prixim Global offers Comoros Islands Forex Broker Licensing with low regulatory hurdles and a favorable tax environment. Contact Us To Start Brokerage Now  ";
+            $title = "Comoros Islands Forex Broker License | Company Formation";
+            $description = "Get your Comoros Islands Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";
                 break;
+
         case 'forex-brokerage-calculator.php':
-            $title = "Forex Brokerage Calculator - Estimate Your Forex Setup Costs";
-            $description = "Use Prixim Global's Forex Brokerage Calculator to estimate setup costs for licensing, platform fees, and operational expenses. ";
+            $title = "Forex Brokerage Setup |Forex Brokerage Calculator";
+            $description = "Start your Forex brokerage with Prixim Global. Use our Forex Brokerage Calculator and get expert guidance on company formation and regulation.";
             break;
 
 
         case 'labuan.php':
-                $title = "Labuan Forex Broker License - Tax-Efficient Solutions";
-                $description = "Prixim Global offers Labuan Forex Broker Licensing for a tax-efficient, regulated setup. Get a license under LFSA for global operations with compliance support.";
+                $title = "Labuan Forex Broker License | Company Formation | Regulation";
+                $description = "Get your Labuan Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";
                 break;
 
                 case 'mauritius.php':
-                    $title = "Mauritius Forex Broker License for Regulated & Tax-Friendly";
-                    $description = "Prixim Global offers Mauritius Forex Broker Licensing for a stable, tax-friendly setup. Start your brokerage under FSC regulation. Contact Us to Know More";
+                    $title = "Mauritius Forex Broker License | Company Formation";
+                    $description = "Get your Mauritius  Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";
                     break;
 
                     case 'seychelles.php':
-                        $title = "Seychelles Forex Broker License for Tax-Efficient";
-                        $description = "Prixim Global offers Seychelles Forex Broker Licensing in a low-tax, business-friendly environment under FSA regulation. contact us to know more";
+                        $title = "Seychelles Forex Broker License | Company Formation";
+                        $description = "Get your Seychelles Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";
                         break;
 
                         case 'vanuatu.php':
-                            $title = "Vanuatu Forex Broker License - Affordable & Flexible";
-                            $description = "Prixim Global provides Vanuatu Forex Broker Licensing with low fees and a flexible regulatory setup. Start your brokerage easily contact us to learn more";
+                            $title = "Vanuatu Forex Broker License | Company Formation | Regulation";
+                            $description = "Get your Vanuatu Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";
                             break;
 
                         case 'St-Lucia.php':
-                            $title =" St Lucia Forex Broker License - Affordable & Flexible";
-                            $description ="";
+                            $title ="St Lucia Forex Broker License | Company Formation | Regulation";
+                            $description ="Get your St Lucia Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";
                             break;
 
                             case 'payments-psp.php':
                                 $title =" PSP for Forex Brokers | Prixim Global | Payment Solution";
                                 $description ="Prixim Global offers secure PSP solutions tailored for Forex brokers. Ensure seamless payment processing and efficient operations with our expertise.";
                                 break;
+
+                                case 'broker-setup-guide.php':
+                                    $title ="Forex Brokerage Setup Guide | Company Formation";
+                                    $description ="Start your Forex brokerage with Prixim Global. Get expert guidance on company formation, regulation, and business setup.";
+                                    break;
+
+                                
                     }
 ?>
 
