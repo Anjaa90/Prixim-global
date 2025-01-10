@@ -19,7 +19,7 @@ switch ($menuactive) {
 
     case 'our-clients.php':
         $title = "Prixim Global | Trusted Partner for Forex Brokerage";
-        $description = "Partner with Prixim Global for company formation, brokerage regulation, trading platforms, and outsourcing services to grow your Forex business.";
+        $description = "Build your Forex brokerage with Prixim Global. Trust our partnership for reliable infrastructure, technology, and outsourcing services to scale your business.";
         $name = "Prixim Global";
         $alternateName = "Prixim Global Clients";
        
@@ -27,7 +27,7 @@ switch ($menuactive) {
 
     case 'our-expertise.php':
         $title = "Forex Company Formation, Regulation & Platforms Prixim Global";
-        $description = "Launch your brokerage with multiple trading platforms and expert outsourcing services for IT and BPM, banking BPO, and forex outsourcing solutions.";
+        $description = "Partner with Prixim Global for company formation, brokerage regulation, trading platforms, and outsourcing services to grow your Forex business.";
         break;
     
         case 'our-certification.php':

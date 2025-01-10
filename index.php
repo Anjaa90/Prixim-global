@@ -210,7 +210,7 @@
                                 </div>
                                 <div class="blog-item-info">
                                     <h3 style="font-size: 18px;" class="my-2">
-                                        <a href="mt5-hosting-whitelabel.html">MT5 Hosting</a>
+                                        <a href="mt5-hosting-whitelabel.php">MT5 Hosting</a>
                                     </h3>
                                     <p>Reliable hosting for seamless MetaTrader 5 operations</p>
                                 </div>
@@ -224,7 +224,7 @@
                                         alt="Match Trader by Prixim Global for all Traders" loading="lazy" width="300" height="200">
                                 </div>
                                 <div class="blog-item-info">
-                                    <h3 style="font-size: 18px;" class="my-2"><a href="match-trader-whitelabel.html">Match
+                                    <h3 style="font-size: 18px;" class="my-2"><a href="match-trader-whitelabel.php">Match
                                             Trader</a></h3>
                                     <p>A versatile platform suitable for all trader levels.</p><br>
                                 </div>
@@ -237,7 +237,7 @@
                                         alt="Prixim Global offers Vertex FX a secure trading platform" loading="lazy" width="300" height="200">
                                 </div>
                                 <div class="blog-item-info">
-                                    <h3 style="font-size: 18px;" class="my-2"><a href="vertexfx-whitelabel.html">Vertex FX</a>
+                                    <h3 style="font-size: 18px;" class="my-2"><a href="vertexfx-whitelabel.php">Vertex FX</a>
                                     </h3>
                                     <p> A user-friendly, secure online trading platform.</p><br>
                                 </div>
@@ -250,7 +250,7 @@
                                         alt="Wow Trader a Fast and intuitive trading platform" loading="lazy" width="300" height="200">
                                 </div>
                                 <div class="blog-item-info">
-                                    <h3 style="font-size: 18px;" class="my-2"><a href="wow-trader-whitelabel.html">Wow Trader</a>
+                                    <h3 style="font-size: 18px;" class="my-2"><a href="wow-trader-whitelabel.php">Wow Trader</a>
                                     </h3>
                                     <p>Fast and intuitive for an effortless trading experience.</p>
                                 </div>
