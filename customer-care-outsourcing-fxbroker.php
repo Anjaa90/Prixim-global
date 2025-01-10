@@ -52,10 +52,11 @@
                             <div class="feature-item feature-color-2">
                                 <div class="feature-top">
                                     <div class="feature-icon"><i class="fa-thin fa-globe"></i></div>
-                                    <h3 style="font-size: 20px;">Multilingual Support</h3>
+                                    <h3 style="font-size: 20px;">24/5 Multilingual Support</h3>
                                 </div>
                                 <div class="feature-content">
-                                    <p>Assistance in local languages for seamless communication.</p>
+                                    <p>Available during all trading hours for seamless assistance.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -63,25 +64,59 @@
                             <div class="feature-item feature-color-1">
                                 <div class="feature-top">
                                     <div class="feature-icon"><i class="fa-thin fa-user-shield"></i></div>
-                                    <h3 style="font-size: 20px;">Trained Professionals</h3>
+                                    <h3 style="font-size: 20px;">Quick Inquiry Resolution</h3>
                                 </div>
                                 <div class="feature-content">
-                                    <p>Our customer service team is well-versed in Forex products, providing
-                                        knowledgeable support.</p>
+                                    <p>Ensures fast and efficient handling of client inquiries.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-4">
                             <div class="feature-item feature-color-3">
                                 <div class="feature-top">
-                                    <div class="feature-icon"><i class="fa-thin fa-clock"></i></div>
-                                    <h3 style="font-size: 20px;">24/5 Availability</h3>
+                                    <div class="feature-icon"><i class="fa-thin fa-globe"></i></div>
+                                    <h3 style="font-size: 20px;">Expertise in Forex Industry</h3>
                                 </div>
                                 <div class="feature-content">
-                                    <p>Reliable support when your clients need it.</p>
+                                    <p>Tailored support for Forex Brokerage needs.</p><br>
                                 </div>
                             </div>
                         </div>
+
+                        <div class="col-md-6 col-lg-4">
+                            <div class="feature-item feature-color-1">
+                                <div class="feature-top">
+                                    <div class="feature-icon"><i class="fa-thin fa-hands-helping"></i></div>
+                                   <h3 style="font-size: 20px;">Trusted Outsourcing Support Provider</h3>
+                                </div>
+                                <div class="feature-content">
+                                    <p>Reliable, outsourced services to boost client satisfaction.</p><br>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-4">
+                            <div class="feature-item feature-color-2">
+                                <div class="feature-top">
+                                    <div class="feature-icon"><i class="fa-thin fa-comments"></i></div>
+                                    <h3 style="font-size: 20px;">Live Chat Outsourcing</h3>
+                                </div>
+                                <div class="feature-content">
+                                    <p>Providing effective communication through Live Chat Services.</p><br>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="feature-item feature-color-4">
+                                <div class="feature-top">
+                                    <div class="feature-icon"><i class="fa-thin fa-briefcase"></i></div>
+                                        <h3 style="font-size: 20px;">Comprehensive Forex Solutions</h3>
+                                    </div>
+                                    <div class="feature-content">
+                                        <p>Offers services from Metatrader5 support to Outsourcing Provider for Forex Industry.</p><br>
+                                    </div>
+                                </div>
+                            </div>  
                     </div>
                 </div>
             </div>
@@ -104,7 +139,7 @@
                                     alt="Personalized Customer Support By Prixim Global" loading="lazy"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Increased Client Satisfaction</h3><br>
-                                <span> Personalized support leads to higher client satisfaction and loyalty.
+                                <span>Personalized Live Chat Services for Forex Brokerage boost client satisfaction and loyalty, supported by our expertise as a leading Live Chat Outsourcing Provider.
                                 </span>
                             </div>
                         </div>
@@ -117,7 +152,7 @@
                                     style="height: 193px;width:400px ;" loading="lazy"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Enhanced Reputation</h3><br>
-                                <span> Reliable customer care enhances your brokerage's reputation in the industry.
+                                <span> Reliable customer care and Outsourcing Services for Forex Industry enhance your brokerage's reputation, building trust and client loyalty.
                                 </span>
 
                             </div>
@@ -130,7 +165,7 @@
                                     alt="Quality Customer Support for Higher Retention Rates" loading="lazy"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Retention Rates</h3><br>
-                                <span>Quality support contributes to higher retention rates among clients.
+                                <span>Quality support through Outsourcing Services for Forex Industry drives higher retention rates, strengthening client loyalty with reliable service.
                                 </span>
 
                             </div>

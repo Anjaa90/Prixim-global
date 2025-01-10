@@ -38,21 +38,21 @@
                     <div class="col-lg-6">
                         <div class="about-right">
                             <div class="site-heading mb-3">
-                                <h1 class="site-title" style="font-size:24px">MT5 Hosting Services at Prixim Global – The Best Forex Trading Platform
-                                <span>Forex Trading Platform</span> </h1>
+                                <h1 class="site-title" style="font-size:24px">MT5 Hosting Services at Prixim Global – The Best <span>Forex Trading Platform</span> </h1>
                             </div><br>
                             <p>Discover premium MT5 hosting services with Prixim Global, your trusted MT5 White Label Provider and Metatrader5 Provider.
+
                             </p>
                             <div class="about-list-wrapper">
 
                                 <ul class="about-list list-unstyled">
                                     <li style="font-weight: 400;"><b>High-Quality Hosting: </b> Experience top-notch performance for seamless trading on MetaTrader5.</li>
-                                    <li style="font-weight: 400;"><b>Low Latency:</b>Enjoy lightning-fast responses, perfect for forex traders.</li>
+                                    <li style="font-weight: 400;"><b>Low Latency:</b> Enjoy lightning-fast responses, perfect for forex traders.</li>
                                     <li style="font-weight: 400;"><b>Maximum Stability: </b> Reliable and uninterrupted operations for forex brokers.</li>
-                                    <li style="font-weight: 400;"><b>Proximity to Forex Banks & ECNs:</b>Servers strategically located near Forex banks and ECNs.</li>
+                                    <li style="font-weight: 400;"><b>Proximity to Liquidity Providers: </b>Servers strategically located near Forex banks and ECNs.</li>
                                 </ul>
                             </div>
-
+                           
 
                         </div>
                     </div>
@@ -273,7 +273,7 @@
 
                                     </span></h2>
                                 <h4 style="margin-bottom: 6px;">Premium Performance:</h4>
-                                <p>  High-quality hosting for MetaTrader 5 login and smooth FX trade operations.
+                                <p> High-quality hosting for MetaTrader 5 login and smooth FX trade operations.
                                 </p>
                             </div>
 
@@ -297,7 +297,8 @@
 
                             <div class="mb-4">
                                 <h4 style="margin-bottom: 6px;">Affordable Services:</h4>
-                                <p>Low Cost Services for Forex Brokers with an Affordable MT5 Server Provider and server management.</p>
+                                <p> Low Cost Services for Forex Brokers with an Affordable MT5 Server Provider and server management.
+                                </p>
                             </div>
 
                             <div class="mb-4">
@@ -323,8 +324,9 @@
                 <div class="row align-items-center">
                     <div class="col-lg-8 mx-auto">
                         <div class="cta-content">
-                            <h2 style="font-size:20px">Experience the best foreign exchange trading platform</h2>
-                            <p>Prixim Global’s hosting services!</p>
+                            <h2 style="font-size:20px">Experience the best foreign exchange trading platform with</h2>
+                            <p>Prixim Global’s hosting services!
+                            </p>
                             <button class="theme-btn" onclick="toggleForm()">Get in Touch</button>
                         </div>
                     </div>
