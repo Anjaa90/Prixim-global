@@ -138,12 +138,12 @@
                             <div class="about-list-wrapper">
                                 <!-- <h2 class="site-title-1">Why Choose Prixim Global for Live Chat & Email Support?</h2> -->
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Comprehensive Tech Support for Forex Brokerage:</b> Ensuring smooth operation of platforms like <strong>Metatrader5</strong>.
+                                    <li style="font-weight: 400;"><b>Comprehensive Tech Support for Forex Brokerage:</b> Ensuring smooth operation of platforms like Metatrader5.
 
                                     </li>
-                                    <li style="font-weight: 400;"><b>Experienced Team:</b> Quick resolution of any software or platform-related issues, including <strong>MT5 White Label Provider</strong> services.
+                                    <li style="font-weight: 400;"><b>Experienced Team:</b> Quick resolution of any software or platform-related issues, including MT5 White Label Provider services.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Reliable Assistance:</b> Available to handle technical challenges promptly, backed by our expertise as a trusted <strong>Technology Provider for Forex</strong>.
+                                    <li style="font-weight: 400;"><b>Reliable Assistance:</b> Available to handle technical challenges promptly, backed by our expertise as a trusted Technology Provider for Forex.
 
                                     </li>
                                 </ul>
