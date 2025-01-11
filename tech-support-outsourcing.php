@@ -110,15 +110,12 @@
                     <div class="col-lg-6">
                         <div class="about-right">
                             <div class="site-heading mb-3">
-                                <h1 class="site-title">Comprehensive Tech Support services at <span>Prixim Global</span>
+                                <h1 class="site-title">Tech Support at <span>Prixim Global</span>
                                 </h1>
                             </div>
                             <ul>
                                 <li style="font-weight:normal;">
-                                    Prixim Global provides complete Tech Support to ensure your trading platforms
-                                    operate smoothly.
-                                    Our experienced technical team is available to resolve any software or
-                                    platform-related issues quickly.</li>
+                                Prixim Global provides expert <strong>Tech Support for Forex Brokerage</strong>, ensuring smooth operation of platforms like <strong>Metatrader5</strong>. As a leading <strong>Technology Provider for Forex</strong>, we resolve issues quickly with our <strong>MT5 Whitelabel</strong> and <strong>Affordable MT5 Server</strong> services.</li>
                             </ul>
                         </div>
                     </div>
@@ -141,13 +138,12 @@
                             <div class="about-list-wrapper">
                                 <!-- <h2 class="site-title-1">Why Choose Prixim Global for Live Chat & Email Support?</h2> -->
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Comprehensive Tech Support:</b> Ensuring smooth operation of your trading platforms.
-
+                                    <li style="font-weight: 400;"><b>Comprehensive Tech Support for Forex Brokerage:</b> Ensuring smooth operation of platforms like <strong>Metatrader5</strong>.
 
                                     </li>
-                                    <li style="font-weight: 400;"><b>Experienced Team:</b> Quick resolution of any software or platform-related issues.
+                                    <li style="font-weight: 400;"><b>Experienced Team:</b> Quick resolution of any software or platform-related issues, including <strong>MT5 White Label Provider</strong> services.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Reliable Assistance:</b> Available to handle technical challenges promptly.
+                                    <li style="font-weight: 400;"><b>Reliable Assistance:</b> Available to handle technical challenges promptly, backed by our expertise as a trusted <strong>Technology Provider for Forex</strong>.
 
                                     </li>
                                 </ul>
@@ -192,9 +188,7 @@
                                     style="height: 230px;width:400px ;"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Minimized Downtime</h3><br>
-                                <span> Quick issue reservices reduce downtime, ensuring your trading operations remain
-                                    uninterrupted.
-
+                                <span> Quick issue resolution ensures uninterrupted trading. As a trusted Technology Provider for Forex Brokerage, we keep your Metatrader5 platform running smoothly.
                                 </span>
                             </div>
                         </div>
@@ -206,8 +200,7 @@
                                     alt="Prixim Global's tech support, focus on Forex strategy and growth."></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Focus on Core Business</h3><br>
-                                <span> With our tech support, you can focus on strategy and growth, leaving technical
-                                    issues to us.
+                                <span> With our Tech Support for Forex Brokerage, focus on growth while we handle technical issues, ensuring smooth operation of Metatrader5 and MT5 White Label Provider services.
 
                                 </span>
                             </div>
@@ -221,14 +214,14 @@
                                     alt="Regular Maintenance and Monitoring by Prixim Global"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Enhanced System Performance</h3><br>
-                                <span>Regular maintenance and monitoring enhance overall system performance.
+                                <span>Regular maintenance boosts system performance, ensuring smooth operation of Metatrader5 with our Affordable MT5 Server Provider services.
                                 </span>
                             </div>
                         </div>
                     </div>
 
                     <p class="mt-4" style="text-align: center; font-size: 16px;">
-                    At Prixim Global, we commit to excellence through continuous improvement and regular training, ensuring we provide exceptional support to your clients.</p>
+                    At Prixim Global, we focus on continuous improvement and training to deliver exceptional support. As a leading <strong>Technology Provider for Forex Brokerage</strong>, we offer <strong>Live Chat Services for Forex Brokerage</strong>. Our services ensure seamless client experiences and efficient operations.</p>
                 </div>
             </div>
         </div><br><br>
@@ -257,8 +250,7 @@
                                     </button></h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
                                     data-bs-parent="#accordionExampleOne">
-                                    <div class="accordion-body">We support software bugs, platform malfunctions,
-                                        connectivity issues, and more related to trading technologies.
+                                    <div class="accordion-body">We support software bugs, platform malfunctions, and connectivity issues for Metatrader5 and other Forex trading technologies, ensuring seamless operation.
                                     </div>
                                 </div>
                             </div>
