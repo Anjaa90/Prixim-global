@@ -39,7 +39,7 @@
                     <div class="col-lg-6">
                         <div class="about-right">
                             <div class="site-heading mb-3">
-                                <h1 class="site-title">Live Chat and Email Support For <span>Forex broker outsourcing
+                                <h1 class="site-title">Chat and Email Support for <span>Forex broker outsourcing
                                     </span>
                                 </h1>
                             </div>
@@ -47,10 +47,11 @@
                                     <li style="font-weight: 400;"><b>Live Chat Support:</b> Tailored for Forex brokers, NEO banks, and crypto brokers, ensuring immediate assistance for client queries.
                                     </li>
                                     <li style="font-weight: 400;"><b>Email Support:</b> Covers back-office operations, KYC checks, and AML compliance.
+Tailored for Specific Industries: Live chat services for Forex Brokerage, NEO banks, and crypto brokers.
+
                                     </li>
-                                    <li style="font-weight: 400;"><b>Tailored for Specific Industries:</b> Live chat support designed for Forex brokers, NEO banks, and crypto brokers.
-                                    </li>
-                                    <li style="font-weight: 400;"><b>Trusted Forex Outsourcing Partner:  </b> Reliable and comprehensive support for your brokerage needs
+                                    <li style="font-weight: 400;"><b>Trusted Forex Outsourcing Partner:  </b> Reliable and comprehensive support, including Outsourcing Services for Forex Industry, Metatrader5 Provider, and Risk Management Provider for Forex Broker.
+
                                     </li>
                                 </ul>
 
@@ -89,11 +90,10 @@
                                         Support?</span></h2>
                                 <br>
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Instant Communication:</b> Real-time live chat for prompt inquiries.
-
+                                    <li style="font-weight: 400;"><b>Instant Communication:</b> Real-time Live Chat Services for Forex Brokerage for prompt inquiries.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Thorough Email Support:</b>Detailed responses for clarity and thoroughness.</li>
-                                    <li style="font-weight: 400;"><b>24/5 Availability: </b>Support throughout the trading week, ensuring no delays.
+                                    <li style="font-weight: 400;"><b>Thorough Email Support:</b>Detailed responses ensuring clarity, including KYC AML Outsourcing for Financial Brokerage.</li>
+                                    <li style="font-weight: 400;"><b>24/5 Availability: </b>Support throughout the trading week, leveraging our expertise as a Technology Provider for Forex Brokerage and Outsourcing Support Provider.
                                     </li>
                                 </ul>
                             </div>
@@ -124,9 +124,8 @@
                                     alt=" Live Chat & Email Support to foster stronger relationships with clients.">
                             </div>
                             <div class="item blog-item-info">
-                                <h3 style="font-size: 22px;">Improved Client Engagement</h3><br>
-                                <span> Instant support fosters stronger relationships with your clients.
-
+                                <h3 style="font-size: 22px;" class="pb-2">Improved Client Engagement</h3>
+                                <span>Instant support via Live Chat Services for Forex Brokerage strengthens client relationships, backed by our expertise as a Technology Provider for Forex Brokerage.
                                 </span>
                             </div>
                         </div>
@@ -138,9 +137,8 @@
                                     alt=" Live Chat & Email Support gives Clients a choose preferred method of communication "
                                     style="height: 199px;width:390px ;"></div>
                             <div class="item blog-item-info">
-                                <h3 style="font-size: 22px;">Complete Coverage</h3><br>
-                                <span> Clients can choose their preferred method of communication for convenience.
-
+                                <h3 style="font-size: 22px;" class="pb-2">Complete Coverage</h3>
+                                <span>Clients can choose their preferred communication method, with support from our Live Chat Services for Forex Brokerage and Outsourcing Support Provider expertise.
                                 </span>
 
                             </div>
@@ -152,8 +150,8 @@
                                     src="assets\img\pop trading/outsource - live chat- Increased Client Trust.png"
                                     alt="Our Live Chat & Email Support Prompt responses builds Client Trust"></div>
                             <div class="item blog-item-info">
-                                <h3 style="font-size: 22px;">Increased Client Trust</h3><br>
-                                <span>Prompt responses build trust and confidence in your brokerage.
+                                <h3 style="font-size: 22px;" class="pb-2">Increased Client Trust</h3>
+                                <span>Prompt responses via Live Chat Services for Forex Brokerage and Outsourcing Support Provider help build trust and confidence in your Forex Brokerage.
                                 </span>
                             </div>
                         </div>
@@ -178,13 +176,12 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faqCollapseOne" aria-expanded="false"
                                         aria-controls="faqCollapseOne">
-                                        What hours are Live Chat and Email support available?
+                                        How do you ensure Outsourcing with regulatory requirements?
                                     </button>
                                 </h2>
                                 <div id="faqCollapseOne" class="accordion-collapse collapse" aria-labelledby="faqOne"
                                     data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">Our Live Chat and Email support are available 24/5 to
-                                        assist your clients during trading hours.</div>
+                                    <div class="accordion-body">We stay updated on regulatory changes and integrate them into our KYC AML Outsourcing to ensure compliance with Brokerage Regulation Forex Broker.</div>
                                 </div>
                             </div>
                             <div class="accordion-item">
@@ -192,13 +189,13 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faqCollapseTwo" aria-expanded="false"
                                         aria-controls="faqCollapseTwo">
-                                        How quickly do you respond to Live Chat inquiries?
+                                        What is Email Outsourcing?
                                     </button>
                                 </h2>
                                 <div id="faqCollapseTwo" class="accordion-collapse collapse" aria-labelledby="faqTwo"
                                     data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">We aim to respond to Live Chat inquiries in real-time,
-                                        typically within seconds.</div>
+                                    <div class="accordion-body">Email outsourcing involves using third-party providers to manage email support. For Forex brokers, we offer Outsourcing Services for Forex Industry with trained agents, enhancing customer service and operational efficiency.
+                                    </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
@@ -206,13 +203,12 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faqCollapseThree" aria-expanded="false"
                                         aria-controls="faqCollapseThree">
-                                        What is the typical response time for Email support?
+                                        How will Email Outsourcing help my Brokerage?
                                     </button>
                                 </h2>
                                 <div id="faqCollapseThree" class="accordion-collapse collapse"
                                     aria-labelledby="faqThree" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">Our goal is to respond to email inquiries within 1 hour
-                                        during operating hours.</div>
+                                    <div class="accordion-body">Email outsourcing improves client satisfaction, reduces costs, and streamlines communication, allowing you to focus on growing your Forex Business.</div>
                                 </div>
                             </div>
                             <div class="accordion-item">
@@ -220,13 +216,12 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faqCollapseFour" aria-expanded="false"
                                         aria-controls="faqCollapseFour">
-                                        Can clients initiate a chat for urgent issues?
+                                        What is LIVE Outsorcing?
                                     </button>
                                 </h2>
                                 <div id="faqCollapseFour" class="accordion-collapse collapse" aria-labelledby="faqFour"
                                     data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">Yes, our Live Chat is designed for urgent inquiries,
-                                        ensuring immediate attention.</div>
+                                    <div class="accordion-body">At Prixim Global, Live Chat Outsourcing involves partnering with us to manage chat support for your Forex platform. Our expert agents, trained in Outsourcing Services for Forex Industry, handle real-time inquiries efficiently, boosting customer service and operational effectiveness for your Forex business.</div>
                                 </div>
                             </div>
                             <div class="accordion-item">
@@ -234,13 +229,12 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faqCollapseFive" aria-expanded="false"
                                         aria-controls="faqCollapseFive">
-                                        Is the Email support available in multiple languages?
+                                        How will Live chat outsourcing help my brokerage?
                                     </button>
                                 </h2>
                                 <div id="faqCollapseFive" class="accordion-collapse collapse" aria-labelledby="faqFive"
                                     data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">Yes, we provide Email support in several languages to
-                                        accommodate your clients.</div>
+                                    <div class="accordion-body">At Prixim Global, Live Chat Outsourcing enhances client satisfaction by delivering real-time support for your Forex brokerage. Our Outsourcing Services for Forex Brokers reduce costs while ensuring efficient communication, allowing you to focus on growing and scaling your Forex business.</div>
                                 </div>
                             </div>
                             <div class="accordion-item">
@@ -248,58 +242,17 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faqCollapseSix" aria-expanded="false"
                                         aria-controls="faqCollapseSix">
-                                        How do you ensure consistent quality in communication?
+                                        Can I get 24\7 support for my brokerage business?
                                     </button>
                                 </h2>
                                 <div id="faqCollapseSix" class="accordion-collapse collapse" aria-labelledby="faqSix"
                                     data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">We regularly review chat transcripts and email
-                                        interactions to ensure quality and effectiveness.</div>
+                                    <div class="accordion-body">At Prixim Global, we offer 24/7 support to ensure your Forex business operates smoothly, handling technical issues, client queries, and operations at any time.</div>
                                 </div>
                             </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="faqSeven">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#faqCollapseSeven" aria-expanded="false"
-                                        aria-controls="faqCollapseSeven">
-                                        Can I customize the Live Chat interface for my website?
-                                    </button>
-                                </h2>
-                                <div id="faqCollapseSeven" class="accordion-collapse collapse"
-                                    aria-labelledby="faqSeven" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">Absolutely! We can customize the Live Chat interface to
-                                        match your branding and website design.</div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="faqEight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#faqCollapseEight" aria-expanded="false"
-                                        aria-controls="faqCollapseEight">
-                                        Do you provide transcripts of Live Chat sessions?
-                                    </button>
-                                </h2>
-                                <div id="faqCollapseEight" class="accordion-collapse collapse"
-                                    aria-labelledby="faqEight" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">Yes, we can provide transcripts of Live Chat sessions
-                                        for your records.</div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="faqNine">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#faqCollapseNine" aria-expanded="false"
-                                        aria-controls="faqCollapseNine">
-                                        How do you handle high volumes of inquiries?
-                                    </button>
-                                </h2>
-                                <div id="faqCollapseNine" class="accordion-collapse collapse" aria-labelledby="faqNine"
-                                    data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">We have a dedicated team to manage high volumes,
-                                        ensuring that all inquiries are addressed promptly.</div>
-                                </div>
-                            </div>
-
+                            
+                            
+                            
 
                         </div>
                     </div>
