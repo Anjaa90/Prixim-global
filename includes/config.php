@@ -145,6 +145,11 @@ switch ($menuactive) {
             $description = "Start your Forex brokerage with Prixim Global. Use our Forex Brokerage Calculator and get expert guidance on company formation and regulation.";
             break;
 
+            case 'thank_you.php':
+                $title = "Prixim Global | Thank You";
+                $description = "We appreciate your interest. Our team will get back to you shortly.";
+                break;
+
 
         case 'labuan.php':
                 $title = "Labuan Forex Broker License | Company Formation | Regulation";
