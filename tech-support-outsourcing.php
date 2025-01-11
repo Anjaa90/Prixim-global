@@ -115,7 +115,7 @@
                             </div>
                             <ul>
                                 <li style="font-weight:normal;">
-                                Prixim Global provides expert <strong>Tech Support for Forex Brokerage</strong>, ensuring smooth operation of platforms like <strong>Metatrader5</strong>. As a leading <strong>Technology Provider for Forex</strong>, we resolve issues quickly with our <strong>MT5 Whitelabel</strong> and <strong>Affordable MT5 Server</strong> services.</li>
+                                Prixim Global provides expert Tech Support for Forex Brokerage, ensuring smooth operation of platforms like Metatrader5. As a leading Technology Provider for Forex, we resolve issues quickly with our MT5 Whitelabel and Affordable MT5 Server services.</li>
                             </ul>
                         </div>
                     </div>
@@ -221,7 +221,7 @@
                     </div>
 
                     <p class="mt-4" style="text-align: center; font-size: 16px;">
-                    At Prixim Global, we focus on continuous improvement and training to deliver exceptional support. As a leading <strong>Technology Provider for Forex Brokerage</strong>, we offer <strong>Live Chat Services for Forex Brokerage</strong>. Our services ensure seamless client experiences and efficient operations.</p>
+                    At Prixim Global, we focus on continuous improvement and training to deliver exceptional support. As a leading Technology Provider for Forex Brokerage, we offer Live Chat Services for Forex Brokerage. Our services ensure seamless client experiences and efficient operations.</p>
                 </div>
             </div>
         </div><br><br>
