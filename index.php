@@ -786,7 +786,8 @@
                 </div>
             </div>
         </div>
-        <div class="modal" id="formModal" style="display:none;">
+        <?php include ('includes/getintouch.php');?>
+        /* <div class="modal" id="formModal" style="display:none;">
             <div class="modal-content">
                 <span class="close" onclick="toggleForm()"></span>
                 <!-- Form starts here -->
@@ -908,7 +909,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */
                 <!-- Form ends here -->
             </div>
         </div>
