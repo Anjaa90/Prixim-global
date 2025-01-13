@@ -39,7 +39,7 @@
         </div>
         <div class="choose-area " style="padding-top: 50px ;">
             <div class="container">
-                <div class="row align-items-center">
+                <div class="row align-items-center mb-5">
                     <div class="col-lg-6">
                         <div class="choose-content">
                             <div class="site-heading mb-3">
@@ -48,12 +48,10 @@
 
                                     </span></h2>
                             </div>
-                            <p>Prixim Global offers digital marketing solutions for Forex brokerages. <br> Our services
-                                include SEO, PPC, content marketing, and more to boost your online presence and attract
-                                clients to your Forex broker website. <br> Partner with us to grow your brokerage today.
-
-
-                            </p>
+                            <p>SEO, PPC, and Content Marketing to boost your online presence and attract clients to your Forex broker website.</p>
+                            <p>Partner with us to start your Forex broker with tailored solutions for a strong online presence.</p>
+                            <p>Services like MT5 White Label Provider and liquidity provider for the Forex industry to enhance your operations.</p>
+                            <p>Outsourcing support for the Forex industry to help you grow effectively and streamline your brokerage.</p>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -82,8 +80,7 @@
                             <div class="service-icon"><i class="fa-thin fa-magnifying-glass"></i></div>
                             <div class="service-content">
                                 <h3 class="service-title"><a href="#">Search Engine Optimization</a></h3>
-                                <p class="service-text">Our company's team is skilled in advanced SEO techniques and
-                                    utilizes top SEO tools to provide optimal results for our clients.</p>
+                                <p class="service-text">We use advanced SEO to boost your Forex brokerage’s visibility and offer services like MT5 white label provider and liquidity provider to help you grow.</p>
                             </div>
                         </div>
                     </div>
@@ -92,8 +89,7 @@
                             <div class="service-icon"><i class="fa-thin fa-users"></i></div>
                             <div class="service-content">
                                 <h3 class="service-title"><a href="#">Social Media Marketing</a></h3>
-                                <p class="service-text">We recognize the significance of Social Media expansion and
-                                    build an effective social media plan to boost your online visibility.</p>
+                                <p class="service-text">We create effective social media strategies to enhance your Forex brokerage's online visibility and engagement.</p>
                             </div>
                         </div>
                     </div>
@@ -102,8 +98,7 @@
                             <div class="service-icon"><i class="fa-thin fa-envelope-open-text"></i></div>
                             <div class="service-content">
                                 <h3 class="service-title"><a href="#">Content Marketing</a></h3>
-                                <p class="service-text">The Prixim Global Team manages all stages of content marketing,
-                                    including strategy, creation, production, promotion, and measurement.</p>
+                                <p class="service-text">The Prixim Global team handles every stage of content marketing, from strategy and creation to production, promotion, and performance measurement for your Forex brokerage.</p>
                             </div>
                         </div>
                     </div>
@@ -113,8 +108,7 @@
                             <div class="service-content">
                                 <h3 class="service-title"><a href="#">Conversion Optimization
                                     </a></h3>
-                                <p class="service-text">Our innovative tactics are grounded in proven principles that
-                                    will boost your business and lower your monthly advertising costs.</p>
+                                <p class="service-text">Our proven strategies optimize conversions, boosting your Forex brokerage's growth while reducing monthly advertising costs.</p>
                             </div>
                         </div>
                     </div>
@@ -123,9 +117,7 @@
                             <div class="service-icon"><i class="fa-thin fa-file-certificate"></i></div>
                             <div class="service-content">
                                 <h3 class="service-title"><a href="#">Online Reputation</a></h3>
-                                <p class="service-text">We aim to uphold a favourable brand image with customers by
-                                    utilizing distinct marketing strategies.
-
+                                <p class="service-text">We maintain a strong brand image for your Forex brokerage by employing effective marketing strategies to enhance customer trust.
                                 </p>
                             </div>
                         </div>
@@ -135,9 +127,7 @@
                             <div class="service-icon"><i class="fa-thin fa-people-arrows"></i></div>
                             <div class="service-content">
                                 <h3 class="service-title"><a href="#">Management of PPC</a></h3>
-                                <p class="service-text">To deliver optimal outcomes for our customers, our team
-                                    implements sophisticated SEO and SEM strategies, making use of top-notch SEO
-                                    technology.
+                                <p class="service-text">Our team uses advanced SEO and SEM strategies, leveraging top-notch technology to deliver optimal PPC results for your Forex brokerage.
                                 </p>
                             </div>
                         </div>
@@ -164,9 +154,7 @@
                             <div class="blog-item-info">
                                 <h3 style="font-size: 22px;" class="h2tag blog-title"><a href="#">Web audit
                                         procedures</a></h3>
-                                <p>Our approach involves simplifying technical terms and delving deeper into your
-                                    website audit report to help you comprehend where your funds are being allocated and
-                                    the progress of your campaign.</p>
+                                <p>We simplify technical terms and thoroughly analyze your website audit report to help you understand where funds are allocated and the progress of your Forex brokerage campaign.</p>
                             </div>
                         </div>
                     </div>
@@ -178,9 +166,7 @@
                             <div class="blog-item-info">
                                 <h3 style="font-size: 22px;" class="h2tag blog-title"><a href="#">Plan for e-commerce
                                         strategy</a></h3>
-                                <p>As a top marketing strategy firm, we have acquired vast knowledge and proficiency in
-                                    various aspects of eCommerce marketing strategy creation, such as eCommerce PPC,
-                                    eCommerce SEO, and eCommerce web design.</p>
+                                <p>As a leading marketing firm, we specialize in eCommerce strategies, including eCommerce PPC, eCommerce SEO, and eCommerce web design, to enhance your Forex brokerage's online presence and growth.</p>
                             </div>
                         </div>
                     </div>
@@ -193,9 +179,7 @@
                             <div class="blog-item-info">
                                 <h3 style="font-size: 22px;" class="h2tag blog-title"><a href="#">Plan for advertising
                                         on the Internet</a></h3>
-                                <p>Put your money in a digital marketing firm with a track record and knowledge in
-                                    executing Amazon PPC strategies, Amazon branding strategies, and online marketplace
-                                    advertising programs.</p>
+                                <p>Invest in a digital marketing firm with expertise in Amazon PPC, Amazon branding strategies, and online marketplace advertising, to drive growth for your Forex brokerage.</p>
                             </div>
                         </div>
                     </div>
@@ -211,8 +195,7 @@
                                 <h3 style="font-size: 22px;" class="h2tag blog-title"><a href="#">Adaptable advertising
                                         techniques</a>
                                 </h3>
-                                <p>If you need help creating a social media strategy for B2B or B2C products or
-                                    services, our internet marketing strategy consultants can help.</p>
+                                <p>Our internet marketing strategy consultants can help create tailored social media strategies for B2B or B2C products, enhancing your Forex brokerage's online presence and engagement.</p>
                             </div>
                         </div>
                     </div>
@@ -224,9 +207,7 @@
                             <div class="blog-item-info">
                                 <h3 style="font-size: 22px;" class="h2tag blog-title"><a href="#">Marketing plan</a>
                                 </h3>
-                                <p>Prixim Global has a group of market experts who are well-versed in different online
-                                    advertising options such as Facebook ads, social media content plans, and SEM
-                                    strategies.</p>
+                                <p>Prixim Global has a team of experts skilled in various online advertising options, including Facebook ads, social media content strategies, and SEM to help grow your Forex brokerage.</p>
                             </div>
                         </div>
                     </div>
@@ -239,8 +220,7 @@
                             <div class="blog-item-info">
                                 <h3 style="font-size: 22px;" class="h2tag blog-title"><a href="#">Strategy for
                                         optimizing search engines</a></h3>
-                                <p>At Prixim Global, we offer SEO suggestions that also deal with preventing website
-                                    issues.</p>
+                                <p>At Prixim Global, we provide SEO strategies that not only enhance visibility but also address and prevent website issues for your Forex brokerage.</p>
                             </div>
                         </div>
                     </div>
@@ -255,7 +235,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-8 mx-auto">
                     <div class="cta-content">
-                        <h2>Want to do marketing for your business?</h2>
+                        <h2>Want to Market Your Forex Brokerage?</h2>
                         <p>We offer different types of online marketing with great strategy!</p>
                         <button class="theme-btn" onclick="toggleForm()">Get in Touch</button>
                     </div>
