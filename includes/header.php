@@ -49,7 +49,7 @@
                   href="mailto:sales@priximglobal.com">sales@priximglobal.com</a></li>
               <li><img src="assets/img/whatsapp.webp" alt="united kingdom" loading="lazy" /><a
                   href="https://wa.me/+917972359229">+971544335310</a></li>
-              <li><img src="assets/img/skype.webp" alt=""/><a href="https://join.skype.com/invite/xraWIPh4p9eP" target="_blank"> Prixim Global</a></li>
+              <li><img src="assets/img/logo/favicon-01 (1).png" alt=""/><a href="https://join.skype.com/invite/xraWIPh4p9eP" target="_blank"> &nbsp;Prixim Global</a></li>
 
             </ul>
           </div>
