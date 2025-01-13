@@ -15,7 +15,7 @@
 
 
 
-        <div class="about-area" style="padding-top: 30px;">
+        <div class="about-area pb-20" style="padding-top: 30px;">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
@@ -23,16 +23,17 @@
                             <div class="site-heading mb-3">
                                 <h1 class="site-title">Server Management Services at Prixim Global</h1>
                             </div>
-                            <p class="about-text">Ensure the stability and security of your Forex operations with Prixim Global’s Server Management services. We handle all aspects of server setup, monitoring, and maintenance.
+                            <p class="about-text">Ensure the stability and security of your Forex operations with Prixim Global’s Server Management services. We specialize in MT5 server setup, monitoring, and maintenance to support forex brokers in delivering seamless trading experiences.
                             </p>
                             <div class="about-list-wrapper">
                                 <h2 class="site-title-1">Why Choose Prixim Global for Server Management?</h2>
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Reliable Infrastructure:</b> Guaranteeing high availability and performance.</li>
-                                    <li style="font-weight: 400;"><b>Expert Monitoring:</b> Continuous monitoring to quickly resolve performance issues.</li>
-                                    <li style="font-weight: 400;"><b>Scalable services:</b> Adapting to your business needs as they grow.</li>
+                                    <li style="font-weight: 400;"><b>Reliable Infrastructure:</b> High availability and performance for your Forex brokerage.</li>
+                                    <li style="font-weight: 400;"><b>Expert Monitoring:</b> Solve performance issues quickly, ensuring your MT5 Whitelabel operates smoothly.</li>
+                                    <li style="font-weight: 400;"><b>Scalable services:</b> Adapting to the needs of startup Forex brokers and established firms alike.</li>
                                 </ul>
                             </div>
+                            <p class="about-text">With our low-cost services for Forex brokers, Prixim Global is the go-to technology provider for Forex brokerages, offering tailored solutions to help your Brokerage Business.</p>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -67,9 +68,8 @@
                                     src="assets\img\pop trading/outsource -Server Management -Seamless Trading Experience.png"
                                     alt="Product Animation" style="height: 230px;width:400px ;"></div>
                             <div class="item blog-item-info">
-                                <h3 style="font-size: 22px;">Seamless Trading Experience</h3><br>
-                                <span> Reliable server performance ensures a smooth trading experience for clients.
-
+                                <h3 style="font-size: 22px;">Seamless Trading</h3><br>
+                                <span> Reliable MT5 servers ensure smooth operations for your Forex brokerage.
                                 </span>
                             </div>
                         </div>
@@ -81,7 +81,7 @@
                                     alt="Video Animation"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Enhanced Security</h3><br>
-                                <span>Focus on growing your business while we handle compliance complexities.</span>
+                                <span>Grow your business while we manage KYC/AML compliance and brokerage regulations.</span>
                             </div>
                         </div>
                     </div>
@@ -91,9 +91,8 @@
                                     src="assets\img\pop trading/outsource -Server Management -Cost-Effective services.png"
                                     alt="Stop Motion Animation"></div>
                             <div class="item blog-item-info">
-                                <h3 style="font-size: 22px;">Cost-Effective services</h3><br>
-                                <span> Our management services reduce the need for in-house IT resources.
-
+                                <h3 style="font-size: 22px;">Cost-Effective Services</h3><br>
+                                <span> Reduce in-house IT needs with our low-cost Forex services to easily start your Forex brokerage.
                                 </span>
                             </div>
                         </div>
@@ -122,8 +121,7 @@
                                 </h2>
                                 <div id="faqCollapseOne" class="accordion-collapse collapse" aria-labelledby="faqOne"
                                     data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">Our Server Management includes setup, monitoring,
-                                        maintenance, and security of your trading servers.</div>
+                                    <div class="accordion-body">Our Server Management services offer MT5 setup, maintenance, and monitoring for your Forex brokerage, ensuring high performance and scalability to help you start your Forex broker efficiently.</div>
                                 </div>
                             </div>
                             <div class="accordion-item">
@@ -136,8 +134,7 @@
                                 </h2>
                                 <div id="faqCollapseTwo" class="accordion-collapse collapse" aria-labelledby="faqTwo"
                                     data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">We implement monitoring systems to track server
-                                        performance and address issues proactively.</div>
+                                    <div class="accordion-body">We ensure server uptime with 24/7 monitoring, proactive maintenance, and reliable MT5 server management to support your Forex brokerage.</div>
                                 </div>
                             </div>
                             <div class="accordion-item">
@@ -150,8 +147,7 @@
                                 </h2>
                                 <div id="faqCollapseThree" class="accordion-collapse collapse"
                                     aria-labelledby="faqThree" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">We manage various types of servers, including dedicated,
-                                        VPS, and cloud-based solutions tailored for Forex trading.</div>
+                                    <div class="accordion-body">We manage MT5 servers, providing setup, maintenance, and monitoring for Forex brokerages, ensuring high performance and reliability.</div>
                                 </div>
                             </div>
                             <div class="accordion-item">
@@ -159,13 +155,12 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faqCollapseFour" aria-expanded="false"
                                         aria-controls="faqCollapseFour">
-                                        Do you offer disaster recovery solutions?
+                                        What security measures do you have in place for servers?
                                     </button>
                                 </h2>
                                 <div id="faqCollapseFour" class="accordion-collapse collapse" aria-labelledby="faqFour"
                                     data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">Yes, we provide disaster recovery services to ensure
-                                        data integrity and quick recovery in case of failures.</div>
+                                    <div class="accordion-body">We ensure server security with firewalls, data encryption, regular updates, and 24/7 monitoring for your MT5 servers.</div>
                                 </div>
                             </div>
                             <div class="accordion-item">
@@ -178,8 +173,7 @@
                                 </h2>
                                 <div id="faqCollapseFive" class="accordion-collapse collapse" aria-labelledby="faqFive"
                                     data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">We conduct regular maintenance to ensure optimal
-                                        performance, typically on a monthly basis.</div>
+                                    <div class="accordion-body">We perform regular server maintenance monthly to ensure optimal performance and reliability for your MT5 servers and Forex brokerage.</div>
                                 </div>
                             </div>
                             <div class="accordion-item">
@@ -187,69 +181,12 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faqCollapseSix" aria-expanded="false"
                                         aria-controls="faqCollapseSix">
-                                        Can you help with server migration?
+                                        Can we customize our server management package?
                                     </button>
                                 </h2>
                                 <div id="faqCollapseSix" class="accordion-collapse collapse" aria-labelledby="faqSix"
                                     data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">Absolutely! We assist with seamless server migrations to
-                                        minimize downtime and data loss.</div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="faqSeven">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#faqCollapseSeven" aria-expanded="false"
-                                        aria-controls="faqCollapseSeven">
-                                        What security measures do you have in place for servers?
-                                    </button>
-                                </h2>
-                                <div id="faqCollapseSeven" class="accordion-collapse collapse"
-                                    aria-labelledby="faqSeven" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">We implement firewalls, encryption, and regular security
-                                        audits to protect your servers from threats.</div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="faqEight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#faqCollapseEight" aria-expanded="false"
-                                        aria-controls="faqCollapseEight">
-                                        How do you handle server performance issues?
-                                    </button>
-                                </h2>
-                                <div id="faqCollapseEight" class="accordion-collapse collapse"
-                                    aria-labelledby="faqEight" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">We monitor server performance continuously and take
-                                        corrective actions immediately to address any issues.</div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="faqNine">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#faqCollapseNine" aria-expanded="false"
-                                        aria-controls="faqCollapseNine">
-                                        Can we customize our server management package?
-                                    </button>
-                                </h2>
-                                <div id="faqCollapseNine" class="accordion-collapse collapse" aria-labelledby="faqNine"
-                                    data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">Yes, our server management services can be customized to
-                                        meet the specific needs of your brokerage.</div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="faqTen">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#faqCollapseTen" aria-expanded="false"
-                                        aria-controls="faqCollapseTen">
-                                        How can we contact you for server-related issues?
-                                    </button>
-                                </h2>
-                                <div id="faqCollapseTen" class="accordion-collapse collapse" aria-labelledby="faqTen"
-                                    data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">You can reach our support team via phone, email, or live
-                                        chat for any server-related inquiries.</div>
+                                    <div class="accordion-body">Yes, our server management services can be fully customized to meet the unique needs of your Forex brokerage.</div>
                                 </div>
                             </div>
                         </div>
