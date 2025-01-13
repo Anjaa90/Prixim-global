@@ -28,7 +28,7 @@
                             <div class="about-list-wrapper">
 
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Cost-Effective Jurisdiction:</b>Affordable options for company formation and Forex brokerage setup in Comoros Islands.</li>
+                                    <li style="font-weight: 400;"><b>Company formation:</b>Affordable options for company formation and Forex brokerage setup in Comoros Islands.</li>
                                     <li style="font-weight: 400;"><b>Cost-Effective Jurisdiction:</b>Affordable options for company formation and Forex brokerage setup.
                                     </li>
                                     <li style="font-weight: 400;"><b>Growing Financial Sector:</b>Strong opportunities to start your Forex broker business.
