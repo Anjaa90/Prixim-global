@@ -7,6 +7,8 @@ switch ($menuactive) {
         $name = "Prixim Global";
         $alternateName = "Prixim Global";
         $url = "https://priximglobal.com/";
+        $siteImage = "assets\img\logo\favicon-01 (1).png"; // Image URL for Open Graph
+        
         break;
 
     case 'infrastructure.php':
