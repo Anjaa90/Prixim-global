@@ -117,7 +117,7 @@
                         <div class="process-single process-color-1">
                             <div class="icon"><span>01</span><i class="fa-thin fa-coins" aria-hidden="true"></i></div>
                             <h3 style="font-size: 22px">Low Corporate Tax Rate</h3>
-                            <p>Labuan offers tax efficiency compared to many other jurisdictions, with a tax rate of 3%
+                            <p style="color: #52576B">Labuan offers tax efficiency compared to many other jurisdictions, with a tax rate of 3%
                                 on net profits or a fixed fee of MYR 20,000.
 
                             </p>
@@ -128,7 +128,7 @@
                             <div class="icon"><span>02</span><i class="fa-thin fa-piggy-bank" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Ease of Setup</h3>
-                            <p>Labuan is a business-friendly jurisdiction with straightforward licensing and minimal
+                            <p style="color: #52576B">Labuan is a business-friendly jurisdiction with straightforward licensing and minimal
                                 bureaucracy.
 
                             </p>
@@ -139,7 +139,7 @@
                             <div class="icon"><span>03</span><i class="fa-thin fa-globe" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Global Market Access</h3>
-                            <p>Brokers can operate in various global markets, benefiting from Labuan’s international
+                            <p style="color: #52576B">Brokers can operate in various global markets, benefiting from Labuan’s international
                                 reputation.
 
                             </p>
@@ -150,7 +150,7 @@
                             <div class="icon"><span>04</span><i class="fa-thin fa-lock" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Confidentiality</h3>
-                            <p>Labuan offers strong privacy and confidentiality laws that protect business owners and
+                            <p style="color: #52576B">Labuan offers strong privacy and confidentiality laws that protect business owners and
                                 their activities.
 
                             </p>
@@ -161,10 +161,8 @@
                             <div class="icon"><span>05</span><i class="fa-thin fa-clipboard-list" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Cost-Effective Operations</h3>
-                            <p> Labuan is an affordable option for starting and running a brokerage due to low operating
+                            <p style="color: #52576B"> Labuan is an affordable option for starting and running a brokerage due to low operating
                                 costs and a streamlined regulatory environment.
-
-
                             </p>
                         </div>
                     </div>
