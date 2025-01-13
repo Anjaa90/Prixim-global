@@ -29,10 +29,8 @@
               <div class="site-heading mb-3">
                 <h1 class="site-title">Modern Workspace for <span>Business Operations</span></h1>
               </div>
-              <p class="about-text">At Prixim Global our workspace boosts productivity with automated desks, high-speed
-                internet, reliable power
-                backup, and data security,
-                ensuring uninterrupted operations for your business.
+              <p class="about-text">At Prixim Global, we ensure seamless operations for your Forex brokerage with automated desks, high-speed internet, and secure data management, supporting your business growth with outsourcing services.
+
 
               </p>
 
@@ -51,114 +49,107 @@
           <div class="heading-divider"></div>
         </div>
         <div class="row">
-          <div class="col-md-6 col-lg-4">
-            <div class="feature-item feature-color-1">
-              <div class="feature-top">
-                <div class="feature-icon"><i class="fa-thin fa-power-off"></i></div>
-                <h3 style="font-size: 22px">Uninterrupted Power (UPS)</h3>
-              </div>
-              <div class="feature-content">
-                <p>Our 100% power backup system ensures a continuous power supply with zero interruptions, so work never
-                  stops.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="feature-item feature-color-2">
-              <div class="feature-top">
-                <div class="feature-icon"><i class="fa-thin fa-wifi"></i></div>
-                <h3 style="font-size: 22px">VPN Connectivity</h3>
-              </div>
-              <div class="feature-content">
-                <p>We use secure VPNs to provide safe offshore support, ensuring client data is always protected.</p>
-                <br>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="feature-item feature-color-3">
-              <div class="feature-top">
-                <div class="feature-icon"><i class="fa-thin fa-database"></i></div>
-                <h3 style="font-size: 22px">High-Volume Data Storage</h3>
-              </div>
-              <div class="feature-content">
-                <p>Our advanced data storage systems allow us to back up, recover, and protect large volumes of data,
-                  ensuring security and easy access.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="feature-item feature-color-4">
-              <div class="feature-top">
-                <div class="feature-icon"><i class="fa-thin fa-users-gear"></i></div>
-                <h3 style="font-size: 22px">Custom CRM</h3>
-              </div>
-              <div class="feature-content">
-                <p>We offer a fully customizable, dialer-integrated CRM system, which can be tailored to fit the needs
-                  of any outsourced business project.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="feature-item feature-color-5">
-              <div class="feature-top">
-                <div class="feature-icon"><i class="fa-thin fa-shield-virus"></i></div>
-                <h3 style="font-size: 22px">Commercial Firewall </h3>
-              </div>
-              <div class="feature-content">
-                <p>Our firewall is designed to block unauthorized access, protecting data and networks from external
-                  threats.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="feature-item feature-color-6">
-              <div class="feature-top">
-                <div class="feature-icon"><i class="fa-thin fa-globe"></i></div>
-                <h3 style="font-size: 22px">Reliable Internet</h3>
-              </div>
-              <div class="feature-content">
-                <p>We have 2 main and 2 backup internet leased lines, each with a capacity of 200 Mbps, ensuring fast,
-                  reliable connectivity. </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="feature-item feature-color-1">
-              <div class="feature-top">
-                <div class="feature-icon"><i class="fa-thin fa-people-arrows"></i></div>
-                <h3 style="font-size: 22px">Department Isolation </h3>
-              </div>
-              <div class="feature-content">
-                <p>We have separate departments for each of our services, allowing teams to work efficiently without
-                  interruptions.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="feature-item feature-color-2">
-              <div class="feature-top">
-                <div class="feature-icon"><i class="fa-thin fa-server"></i></div>
-                <h3 style="font-size: 22px">Advanced Servers</h3>
-              </div>
-              <div class="feature-content">
-                <p>Our servers are built with the latest technology, capable of securely storing large amounts of data.
-                </p><br>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="feature-item feature-color-3">
-              <div class="feature-top">
-                <div class="feature-icon"><i class="fa-thin fa-dial"></i></div>
-                <h3 style="font-size: 22px">Predictive Dialer </h3>
-              </div>
-              <div class="feature-content">
-                <p>Our automatic dialer handles both inbound and outbound calls, connecting agents only to live human
-                  callers.</p>
-              </div>
-            </div>
+  <div class="col-md-6 col-lg-4">
+    <div class="feature-item feature-color-1">
+      <div class="feature-top">
+        <div class="feature-icon"><i class="fa-thin fa-power-off"></i></div>
+        <h3 style="font-size: 22px">Uninterrupted Power (UPS)</h3>
+      </div>
+      <div class="feature-content">
+        <p>Our 100% backup system ensures continuous power, keeping your Forex brokerage operations running without interruption.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-lg-4">
+    <div class="feature-item feature-color-2">
+      <div class="feature-top">
+        <div class="feature-icon"><i class="fa-thin fa-wifi"></i></div>
+        <h3 style="font-size: 22px">VPN Connectivity</h3>
+      </div>
+      <div class="feature-content">
+        <p>We utilize secure VPNs for offshore support, ensuring your Forex brokerage client data remains protected at all times.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-lg-4">
+    <div class="feature-item feature-color-3">
+      <div class="feature-top">
+        <div class="feature-icon"><i class="fa-thin fa-database"></i></div>
+        <h3 style="font-size: 22px">High-Volume Data Storage</h3>
+      </div>
+      <div class="feature-content">
+        <p>Our secure storage systems backup and protect large data volumes, ensuring easy access for your Forex brokerage.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-lg-4">
+    <div class="feature-item feature-color-4">
+      <div class="feature-top">
+        <div class="feature-icon"><i class="fa-thin fa-users-gear"></i></div>
+        <h3 style="font-size: 22px">Custom CRM</h3>
+      </div>
+      <div class="feature-content">
+        <p>We provide a fully customizable, dialer-integrated CRM system, tailored to meet the specific needs of your Forex brokerage or outsourced business project.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-lg-4">
+    <div class="feature-item feature-color-5">
+      <div class="feature-top">
+        <div class="feature-icon"><i class="fa-thin fa-shield-virus"></i></div>
+        <h3 style="font-size: 22px">Commercial Firewall</h3>
+      </div>
+      <div class="feature-content">
+        <p>Our firewall blocks unauthorized access, safeguarding your Forex brokerage data and networks from external threats.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-lg-4">
+    <div class="feature-item feature-color-6">
+      <div class="feature-top">
+        <div class="feature-icon"><i class="fa-thin fa-globe"></i></div>
+        <h3 style="font-size: 22px">Reliable Internet</h3>
+      </div>
+      <div class="feature-content">
+        <p>With 2 main and 2 backup 200 Mbps internet leased lines, we ensure fast and reliable connectivity for your Forex brokerage operations.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-lg-4">
+    <div class="feature-item feature-color-1">
+      <div class="feature-top">
+        <div class="feature-icon"><i class="fa-thin fa-people-arrows"></i></div>
+        <h3 style="font-size: 22px">Department Isolation</h3>
+      </div>
+      <div class="feature-content">
+        <p>Our dedicated departments for each service ensure efficient, uninterrupted workflow for your Forex brokerage operations.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-lg-4">
+    <div class="feature-item feature-color-2">
+      <div class="feature-top">
+        <div class="feature-icon"><i class="fa-thin fa-server"></i></div>
+        <h3 style="font-size: 22px">Advanced Servers</h3>
+      </div>
+      <div class="feature-content">
+        <p>Equipped with the latest technology, our servers securely store large volumes of data, supporting the needs of your Forex brokerage.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-lg-4">
+    <div class="feature-item feature-color-3">
+      <div class="feature-top">
+        <div class="feature-icon"><i class="fa-thin fa-dial"></i></div>
+        <h3 style="font-size: 22px">Predictive Dialer</h3>
+      </div>
+      <div class="feature-content">
+        <p>Our predictive dialer efficiently manages inbound and outbound calls, connecting agents exclusively to live callers for your Forex brokerage.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
           </div>
         </div>
       </div>
@@ -174,7 +165,7 @@
               <h2>Get Started Today
               </h2>
               <p style="font-size: 18px;">
-                Know how Prixim Global's infrastructure can elevate your business.
+              Know how Prixim Global's infrastructure can elevate your forex business.
               </p>
               <button class="theme-btn" onclick="toggleForm()">Get in Touch</button>
             </div>

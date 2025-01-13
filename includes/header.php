@@ -7,9 +7,7 @@
   <meta name="google-site-verification" content="TlcZxQVoKwJF8vMQ7PEgHn4ocwq4k9JWhXJUqDYSLkI" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta property="og:image" content="assets\img\logo\favicon-01 (1).png">
-<meta property="og:image:width" content="320">
-<meta property="og:image:height" content="320">
+
 
   
   <title>
