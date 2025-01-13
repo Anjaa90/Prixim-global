@@ -3,11 +3,7 @@
         <div class="site-breadcrumb">
             <div class="container">
                 <h1 class="breadcrumb-title">Our Expertise</h1>
-                <ul class="breadcrumb-menu">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="#">Know Us</a></li>
-                    <li class="active">Our Expertise</li>
-                </ul>
+                
             </div>
             <div class="hero-shape"><img class="hero-shape-1" src="assets/img/shape/01.png" alt="" loading="lazy" />
             </div>
@@ -26,14 +22,12 @@
                             class="img-fluid" alt="Outsourcing Services Image" loading="lazy">
                     </div>
                     <div class="col-lg-6">
-                        <h1>Multiple trading platforms to <span style="color:#FF366B;">start brokerage</span></h1>
+                        <h1 style="font-size:28px">Choose the Right Trading Platform for Your
+                        <span style="color:#FF366B; font-size:30px">Forex Brokerage</span></h1>
                         <br>
-                        <p class="about-text">PriximGlobal provides top IT and BPM services across industries, including
-                            banking outsourcing, insurance outsourcing, EdTech BPM,
-                            healthcare BPM, and gaming technical issues. We also specialize in the forex industry,
-                            offering advanced white-label solutions for brokerages like
-                            Match Trader, Wow Trader, and VertexFx along with prop trading
-                            services.
+                        <p class="about-text">PriximGlobal offers affordable MT5 server provider solutions, forex brokerage setup, liquidity connection hub, live chat outsourcing, and KYC AML outsourcing for brokers. We provide technology for forex brokers with MT5 whitelabel solutions, ensuring regulatory compliance and low-cost services for a seamless start to your forex brokerage business.
+
+
                         </p>
                     </div>
                 </div>
@@ -396,9 +390,8 @@
                     <div class="col-lg-6">
                         <h2 class="text-left mb-3">Why Choose Us for <span style="color: #ff366b;">Outsourcing?</span>
                         </h2>
-                        <p class="about-text">Our expertise in forex operations ensures that your brokerage can thrive
-                            in a challenging environment. We leverage advanced tools and methodologies to deliver
-                            unparalleled support, ensuring that your clients receive the best possible experience.</p>
+                        <p class="about-text">We offer expert outsourcing services for forex brokers, including affordable MT5 server solutions, live chat outsourcing, and KYC/AML compliance. Our technology and support help you successfully set up and run your forex brokerage with ease.
+                        </p>
                     </div>
                 </div>
         </section>

@@ -1,13 +1,9 @@
 <?php include ('includes/header.php');?>
     <main class="main main-body">
         <div class="site-breadcrumb">
-            <div class="container">
-              <h1 class="breadcrumb-title">St Lucia</h1>
-              <ul class="breadcrumb-menu">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="Broker License - St Lucia.html">Broker License</a></li>
-                <li class="active">St Lucia</li>
-              </ul>
+        <div class="container">
+                <h1 class="breadcrumb-title">Broker License - Saint Lucia
+                </h1>
             </div>
             <div class="hero-shape"><img class="hero-shape-1" src="assets/img/shape/01.png" alt="" loading="lazy" /></div>
             <div class="hero-right-circles"></div>

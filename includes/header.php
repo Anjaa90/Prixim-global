@@ -20,7 +20,8 @@
   
   <script src="https://kit.fontawesome.com/d9355482a9.js" crossorigin="anonymous"></script>
   
-  <link rel="icon" type="image/png" sizes="56x56" href="assets\img\logo\favicon-01 (1).png">
+  <link rel="icon" type="image/png" sizes="56x56" href="assets/img/logo/favicon-01 (1).png">
+
   <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
   <link rel="stylesheet" href="assets/css/all-fontawesome.min.css" />
   <link rel="stylesheet" href="assets/css/flaticon.css" />

@@ -26,11 +26,7 @@
                             <div class="site-heading mb-3">
                                 <h1 class="site-title">Broker License <span>- Mauritius</span></h1>
                             </div>
-                            <p class="about-text">Mauritius is a rapidly growing financial services hub located in the
-                                Indian Ocean. The jurisdiction has developed a robust financial infrastructure,
-                                attracting brokers looking for a stable regulatory environment with tax advantages.
-                                Regulated by the Financial Services Commission (FSC), Mauritius offers a transparent and
-                                competitive environment for setting up a forex brokerage.
+                            <p class="about-text">Mauritius, a rapidly growing financial services hub in the Indian Ocean, offers brokers a stable regulatory environment and tax advantages. With a robust financial infrastructure and transparent regulations, it is an attractive jurisdiction for company formation Forex brokers. The Financial Services Commission (FSC) regulates the forex industry, ensuring a competitive environment for forex brokerage setup.
                             </p>
                              <!-- Button -->
                              <a href="contact-us.php" class="theme-btn" style="margin-top: 20px;">Yes, I want to incorporate</a>
@@ -56,11 +52,8 @@
                     <div class="col-lg-4 col-md-6 text-center mb-30">
                         <div class="process-single process-color-1">
                             <div class="icon"><span>01</span><i class="fa-thin fa-coins" aria-hidden="true"></i></div>
-                            <h3 style="font-size: 22px">Tax Efficiency</h3>
-                            <p>Mauritius offers a relatively low corporate tax rate of 15%, with various tax treaties
-                                available to reduce tax exposure.
-
-
+                            <h3 style="font-size: 22px">Tax Efficiency in Mauritius</h3>
+                            <p>Mauritius offers a 15% tax rate and tax treaties, ideal for forex broker setup and company formation with MT5 Whitelabel solutions.
                             </p>
                         </div>
                     </div>
@@ -69,44 +62,33 @@
                             <div class="icon"><span>02</span><i class="fa-thin fa-piggy-bank" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Strategic Location</h3>
-                            <p>Situated at the crossroads of Africa and Asia, Mauritius provides brokers with access to
-                                both emerging and developed markets
-
-                            </p>
+                            <p>Mauritius connects Africa and Asia, offering low-cost services and company formation for Forex brokers, with access to global markets.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 text-center mb-30">
-                        <div class="process-single process-single-last process-color-3">
-                            <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
+                            <div class="process-single process-single-last process-color-3">
+                                <div class="icon"><span>03</span><i class="fa-thin fa-legal" aria-hidden="true"></i></div>
+                                <h3 style="font-size: 22px">Strong Regulatory Framework</h3>
+                                <p>The FSC enforces international standards, ensuring credibility for brokers and supporting company formation and liquidity providers.</p>
                             </div>
-                            <h3 style="font-size: 22px">Strong Regulatory Framework</h3>
-                            <p>The FSC ensures that brokers adhere to international standards of financial services,
-                                providing credibility to clients.
-
-                            </p>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 text-center mb-30">
-                        <div class="process-single process-single-last process-color-3">
-                            <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
+
+                        <div class="col-lg-4 col-md-6 text-center mb-30">
+                            <div class="process-single process-single-last process-color-3">
+                                <div class="icon"><span>04</span><i class="fa-thin fa-building" aria-hidden="true"></i></div>
+                                <h3 style="font-size: 22px">Business-Friendly</h3>
+                                <p>Mauritius provides an easy setup for Forex brokerage, with quick company formation and affordable liquidity providers.</p>
                             </div>
-                            <h3 style="font-size: 22px">Business-Friendly</h3>
-                            <p>Mauritius has an easy and quick setup process, making it ideal for new brokers.
-
-
-                            </p>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 text-center mb-30">
-                        <div class="process-single process-single-last process-color-3">
-                            <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
+
+                        <div class="col-lg-4 col-md-6 text-center mb-30">
+                            <div class="process-single process-single-last process-color-3">
+                                <div class="icon"><span>05</span><i class="fa-thin fa-users" aria-hidden="true"></i></div>
+                                <h3 style="font-size: 22px">Highly Skilled Workforce</h3>
+                                <p>Mauritius boasts a skilled workforce in finance and tech, perfect for Forex brokerage setup and outsourcing services.</p>
                             </div>
-                            <h3 style="font-size: 22px">Highly Skilled Workforce</h3>
-                            <p>The country has a growing pool of skilled professionals in finance and technology.
-
-                            </p>
                         </div>
-                    </div>
+
                 </div>
             </div>
         </div>
@@ -121,12 +103,7 @@
                                     <span>Overview </span>
                                 </h2>
                             </div>
-                            <p>Mauritius is regulated by the Financial Services Commission (FSC), which governs all
-                                financial activities, including forex and derivatives trading. The FSC enforces
-                                international standards for Anti-Money Laundering (AML), Know Your Customer (KYC), and
-                                other compliance frameworks. Licensed brokers must adhere to the FSC’s guidelines,
-                                ensuring both operational transparency and client protection.
-
+                            <p>Mauritius' FSC ensures AML and KYC compliance, offering a secure and transparent environment for forex brokerage setup.It provides cost-effective solutions for company formation forex broker, supported by affordable MT5 server providers, liquidity providers, and technology providers for forex brokerage.
                             </p>
                             
 
