@@ -33,7 +33,7 @@
                                     <li style="font-weight: 400;"><b>Scalable services:</b> Adapting to the needs of startup Forex brokers and established firms alike.</li>
                                 </ul>
                             </div>
-                            <p class="about-text">With our low-cost services for Forex brokers, Prixim Global is the go-to technology provider for Forex brokerages, offering tailored solutions to help your Brokerage Business.</p>
+                            
                         </div>
                     </div>
                     <div class="col-lg-6">
