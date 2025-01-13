@@ -27,11 +27,7 @@
                                 </h1>
                                 <p class="wow animate__fadeInUp" data-wow-duration="1s" data-wow-delay=".75s"
                                     style="font-weight: 500; color:#52576B;">
-                                    At Prixim Global, we understand that the digital landscape is rapidly evolving. Our
-                                    Code DevOps approach combines the best practices of software development and IT
-                                    operations to deliver high-quality software faster and more efficiently. By
-                                    fostering a culture of collaboration, automation, and continuous improvement, we
-                                    empower businesses to thrive in a competitive environment.
+                                    Prixim Global’s Code DevOps approach ensures faster, high-quality software delivery. As a trusted technology provider for Forex brokerage, we offer solutions like MT5 server, MT5 whitelabel, Forex brokerage setup, and liquidity provider. We also provide outsourcing services for Forex, including live chat and KYC AML outsourcing, to help your business thrive.
                                 </p>
                             </div>
                         </div>
@@ -107,36 +103,32 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="team-item">
                             <div class="team-content">
-                                <h3 class="h2tag">Accelerated Delivery</h3>
-                                <p>With our CI/CD pipelines, we ensure faster deployment cycles, enabling your products
-                                    to reach the market swiftly and adapt to changing customer needs.</p>
+                                <h4 class="h2tag">Accelerated Delivery</h4>
+                                <p>Our CI/CD pipelines ensure fast deployment, helping you quickly launch your Forex brokerage with solutions like MT5 whitelabel and affordable MT5 server.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="team-item">
                             <div class="team-content">
-                                <h3 class="h2tag">Enhanced Collaboration</h3>
-                                <p>Our integrated teams work seamlessly together, breaking down silos between
-                                    development and operations to create a unified approach to software delivery.</p>
+                                <h4 class="h2tag">Enhanced Collaboration</h4>
+                                <p>We provide efficient Forex tech solutions with MT5 whitelabel, affordable servers, and liquidity services, plus live chat and KYC outsourcing.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="team-item">
                             <div class="team-content">
-                                <h3 class="h2tag">Quality Assurance</h3>
-                                <p>We prioritize quality by implementing automated testing and monitoring throughout the
-                                    development process, ensuring that every release meets our high standards.</p>
+                                <h4 class="h2tag">Quality Assurance</h4>
+                                <p>We deliver high-quality releases with automated testing. Offering MT5 whitelabel, affordable MT5 servers, and liquidity services for Forex.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="team-item">
                             <div class="team-content">
-                                <h3 class="h2tag">Scalability and Flexibility</h3>
-                                <p>Our DevOps practices allow your infrastructure to scale effortlessly, providing the
-                                    agility needed to respond to business demands and market changes.</p>
+                                <h4 class="h2tag">Quality Assurance</h4>
+                                <p>We deliver top-quality releases with automated testing. Offering MT5 whitelabel, affordable MT5 servers, and liquidity services for Forex.</p>
                             </div>
                         </div>
                     </div>
@@ -199,30 +191,24 @@
                                 <h2 class="site-title my-3">Key Practices at <span>Prixim Global</span></h2>
                             </div>
                             <div class="mb-4">
-                                <h4 style="margin-bottom: 6px;">1. Continuous Integration and Continuous Delivery
-                                    (CI/CD):</h4>
-                                <p>We automate the integration and delivery process to ensure that new code changes are
-                                    deployed reliably and frequently, reducing time-to-market.</p>
+                                <h4 style="margin-bottom: 6px;">1. Continuous Integration and Continuous Delivery (CI/CD):</h4>
+                                <p>We automate integration and delivery, reducing time-to-market for Forex brokerage solutions, including MT5 whitelabel and affordable MT5 servers.</p>
                             </div>
                             <div class="mb-4">
                                 <h4 style="margin-bottom: 6px;">2. Infrastructure as Code (IaC):</h4>
-                                <p>Our approach to IaC enables us to manage and provision infrastructure through code,
-                                    ensuring consistency, version control, and rapid deployment.</p>
+                                <p>Our IaC approach ensures consistent, rapid deployment for liquidity services and Forex business solutions.</p>
                             </div>
                             <div class="mb-4">
                                 <h4 style="margin-bottom: 6px;">3. Automated Testing:</h4>
-                                <p>We incorporate automated testing frameworks to validate code quality and
-                                    functionality at every stage, minimizing risks and enhancing reliability.</p>
+                                <p>We validate code quality with automated testing, supporting company formation, brokerage regulation, and PSP accounts for high-risk industries.</p>
                             </div>
                             <div class="mb-4">
-                                <h4 style="margin-bottom: 6px;">4. Real-Time Monitoring and Logging:</h4>
-                                <p>Our proactive monitoring tools provide insights into application performance,
-                                    enabling quick identification and resolution of issues before they impact users.</p>
+                                <h4 style="margin-bottom: 6px;">4. Real-Time Monitoring:</h4>
+                                <p>Proactive monitoring for live chat services and KYC AML outsourcing, ensuring optimal performance and quick issue resolution.</p>
                             </div>
                             <div class="mb-4">
-                                <h4 style="margin-bottom: 6px;">5. Continuous Feedback and Improvement:</h4>
-                                <p>We prioritize feedback loops from both users and team members to continuously enhance
-                                    our processes and product offerings.</p>
+                                <h4 style="margin-bottom: 6px;">5. Continuous Feedback:</h4>
+                                <p>We prioritize feedback to enhance outsourcing services for Forex and provide reliable risk management for Forex brokers.</p>
                             </div>
                         </div>
                     </div>
