@@ -116,10 +116,10 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-right">
-                            <p style="font-size: 17px;"> The forex market, valued at $2.409 quadrillion, offers a lucrative opportunity to start your own brokerage. 
+                            <p style="font-size: 17px;"> The Forex market, valued at $2.409 quadrillion, offers a great opportunity to start your Forex brokerage. 
                             </p>
                             <br>
-                            <p style="font-size: 17px;"> Prixim Global provides complete solutions for launching and growing Forex brokerages, including platform integration and regulatory support, to help you succeed in this fast-growing industry.
+                            <p style="font-size: 17px;"> Prixim Global provides turnkey solutions, including MT5 integration, brokerage regulation support, and affordable MT5 server services to help you open your brokerage business and grow with ease.
 
                             </p>
                             <br>
@@ -130,105 +130,70 @@
             </div>
         </div>
         <div class="steps-container">
-            <h1>Here’s a streamlined guide to help you navigate the process:</h1>
+            <h1><span style="color: #ff366b;">Start with Prixim Global:</span> Your Forex Brokerage Business Setup Guide</h1>
             <br>
             <div class="step">
                 <div class="step-number">1</div>
                 <div class="step-content">
-                    <h2>Define Your Target Location
+                    <h2>Company Setup
                     </h2>
-                    <p>Choose a jurisdiction based on your capital and desired timeline.
-                    </p>
-                    <p>Offshore registration is popular for startups, offering lower costs and simpler regulations.
+                    <p>Register your company and secure the necessary licenses for your business operations.
                     </p>
                 </div>
             </div>
             <div class="step">
                 <div class="step-number">2</div>
                 <div class="step-content">
-                    <h2>Understand the Costs</h2>
-                    <p>Costs vary based on the region and whether you want to acquire a license.
+                    <h2>Corporate Bank Account</h2>
+                    <p>Open a corporate bank account with a licensed bank registered under your brokerage company.
                     </p>
-                    <p>Offshore registration is cheaper, while regulated entities require more investment.</p>
                 </div>
             </div>
             <div class="step">
                 <div class="step-number">3</div>
                 <div class="step-content">
-                    <h2>Choose a Technology Provider
+                    <h2> Physical Address
                     </h2>
-                    <p>Select a reliable provider offering a comprehensive solution (platform, CRM, liquidity).
-                    </p>
-                    <p>Prixim Global offers White Label platforms like Match Trader, Wow Trader,VertexFX and SIRIX.
+                    <p>Set up a physical office to meet regulatory requirements and enhance business credibility.
                     </p>
                 </div>
             </div>
             <div class="step">
                 <div class="step-number">4</div>
                 <div class="step-content">
-                    <h2>Register Your Brokerage</h2>
-                    <p>Gather necessary documents (business name, ID, proof of address, etc.).
-                    </p>
-                    <p>Offshore jurisdictions may require notarized or apostille-certified documents.
+                    <h2>Website & Branding</h2>
+                    <p>Develop a professional website and create a distinctive logo to define your brokerage’s brand.
                     </p>
                 </div>
             </div>
             <div class="step">
                 <div class="step-number">5</div>
                 <div class="step-content">
-                    <h2>Select a Trading Platform</h2>
-                    <p>Opt for user-friendly, mobile-compatible platforms with modern features.
-                    </p>
-                    <p>MT5 White Label requires a corporate bank account under your company’s name.
+                    <h2>CRM System</h2>
+                    <p>Implement a CRM system to streamline and manage client relationships efficiently.
                     </p>
                 </div>
             </div>
             <div class="step">
                 <div class="step-number">6</div>
                 <div class="step-content">
-                    <h2>Partner with a Liquidity Provider</h2>
-                    <p>Look for low spreads, fast execution, and easy integration.
-                    </p>
-                    <p>Prixim Global provides access to liquidity pools as part of its solutions.
+                    <h2>Trading Platform</h2>
+                    <p>Choose MT5 turnkey solutions for a reliable platform with advanced features and tools.
                     </p>
                 </div>
             </div>
             <div class="step">
                 <div class="step-number">7</div>
                 <div class="step-content">
-                    <h2>Set Up a Client Office and Forex CRM</h2>
-                    <p>A robust CRM system helps manage clients, sales, and marketing.</p>
-                    <p>Ensure it integrates seamlessly with your trading platform.</p>
+                    <h2>Server Setup</h2>
+                    <p>Install secure servers to guarantee smooth and reliable trading operations.</p>
                 </div>
             </div>
             <div class="step">
                 <div class="step-number">8</div>
                 <div class="step-content">
-                    <h2>Choose Payment Solutions</h2>
-                    <p>Offshore brokers should integrate a payment gateway for deposits and withdrawals.
-                    </p>
-                    <p>Prixim Global works with trusted payment providers like PRAXIS Cashier and Moonpay.
-                    </p>
-                </div>
-            </div>
-            <div class="step">
-                <div class="step-number">9</div>
-                <div class="step-content">
-                    <h2>Build Your Brand
-                    </h2>
-                    <p>Create a professional website, logo, and active social media presence.
-                    </p>
-                    <p>Use online marketing strategies to attract clients.</p>
-                </div>
-            </div>
-            <div class="step">
-                <div class="step-number">10</div>
-                <div class="step-content">
-                    <h2>Engage and Retain Clients
-                    </h2>
-                    <p>Offer advanced tools like Social Trading and MAM/PAMM accounts to keep traders engaged.
-                    </p>
-                    <p>Ensure your Client Office supports seamless transactions and account management.
+                    <h2>Liquidity Providers Partnership</h2>
+                    <p>Partner with top liquidity providers to offer tight spreads and access to deep liquidity pools
                     </p>
                 </div>
             </div>
