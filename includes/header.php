@@ -13,6 +13,7 @@
   </title>
   <meta name="description" content="<?php echo $description ?> " />
     <meta name="keywords" content="<?php echo $keywords ?> " />
+    
   
   <script src="https://kit.fontawesome.com/d9355482a9.js" crossorigin="anonymous"></script>
   <link rel="icon" type="image/png" sizes="56x56" href="assets\img\logo\favicon-01 (1).png">
@@ -25,6 +26,7 @@
   <link rel="stylesheet" href="assets/css/style.css" />
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&amp;family=Roboto:wght@100;300;400;500;700;900&amp;display=swap">
+  <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon-01 (1).png">
 </head>
 
 
@@ -47,7 +49,7 @@
                   href="mailto:sales@priximglobal.com">sales@priximglobal.com</a></li>
               <li><img src="assets/img/whatsapp.webp" alt="united kingdom" loading="lazy" /><a
                   href="https://wa.me/+917972359229">+971544335310</a></li>
-              <li><img src="assets/img/skype.webp" alt=""><a href="https://join.skype.com/invite/xraWIPh4p9eP" target="_blank"> Prixim Global</a></li>
+              <li><img src="assets/img/skype.webp" alt=""/><a href="https://join.skype.com/invite/xraWIPh4p9eP" target="_blank"> Prixim Global</a></li>
 
             </ul>
           </div>
