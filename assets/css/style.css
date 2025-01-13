@@ -3629,9 +3629,9 @@ body.rtl-mode .item-area {
         display: none
     }
 
-    .hero-single {
+    /* .hero-single {
         padding-top: 150px
-    }
+    } */
 
     .hero-single .hero-content .hero-title {
         font-size: 25px
