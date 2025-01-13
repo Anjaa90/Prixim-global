@@ -136,7 +136,7 @@
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-3">
-                        <div class="blog-item" style="height: 510px; ">
+                        <div class="blog-item" >
                             <div class="blog-item-img"><img
                                     src="assets/img/psp/coins-paper-money-globe-white-statistic-form-background.webp"
                                     alt="Multi-Currency Process" loading="lazy"></div>
