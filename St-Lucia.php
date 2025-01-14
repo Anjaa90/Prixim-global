@@ -1,13 +1,9 @@
 <?php include ('includes/header.php');?>
     <main class="main main-body">
         <div class="site-breadcrumb">
-            <div class="container">
-              <h1 class="breadcrumb-title">St Lucia</h1>
-              <ul class="breadcrumb-menu">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="Broker License - St Lucia.html">Broker License</a></li>
-                <li class="active">St Lucia</li>
-              </ul>
+        <div class="container">
+                <h1 class="breadcrumb-title">Broker License - Saint Lucia
+                </h1>
             </div>
             <div class="hero-shape"><img class="hero-shape-1" src="assets/img/shape/01.png" alt="" loading="lazy" /></div>
             <div class="hero-right-circles"></div>
@@ -20,8 +16,11 @@
                 <div class="col-lg-7">
                     <div class="about-left">
                         <div class="about-img vertical-animation">
-                            <img src="assets\img\saint lucia.webp" 
-                                 alt="Forex License in Saint Lucia" loading="lazy">
+                        <img src="assets\img\saint lucia.webp" 
+                            alt="Forex License in Saint Lucia" 
+                            loading="lazy" 
+                            style="height: 300px !important;">
+
                         </div>
                     </div>
                 </div>
@@ -32,16 +31,16 @@
                         </div>
                         <div class="about-list-wrapper">
 
-                                <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Low Taxes:</b>Saint Lucia offers favorable tax rates for Forex businesses.</li>
-                                    <li style="font-weight: 400;"><b>Business-Friendly Regulations:</b> Supportive rules for entrepreneurs.</li>
-                                    <li style="font-weight: 400;"><b>Government Support</b> Encouraging the environment for new businesses.
-                                    </li>
-                                    <li style="font-weight: 400;"><b>Global Trust:</b> Recognized and trusted internationally.
-                                    </li>
-                                    <li style="font-weight: 400;"><b>Blacklist-Free:</b> Saint Lucia is not listed on any financial blacklists.
-                                    </li>
-                                </ul>
+                        <ul class="about-list list-unstyled">
+                            <li style="font-weight: 400;"><b>Company Formation:</b> Easy process to set up your Forex brokerage in Saint Lucia.</li>
+                            <li style="font-weight: 400;"><b>Low Taxes:</b> Saint Lucia offers favorable tax rates for Forex businesses.</li>
+                            <li style="font-weight: 400;"><b>Business-Friendly Regulations:</b> Supportive rules for entrepreneurs.</li>
+                            <li style="font-weight: 400;"><b>Government Support:</b> Encouraging environment for new Forex businesses.</li>
+                            <li style="font-weight: 400;"><b>Global Trust:</b> Trusted internationally for Forex brokerage regulation.</li>
+                            <li style="font-weight: 400;"><b>Blacklist-Free:</b> Saint Lucia is not listed on any financial blacklists.</li>
+                        </ul>
+
+                                
                         </div>
                         <!-- Button -->
                         <a href="contact-us.php" class="theme-btn" style="margin-top: 20px;">Get Started Now</a>
@@ -67,7 +66,8 @@
                         <div class="step-icon" style="font-size: 2rem; font-weight: bold; ">01</div>
                         <div class="step-content">
                             <h4 style="font-size: 1.25rem; color: #080c3c; margin-top: 10px;">Low Taxes</h4>
-                            <p style="color: #666; margin: 0;">Keep more of your profits in this tax-efficient environment.</p>
+                            <p style="color: #666; margin: 0;">Maximize profits with Saint Lucia’s tax benefits. We provide low-cost services for Forex brokers, including affordable MT5 servers and Forex brokerage setup.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -77,7 +77,8 @@
                         <div class="step-icon" style="font-size: 2rem; font-weight: bold; ">02</div>
                         <div class="step-content">
                             <h4 style="font-size: 1.25rem; color: #080c3c; margin-top: 10px;">Simple Regulations</h4>
-                            <p style="color: #666; margin: 0;">Enjoy a business-friendly and easy-to-follow regulatory framework.</p>
+                            <p style="color: #666; margin: 0;">Enjoy a business-friendly framework for Forex brokerage setup, company formation, and services like affordable MT5 servers and Forex liquidity.
+                            </p><br>
                         </div>
                     </div>
                 </div>
@@ -87,7 +88,8 @@
                         <div class="step-icon" style="font-size: 2rem; font-weight: bold; ">03</div>
                         <div class="step-content">
                             <h4 style="font-size: 1.25rem; color: #080c3c; margin-top: 10px;">Global Trust</h4>
-                            <p style="color: #666; margin: 0;">Operate in a globally respected and safe jurisdiction.</p>
+                            <p style="color: #666; margin: 0;">Operate in a respected, safe jurisdiction with services like Forex brokerage setup, affordable MT5 servers, and liquidity for Forex.
+                            </p><br>
                         </div>
                     </div>
                 </div>

@@ -29,13 +29,15 @@
                             <div class="about-list-wrapper">
 
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Tax-Efficient & Regulated: </b>Labuan offers a favorable jurisdiction for forex brokers.</li>
-                                    <li style="font-weight: 400;"><b>Regulated by LFSA:</b>Under the oversight of the Labuan Financial Services Authority.
+                                    <li style="font-weight: 400;"><b>Company Formation: </b> Easy and cost-effective company formation for Forex brokers to open their brokerage business in Labuan.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Global Services: </b> A stable platform for forex, derivatives, and financial services worldwide.
-
+                                    <li style="font-weight: 400;"><b>Tax-Efficient & Regulated: </b>Labuan offers a cost-effective jurisdiction for forex broker setup and affordable MT5 server providers.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Flexible Broker License:</b> Supports business growth and international compliance.
+                                    <li style="font-weight: 400;"><b>Regulated by LFSA:</b>Overseen by the Labuan Financial Services Authority, ensuring brokerage regulation and compliance.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Global Services: </b>A stable platform for forex trading and financial services worldwide.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Flexible Broker License:</b>Supports business growth with international compliance and easy company formation.
                                     </li>
                                 </ul>
                             </div>
@@ -115,7 +117,7 @@
                         <div class="process-single process-color-1">
                             <div class="icon"><span>01</span><i class="fa-thin fa-coins" aria-hidden="true"></i></div>
                             <h3 style="font-size: 22px">Low Corporate Tax Rate</h3>
-                            <p>Labuan offers tax efficiency compared to many other jurisdictions, with a tax rate of 3%
+                            <p style="color: #52576B">Labuan offers tax efficiency compared to many other jurisdictions, with a tax rate of 3%
                                 on net profits or a fixed fee of MYR 20,000.
 
                             </p>
@@ -126,7 +128,7 @@
                             <div class="icon"><span>02</span><i class="fa-thin fa-piggy-bank" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Ease of Setup</h3>
-                            <p>Labuan is a business-friendly jurisdiction with straightforward licensing and minimal
+                            <p style="color: #52576B">Labuan is a business-friendly jurisdiction with straightforward licensing and minimal
                                 bureaucracy.
 
                             </p>
@@ -134,10 +136,10 @@
                     </div>
                     <div class="col-lg-4 col-md-6 text-center mb-30">
                         <div class="process-single process-single-last process-color-3">
-                            <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
+                            <div class="icon"><span>03</span><i class="fa-thin fa-globe" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Global Market Access</h3>
-                            <p>Brokers can operate in various global markets, benefiting from Labuan’s international
+                            <p style="color: #52576B">Brokers can operate in various global markets, benefiting from Labuan’s international
                                 reputation.
 
                             </p>
@@ -145,10 +147,10 @@
                     </div>
                     <div class="col-lg-4 col-md-6 text-center mb-30">
                         <div class="process-single process-single-last process-color-3">
-                            <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
+                            <div class="icon"><span>04</span><i class="fa-thin fa-lock" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Confidentiality</h3>
-                            <p>Labuan offers strong privacy and confidentiality laws that protect business owners and
+                            <p style="color: #52576B">Labuan offers strong privacy and confidentiality laws that protect business owners and
                                 their activities.
 
                             </p>
@@ -156,13 +158,11 @@
                     </div>
                     <div class="col-lg-4 col-md-6 text-center mb-30">
                         <div class="process-single process-single-last process-color-3">
-                            <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
+                            <div class="icon"><span>05</span><i class="fa-thin fa-clipboard-list" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Cost-Effective Operations</h3>
-                            <p> Labuan is an affordable option for starting and running a brokerage due to low operating
+                            <p style="color: #52576B"> Labuan is an affordable option for starting and running a brokerage due to low operating
                                 costs and a streamlined regulatory environment.
-
-
                             </p>
                         </div>
                     </div>
@@ -183,13 +183,14 @@
                             <div class="about-list-wrapper">
 
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Regulated by LFSA: </b>Oversight by the Labuan Financial Services Authority.</li>
-                                    <li style="font-weight: 400;"><b>International Compliance:</b>Adherence to AML and KYC regulations.
+                                    <li style="font-weight: 400;"><b>Regulated by LFSA: </b>Overseen by the Labuan Financial Services Authority, ensuring strong regulation for brokers.</li>
+                                    <li style="font-weight: 400;"><b>International Compliance:</b> Brokers must comply with AML and KYC regulations.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Credibility & Protection: </b> Ensures credibility and security for brokers.
-
+                                    <li style="font-weight: 400;"><b>Credibility & Protection: </b>Ensures client protection and broker credibility.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Regulatory Assurance:</b> Brokers meet all necessary financial service requirements.
+                                    <li style="font-weight: 400;"><b>Regulatory Assurance:</b>Brokers meet all financial service requirements.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Company Formation:</b>Cost-effective company formation for forex brokers, enabling easy setup with MT5 Whitelabel solutions.
                                     </li>
                                 </ul>
                             </div>

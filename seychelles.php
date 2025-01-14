@@ -28,11 +28,16 @@
                             <div class="about-list-wrapper">
 
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Low Taxation:</b>Seychelles offers favorable tax rates for businesses.</li>
-                                    <li style="font-weight: 400;"><b>Business-Friendly:</b> Known for its supportive regulatory environment.</li>
-                                    <li style="font-weight: 400;"><b>Regulated by FSA:</b> The Seychelles Financial Services Authority oversees financial operations.
+                                    <li style="font-weight: 400;"><b>Company Formation:</b>Easy and cost-effective company formation for Forex brokers to open their brokerage business in Seychelles.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Cost-Effective Base:</b> Ideal for brokers seeking a reliable and affordable location.
+                                    <li style="font-weight: 400;"><b>Low Taxation:</b>Seychelles offers favorable tax rates for Forex brokers, making it a cost-effective jurisdiction for Forex brokerage setup.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Business-Friendly:</b>Known for its supportive regulatory environment, ideal for those looking to start your Forex broker business.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Regulated by FSA:</b>Overseen by the Seychelles Financial Services Authority (FSA), ensuring compliance with brokerage regulation.
+
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Cost-Effective Base:</b>An ideal location for brokers seeking a reliable and affordable base for their operations.
                                     </li>
                                     
                                 </ul>
@@ -63,10 +68,9 @@
                     <div class="col-lg-4 col-md-6 text-center mb-30">
                         <div class="process-single process-color-1">
                             <div class="icon"><span>01</span><i class="fa-thin fa-coins" aria-hidden="true"></i></div>
-                            <h3 style="font-size: 22px">Low Tax Rates</h3>
-                            <p>Seychelles offers no capital gains tax, no inheritance tax, and a low corporate tax rate
-                                (usually around 1.5% of the company’s revenue).
-
+                            <h3 style="font-size: 22px">Low Tax Rates in Seychelles
+                            </h3>
+                            <p>Seychelles offers minimal taxes, ideal for company formation and Forex brokerage setup with a low corporate tax rate (1.5%).
                             </p>
                         </div>
                     </div>
@@ -74,10 +78,9 @@
                         <div class="process-single process-color-2">
                             <div class="icon"><span>02</span><i class="fa-thin fa-piggy-bank" aria-hidden="true"></i>
                             </div>
-                            <h3 style="font-size: 22px">International Recognition</h3>
-                            <p>Seychelles has built a solid reputation for forex broker licenses, especially among
-                                brokers targeting emerging markets.
-
+                            <h3 style="font-size: 22px">International Recognition
+                            </h3>
+                            <p>Seychelles is a trusted jurisdiction for Forex broker licenses, offering affordable setup and company formation with strong global recognition.
                             </p>
                         </div>
                     </div>
@@ -86,9 +89,7 @@
                             <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Regulatory Simplicity</h3>
-                            <p>The FSA provides an efficient and straightforward licensing process with minimal red
-                                tape.
-
+                            <p>The FSA ensures a simple licensing process, ideal for Forex brokerage setup and company formation with minimal regulations. Perfect for starting your Forex broker business.
                             </p>
                         </div>
                     </div>
@@ -97,9 +98,7 @@
                             <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Privacy</h3>
-                            <p>Seychelles has strong privacy protections for both brokers and clients.
-
-
+                            <p>Seychelles ensures strong privacy for brokers and clients, ideal for company formation and Forex brokerage.
                             </p>
                         </div>
                     </div>
@@ -108,9 +107,7 @@
                             <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Flexible Compliance</h3>
-                            <p>While maintaining international compliance standards, Seychelles allows brokers more
-                                operational flexibility than more rigid jurisdictions.
-
+                            <p>Seychelles provides flexible compliance with international standards, perfect for company formation and Forex brokerage setup.
                             </p>
                         </div>
                     </div>

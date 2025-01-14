@@ -51,12 +51,8 @@
                                     <span> Compliance in Forex</span>
                                 </h1>
                             </div>
-                            <p class="about-text" style="margin-bottom: 15px;">At Prixim Global, customer safety is our
-                                top priority. We prioritize trust and reliability
-                                while upholding the highest standards of quality and professionalism.
-                                We stay ahead <br>of industry trends and continuously improve our services. Our
-                                certifications from recognized authorities showcase our
-                                commitment to delivering innovative solutions and best practices.
+                            <p class="about-text" style="margin-bottom: 15px;">At Prixim Global, customer safety is our priority. We uphold trust, quality, and professionalism while staying ahead of industry trends. As a Technology Provider for Forex Brokerage, we offer services like MT5 White Label Provider and Liquidity Provider for Forex Industry, ensuring innovative solutions for your success.
+
                             </p>
 
                         </div>
@@ -78,16 +74,13 @@
                             </div>
 
                             <ul class="about-list list-unstyled">
-                                <li style="font-weight:normal;"><strong>Commitment to Quality :</strong> We uphold the
-                                    highest standards in our products and services.</li>
-                                <li style="font-weight:normal;"><strong>Globally Recognized Standard :</strong> ISO 9001
-                                    ensures reliability and consistency.
+                                <li style="font-weight:normal;"><strong>Commitment to Quality :</strong>We uphold top standards, including MT5 White Label Provider and Affordable MT5 Server Provider.
                                 </li>
-                                <li style="font-weight:normal;"><strong>Enhanced Efficiency :</strong> Streamlined
-                                    processes boost operational effectiveness.
+                                <li style="font-weight:normal;"><strong>Globally Recognized Standard :</strong> ISO 9001 ensures reliable Forex Brokerage services.
                                 </li>
-                                <li style="font-weight:normal;"><strong>Customer Satisfaction :</strong> Our quality
-                                    management leads to improved satisfaction and reliable outcomes.
+                                <li style="font-weight:normal;"><strong>Enhanced Efficiency :</strong>Streamlined processes, like Risk Management Provider for Forex Broker, boost operations.
+                                </li>
+                                <li style="font-weight:normal;"><strong>Customer Satisfaction :</strong>Focusing on Brokerage Regulation for Forex Brokers, we ensure dependable results.
                                 </li>
                             </ul>
 
@@ -120,11 +113,8 @@
                                 <h2 class="site-title">ISO 27001 Certification at <span>Prixim Global</span>
                                 </h2>
                             </div>
-                            <p class="about-text">Prixim Global is ISO 27001 certified, ensuring strict protocols for
-                                safeguarding sensitive information like financial data
-                                and employee details. This certification establishes our commitment to a robust
-                                Information Security Management System (ISMS).
-                                <br>Trust us to maintain the highest level of security for your business data.
+                            <p class="about-text">Prixim Global is ISO 27001 certified, ensuring the highest standards in protecting sensitive information, such as financial data for Forex brokerages. Our robust Information Security Management System (ISMS) guarantees secure data handling and compliance, crucial for technology providers for Forex brokerage, ensuring security for your business data.
+
 
                             </p>
                         </div>
@@ -140,16 +130,16 @@
                             <div class="site-heading mb-3">
                                 <h2 class="site-title">Shariah-Compliant IT Solutions at <span>Prixim
                                         Global</span></h2>
+                                    <p><strong>Customized Financial Software for Forex Brokerages:</strong>
+                                        </p>
                             </div>
                             <ul class="about-list list-unstyled">
-                                <li style="font-weight:normal;"><strong>Customized Financial Softwares:</strong> We
-                                    develop IT solutions that meet Islamic financial and accounting standards.
+                                <li style="font-weight:normal;">We offer Shariah-compliant systems that adhere to Islamic financial and accounting standards.
                                 </li>
-                                <li style="font-weight:normal;"><strong>Ethical and Reliable :</strong> Our
-                                    Shariah-compliant systems ensure innovative and trustworthy financial operations.
-
+                                <li style="font-weight:normal;">Our solutions ensure ethical and reliable financial operations, promoting trust and innovation.
                                 </li>
-
+                                <li style="font-weight:normal;">Tailored IT solutions for Forex brokerages, enhancing efficiency and compliance with industry regulations.
+                                </li>
                             </ul>
                         </div>
                     </div>
@@ -181,19 +171,13 @@
                                     Proud NASSCOM Member </h2>
                             </div>
                             <ul class="about-list list-unstyled">
-                                <li style="font-weight:normal;"><strong>Prestigious Network :</strong>We connect with
-                                    leading IT and Business Process Outsourcing companies in India.
-
+                                <li style="font-weight:normal;"><strong>Prestigious Network :</strong>Connects with leading IT and outsourcing firms, enhancing Forex services.
                                 </li>
-                                <li style="font-weight:normal;"><strong>Access to Resources :</strong>We benefit from
-                                    industry insights, events, and networking opportunities.
+                                <li style="font-weight:normal;"><strong>Access to Resources :</strong> Utilizes industry insights, events, and networking for Forex growth.
                                 </li>
-                                <li style="font-weight:normal;"><strong>Advocacy and Collaboration :</strong>NASSCOM
-                                    promotes policies that benefit businesses in the IT sector.
+                                <li style="font-weight:normal;"><strong>Advocacy and Collaboration :</strong>Promotes policies that benefit IT and Forex businesses.
                                 </li>
-                                <li style="font-weight:normal;"><strong>Commitment to Excellence :</strong>Membership
-                                    keeps us updated on trends and drives innovation in our IT services.
-
+                                <li style="font-weight:normal;"><strong>Commitment to Excellence :</strong>Drives innovation in services like MT5 whitelabel, liquidity provision, and risk management.
                                 </li>
 
                             </ul>
@@ -211,7 +195,8 @@
             <div class="row align-items-center">
                 <div class="col-lg-8 mx-auto">
                     <div class="cta-content">
-                        <h2>Ready to get started with your brokerage?</h2>
+                        <h2>Ready to get started with your forex brokerage?
+                        </h2>
 
                         <p>Contact us today to learn how we can help
                             you succeed</p>

@@ -28,11 +28,17 @@
                             <div class="about-list-wrapper">
 
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b> Cost-Effective Jurisdiction:</b> Mwali, Comoros Islands, offers affordable options for forex brokers.</li>
-                                    <li style="font-weight: 400;"><b>Growing Financial Sector:</b> Mwali's financial sector is developing with strong opportunities.</li>
-                                    <li style="font-weight: 400;"><b>Minimal Regulations:</b> Brokers face fewer regulatory requirements in Mwali.</li>
-                                    <li style="font-weight: 400;"><b>Attractive Tax Environment:</b> Mwali provides a favorable tax structure for brokers.</li>
-                                    <li style="font-weight: 400;"><b>Low Setup Costs:</b>Perfect for brokers seeking affordable setup and minimal administration in Mwali.</li> 
+                                    <li style="font-weight: 400;"><b>Company formation:</b>Affordable options for company formation and Forex brokerage setup in Comoros Islands.</li>
+                                    <li style="font-weight: 400;"><b>Cost-Effective Jurisdiction:</b>Affordable options for company formation and Forex brokerage setup.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Growing Financial Sector:</b>Strong opportunities to start your Forex broker business.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Simple Regulations & Low Setup Costs:</b>Minimal regulatory requirements and affordable setup for Forex brokers.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Attractive Tax Environment:</b>Favorable tax structure for brokers.
+                                    </li> 
+                                    <li style="font-weight: 400;"><b>Affordable MT5 Servers:</b>Perfect for MT5 whitelabel solutions and minimal administration.
+                                    </li> 
                                 </ul>
                             </div>
 
@@ -124,10 +130,13 @@
                             <div class="about-list-wrapper">
 
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Less Regulated:</b> Comoros has fewer regulations compared to major financial jurisdictions.</li>
-                                    <li style="font-weight: 400;"><b>Basic Compliance Requirements:</b>Brokers must follow AML and KYC procedures.</li>
-                                    <li style="font-weight: 400;"><b>Regulatory Oversight:</b>The regulatory body ensures brokers meet minimal standards.</li>
-                                    <li style="font-weight: 400;"><b>Client Protection:</b>Focuses on safeguarding clients' funds and transactions.</li> 
+                                    <li style="font-weight: 400;"><b>Less Regulated:</b>Comoros offers a flexible environment with fewer regulations for Forex brokers.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Basic Compliance:</b> Brokers must follow AML and KYC procedures.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Regulatory Oversight:</b>Ensures brokers meet minimal standards for Forex brokerage setup.
+                                    </li>
+                                    <li style="font-weight: 400;"><b>Client Protection:</b> Focused on safeguarding clients' funds and transactions.</li> 
                                 </ul>
                             </div>
                             

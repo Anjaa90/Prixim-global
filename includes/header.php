@@ -7,6 +7,8 @@
   <meta name="google-site-verification" content="TlcZxQVoKwJF8vMQ7PEgHn4ocwq4k9JWhXJUqDYSLkI" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
   
   <title>
         <?php echo $title ?>
@@ -16,9 +18,9 @@
     
   
   <script src="https://kit.fontawesome.com/d9355482a9.js" crossorigin="anonymous"></script>
-  <img src="assets\img\logo\favicon-01 (1).png" alt="Contact Us" class="RY5A9 rNTKFb Tvakkc" jscontroller="drzawc" jsaction="rcuQ6b:e7BGtc;" title="Contact Us" style="width: 320px; height: 320px;">
+  
+  <link rel="icon" type="image/png" sizes="56x56" href="assets/img/logo/favicon-01 (1).png">
 
-  <link rel="icon" type="image/png" sizes="56x56" href="assets\img\logo\favicon-01 (1).png">
   <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
   <link rel="stylesheet" href="assets/css/all-fontawesome.min.css" />
   <link rel="stylesheet" href="assets/css/flaticon.css" />
@@ -28,7 +30,20 @@
   <link rel="stylesheet" href="assets/css/style.css" />
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&amp;family=Roboto:wght@100;300;400;500;700;900&amp;display=swap">
-  <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon-01 (1).png">
+
+   <!-- Open Graph Meta Tags -->
+<meta property="og:title" content="<?php echo $title ?>" />
+<meta property="og:description" content="<?php echo $description ?>" />
+<meta property="og:image" content="assets/img/logo/favicon-01 (1).png" />
+<meta property="og:url" content="https://priximglobal.com/" />
+<meta property="og:type" content="website" />
+
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:title" content="<?php echo $title ?>" />
+<meta name="twitter:description" content="<?php echo $description ?>" />
+<meta name="twitter:image" content="assets/img/logo/favicon-01 (1).png" />
+<meta name="twitter:card" content="summary_large_image" />
+
 </head>
 
 
