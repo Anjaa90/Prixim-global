@@ -16,6 +16,8 @@
     
   
   <script src="https://kit.fontawesome.com/d9355482a9.js" crossorigin="anonymous"></script>
+  <img src="assets\img\logo\favicon-01 (1).png" alt="Contact Us" class="RY5A9 rNTKFb Tvakkc" jscontroller="drzawc" jsaction="rcuQ6b:e7BGtc;" title="Contact Us" style="width: 320px; height: 320px;">
+
   <link rel="icon" type="image/png" sizes="56x56" href="assets\img\logo\favicon-01 (1).png">
   <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
   <link rel="stylesheet" href="assets/css/all-fontawesome.min.css" />
