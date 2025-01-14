@@ -227,7 +227,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-4 col-md-6 text-center mb-30">
                         <div class="process-single process-color-1">
-                            <div class="icon"><span>01</span><i class="fa-thin fa-coins" aria-hidden="true"></i></div>
+                            <div class="icon"><span>04</span><i class="fa-thin fa-server" aria-hidden="true"></i></div>
                             <!-- <h3 style="font-size: 22px">Access to a Global Network</h3> -->
                             <p>Automatic server performance monitoring
                             </p>
@@ -235,7 +235,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 text-center mb-30">
                         <div class="process-single process-color-2">
-                            <div class="icon"><span>02</span><i class="fa-thin fa-piggy-bank" aria-hidden="true"></i>
+                            <div class="icon"><span>05</span><i class="fa-thin fa-database" aria-hidden="true"></i>
                             </div>
                             <!-- <h3 style="font-size: 22px">Comprehensive Training</h3> -->
                             <p>Failover servers for uptime
@@ -244,7 +244,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 text-center mb-30">
                         <div class="process-single process-single-last process-color-3">
-                            <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
+                            <div class="icon"><span>06</span><i class="fa-thin fa-shield-alt" aria-hidden="true"></i>
                             </div>
                             <!-- <h3 style="font-size: 22px">Regulatory Compliance</h3> -->
                             <p>Robust DDoS security
