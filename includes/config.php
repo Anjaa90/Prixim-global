@@ -147,12 +147,20 @@ switch ($menuactive) {
             $description = "Start your Forex brokerage with Prixim Global. Use our Forex Brokerage Calculator and get expert guidance on company formation and regulation.";
             break;
 
-            case 'thank_you.php':
-                $title = "Prixim Global | Thank You";
-                $description = "We appreciate your interest. Our team will get back to you shortly.";
-                break;
+        case 'thank_you.php':
+            $title = "Prixim Global | Thank You";
+            $description = "We appreciate your interest. Our team will get back to you shortly.";
+            break;
+        
+        case 'terms-of-use.php':
+            $title = "Terms of Use - Prixim Global";
+            $description = "Review the Terms of Use for Prixim Global. Understand the guidelines and conditions for using our services.";
+            break;
 
-
+        case 'privacy-policy.php':
+            $title = "Privacy Policy - Prixim Global";
+            $description = "Learn how Prixim Global protects your data and privacy.";
+            break;
         case 'labuan.php':
                 $title = "Labuan Forex Broker License | Company Formation | Regulation";
                 $description = "Get your Labuan Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";

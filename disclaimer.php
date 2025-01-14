@@ -14,7 +14,7 @@
             <div class="hero-right-circles"></div>
         </div>
         <div class="pt-120 pb-120">
-            <div class="container">
+            <div class="container terms">
                 <div class="row">
                     <div class="col">
                         <div class="terms-content">
@@ -61,6 +61,12 @@
         </div>
         <script src="script.js"></script>
         <style>
+            
+            .terms{
+                background-color:rgba(240, 241, 243, 0.9);
+                padding: 32px;
+                border-radius: 20px;
+            }
            .floating-button {
                 position: fixed;
                 bottom: 90px;
