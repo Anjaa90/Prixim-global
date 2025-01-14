@@ -61,7 +61,7 @@ Tailored for Specific Industries: Live chat services for Forex Brokerage, NEO ba
                         <div class="about-left">
                             <div class="about-img vertical-animation">
                                 <img src="assets\img\live\outsource - live chat - Live Chat and Email Support at Prixim Global (1).webp"
-                                    alt="Prixim Global offers live chat and email support,for your client immediate assistance"
+                                    alt="Prixim Global offers live chat and email support,| Live Chat Outsourcing Provider"
                                     loading="lazy">
                             </div>
                         </div>
@@ -77,7 +77,7 @@ Tailored for Specific Industries: Live chat services for Forex Brokerage, NEO ba
                         <div class="about-left">
                             <div class="about-img vertical-animation">
                                 <img src="assets\img\live/Why Choose Prixim Global for Live Chat & Email Support.webp"
-                                    alt="Live Chat & Email Support for Instant Communication, Thorough Email Support and 24/5 Availability."
+                                    alt="24/5 live chat and email support for forex brokerages."
                                     loading="lazy">
                             </div>
                         </div>
@@ -121,7 +121,7 @@ Tailored for Specific Industries: Live chat services for Forex Brokerage, NEO ba
                         <div class="wrapper blog-item">
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img/pop trading/outsource - live chat- Improved Client Engagement.png"
-                                    alt=" Live Chat & Email Support to foster stronger relationships with clients.">
+                                    alt="Live Chat & Email Support to foster stronger relationships| Outsourcing Support Provider">
                             </div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;" class="pb-2">Improved Client Engagement</h3>
@@ -134,7 +134,7 @@ Tailored for Specific Industries: Live chat services for Forex Brokerage, NEO ba
                         <div class="wrapper blog-item">
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img\pop trading/outsource - live chat - Complete Coverage.png"
-                                    alt=" Live Chat & Email Support gives Clients a choose preferred method of communication "
+                                    alt="Live Chat & Email Support gives Clients a choose preferred method of communication | Outsourcing Support Provider"
                                     style="height: 199px;width:390px ;"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;" class="pb-2">Complete Coverage</h3>
@@ -148,7 +148,7 @@ Tailored for Specific Industries: Live chat services for Forex Brokerage, NEO ba
                         <div class="wrapper blog-item">
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img\pop trading/outsource - live chat- Increased Client Trust.png"
-                                    alt="Our Live Chat & Email Support Prompt responses builds Client Trust"></div>
+                                    alt="Our Live Chat & Email Support Prompt responses builds Client Trust| Outsourcing Services for Forex Industry"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;" class="pb-2">Increased Client Trust</h3>
                                 <span>Prompt responses via Live Chat Services for Forex Brokerage and Outsourcing Support Provider help build trust and confidence in your Forex Brokerage.

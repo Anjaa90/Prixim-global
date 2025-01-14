@@ -40,7 +40,7 @@
                         <div class="about-left">
                             <div class="about-img vertical-animation">
                                 <img src="assets\img\kyc/outsource - KYC Reporting -KYC and Reporting Services at Prixim Global (1).webp"
-                                    alt="Prixim Global specializes in KYC and reporting services" loading="lazy">
+                                    alt="Prixim Global specializes in KYC and reporting services| Outsourcing Services for Forex Industry" loading="lazy">
                             </div>
                         </div>
                     </div>
@@ -55,7 +55,7 @@
                         <div class="about-left">
                             <div class="about-img vertical-animation">
                                 <img src="assets\img\kyc/why choose KYC & Reporting.webp"
-                                    alt="Choose Prixim Global for KYC & Reporting" loading="lazy">
+                                    alt="Choose Prixim Global for KYC & Reporting| KYC AML Outsourcing for Financial Brokerage" loading="lazy">
                             </div>
                         </div>
                     </div>
@@ -101,7 +101,7 @@
                         <div class="wrapper blog-item">
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img\pop trading/outsource - KYC Reporting -Reduced Fraud Risk.png"
-                                    alt="Prixim Global's KYC processes help prevent fraud"
+                                    alt="Prixim Global's KYC processes help prevent fraud| KYC AML Outsourcing for Financial Brokerage"
                                     style="height: 230px;width:400px ;"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Reduced Fraud Risk</h3><br>
@@ -128,7 +128,7 @@
                         <div class="wrapper blog-item">
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img\pop trading/outsource - KYC Reporting -Peace of Mind.png"
-                                    alt="Prixim Global for KYC for Peace of Mind"></div>
+                                    alt="Prixim Global for KYC for Peace of Mind| MT5 Whitelabel Provider"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Peace of Mind</h3><br>
                                 <span>Grow your business while we handle KYC AML Outsourcing and compliance.</span>

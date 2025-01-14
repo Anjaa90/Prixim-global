@@ -41,17 +41,19 @@
             <div class="container">
                 <div class="row align-items-center mb-5">
                     <div class="col-lg-6">
-                        <div class="choose-content">
+                        <div class="choose-content about-list list-unstyled">
                             <div class="site-heading mb-3">
                                 <h1 class="site-title">Digital Marketing Services for <span>Forex Brokerage Businesses
                                         Website</span>
 
                                     </span></h2>
                             </div>
-                            <p>SEO, PPC, and Content Marketing to boost your online presence and attract clients to your Forex broker website.</p>
-                            <p>Partner with us to start your Forex broker with tailored solutions for a strong online presence.</p>
-                            <p>Services like MT5 White Label Provider and liquidity provider for the Forex industry to enhance your operations.</p>
-                            <p>Outsourcing support for the Forex industry to help you grow effectively and streamline your brokerage.</p>
+                            <ul>
+                                <li style="font-weight: 400;">SEO, PPC, and Content Marketing to boost your online presence and attract clients to your Forex broker website.</li>
+                                <li style="font-weight: 400;">Partner with us to start your Forex broker with tailored solutions for a strong online presence.</li>
+                                <li style="font-weight: 400;">Services like MT5 White Label Provider and liquidity provider for the Forex industry to enhance your operations.</li>
+                                <li style="font-weight: 400;">Outsourcing support for the Forex industry to help you grow effectively and streamline your brokerage.</li>
+                            </ul>
                         </div>
                     </div>
                     <div class="col-lg-6">

@@ -104,7 +104,7 @@
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
                                     src="assets\img\outsource\outsource - Tech Support Sales - Comprehensive Tech Support services at Prixim Global.webp"
-                                    loading="lazy" alt="Prixim Global provides complete Tech Support"></div>
+                                    loading="lazy" alt="Prixim Global provides complete Tech Support| Technology Provider for Forex Brokerage"></div>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -154,7 +154,7 @@
                         <div class="about-left">
                             <div class="about-img vertical-animation">
                                 <img src="assets\img\outsource\outsource - Tech Support Sales - Why Choose Prixim Global for Tech Support.webp"
-                                    alt="Expert support, quick responses, tailored technology solutions by Prixim Global"
+                                    alt="Tailored technology solutions by Prixim Global| Technology Provider for Forex Brokerage"
                                     loading="lazy">
                             </div>
                         </div>
@@ -184,7 +184,7 @@
                         <div class="wrapper blog-item">
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img\outsource\outsource - Tech Support Sales -Minimized Downtime.png"
-                                    alt="Uninterrupted trading operations which Minimized Downtime"
+                                    alt="trading operations which Minimized Downtime| Technology Provider for Forex"
                                     style="height: 230px;width:400px ;"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Minimized Downtime</h3><br>
@@ -197,7 +197,7 @@
                         <div class="wrapper blog-item">
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img\outsource\outsource - Tech Support Sales -Focus on Core Business.png"
-                                    alt="Prixim Global's tech support, focus on Forex strategy and growth."></div>
+                                    alt="Prixim Global's tech support,| Technology Provider for Forex"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Focus on Core Business</h3><br>
                                 <span> With our Tech Support for Forex Brokerage, focus on growth while we handle technical issues, ensuring smooth operation of Metatrader5 and MT5 White Label Provider services.
@@ -211,7 +211,7 @@
                         <div class="wrapper blog-item">
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img\outsource\outsource - Tech Support Sales -Enhanced System Performance.png"
-                                    alt="Regular Maintenance and Monitoring by Prixim Global"></div>
+                                    alt="Maintenance and Monitoring by Prixim Global| Technology Provider for Forex"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Enhanced System Performance</h3><br>
                                 <span>Regular maintenance boosts system performance, ensuring smooth operation of Metatrader5 with our Affordable MT5 Server Provider services.

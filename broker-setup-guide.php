@@ -111,7 +111,7 @@
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
                                     src="assets/img/compliance/Fx platforms- Broker SetUp Guide first image.webp"
-                                    alt="Business Process Outsourcing Solutions" loading="lazy"></div>
+                                    alt="MT5 integration, regulation support, and affordable servers" loading="lazy"></div>
                         </div>
                     </div>
                     <div class="col-lg-6">

@@ -17,7 +17,7 @@
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
                                     src="assets\img/Vanuatu flag.webp"
-                                    alt="Prixim Global Workspace for Business Operations" loading="lazy"></div>
+                                    alt="Setup your forex brokerage In Vanuatu" loading="lazy"></div>
                         </div>
                     </div>
                     <div class="col-lg-5">
@@ -28,15 +28,15 @@
                             <div class="about-list-wrapper">
 
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Company Formation:</b>Easy and cost-effective company formation for Forex brokers to open their brokerage business in Vanuatu.
+                                    <li style="font-weight: 400;"><b>Company Formation:</b> Easy and cost-effective company formation for Forex brokers to open their brokerage business in Vanuatu.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Cost-Effective License:</b>Vanuatu offers affordable and efficient licensing for forex brokers.</li>
-                                    <li style="font-weight: 400;"><b>Quick Licensing:</b>A streamlined process to set up forex brokerage with minimal delay.
+                                    <li style="font-weight: 400;"><b>Cost-Effective License:</b> Vanuatu offers affordable and efficient licensing for forex brokers.</li>
+                                    <li style="font-weight: 400;"><b>Quick Licensing:</b> A streamlined process to set up forex brokerage with minimal delay.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Low Fees:</b>Enjoy competitive, low licensing fees for forex brokers.</li>
+                                    <li style="font-weight: 400;"><b>Low Fees:</b> Enjoy competitive, low licensing fees for forex brokers.</li>
                                     <li style="font-weight: 400;"><b>Flexible Regulations:</b> A business-friendly environment with adaptable brokerage regulation.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Growing Popularity:</b>Attracting new and established brokers to the jurisdiction.</li>
+                                    <li style="font-weight: 400;"><b>Growing Popularity:</b> Attracting new and established brokers to the jurisdiction.</li>
                                     
                                 </ul>
                             </div>

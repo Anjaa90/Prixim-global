@@ -17,7 +17,7 @@
                         <div class="about-left">
                             <div class="about-img vertical-animation">
                                 <img src="assets\img/labuan flag.webp"
-                                    alt="Prixim Global Workspace for Business Operations" loading="lazy">
+                                    alt="Setup your forex brokerage In Labuan" loading="lazy">
                             </div>
                         </div>
                     </div>
@@ -37,7 +37,7 @@
                                     </li>
                                     <li style="font-weight: 400;"><b>Global Services: </b>A stable platform for forex trading and financial services worldwide.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Flexible Broker License:</b>Supports business growth with international compliance and easy company formation.
+                                    <li style="font-weight: 400;"><b>Flexible Broker License:</b> Supports business growth with international compliance and easy company formation.
                                     </li>
                                 </ul>
                             </div>
@@ -188,9 +188,9 @@
                                     </li>
                                     <li style="font-weight: 400;"><b>Credibility & Protection: </b>Ensures client protection and broker credibility.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Regulatory Assurance:</b>Brokers meet all financial service requirements.
+                                    <li style="font-weight: 400;"><b>Regulatory Assurance:</b> Brokers meet all financial service requirements.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Company Formation:</b>Cost-effective company formation for forex brokers, enabling easy setup with MT5 Whitelabel solutions.
+                                    <li style="font-weight: 400;"><b>Company Formation:</b> Cost-effective company formation for forex brokers, enabling easy setup with MT5 Whitelabel solutions.
                                     </li>
                                 </ul>
                             </div>
@@ -199,7 +199,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img src="assets/img/labuan  OVERVIEW.png"
-                                    alt="B2B Match Trader" loading="lazy"></div>
+                                    alt="Company Formation In Labuan" loading="lazy"></div>
                         </div>
                     </div>
                 </div>

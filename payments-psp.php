@@ -18,7 +18,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img src="assets/img/psp/psp.webp"
-                                    alt="Payment Service Providers" loading="lazy"></div>
+                                    alt="Brokerage regulation support" loading="lazy"></div>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -97,7 +97,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="faq-img"><img src="assets/img/compliance/psp-2.webp"
-                                alt="Payment Methods & Payment Management" loading="lazy"></div>
+                                alt="PSP accounts for high-risk industries" loading="lazy"></div>
                     </div>
                 </div>
             </div>
@@ -128,7 +128,7 @@
                         <div class="blog-item">
                             <div class="blog-item-img"><img
                                     src="assets/img/psp/business-concept-with-graphic-holography.webp"
-                                    alt="Boosted Sales" loading="lazy"></div>
+                                    alt="MT4\ MT5 admin services" loading="lazy"></div>
                             <div class="blog-item-info">
                                 <h3 style="font-size: 18px;" class="mb-2">Boosted Sales </h3>
                                 <p>Ensure seamless, secure payments, boost transaction efficiency, and drive sales for your Forex brokerage.</p>
@@ -150,7 +150,7 @@
                         <div class="blog-item">
                             <div class="blog-item-img"><img
                                     src="assets/img/psp/high-angle-lock-with-credit-card-top-laptop.webp"
-                                    alt="Payment Ecosystem" loading="lazy"></div>
+                                    alt="PSP accounts for high-risk industries" loading="lazy"></div>
                             <div class="blog-item-info">
                                 <h3 style="font-size: 18px;" class="mb-2">Provide a Secure Payment Ecosystem</h3>
                                 <p>Ensure secure payments with SSL encryption, protecting transaction data for your Forex brokerage.</p>
