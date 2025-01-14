@@ -111,18 +111,18 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <div class="choose-content">
+                        <div class="choose-content about-list list-unstyled">
                             <div class="site-heading mb-3">
                                 <h2 class="site-title">Our <span>Web Development Services</span></h2>
                             </div>
                             <p>At Prixim Global, we offer web development services for the Forex brokerage industry. 
                             Our expertise includes:</p>
                             <ul>
-                                <li><strong>Custom Website Development:</strong> Scalable, user-friendly sites for your Forex brokerage and MT5 white label provider needs.</li>
-                                <li><strong>Responsive Design:</strong> Seamless experience across all devices to enhance user engagement and support your Forex business.</li>
-                                <li><strong>E-commerce Solutions:</strong> Secure payment gateways and intuitive interfaces, perfect for your PSP account for high-risk industries.</li>
-                                <li><strong>Content Management Systems (CMS):</strong> Easy content management for Forex brokers and company formation.</li>
-                                <li><strong>Website Maintenance:</strong> Ongoing support to keep your site secure and up to date, alongside our outsourcing services for the Forex industry.
+                                <li style="font-weight: 400;"><strong>Custom Website Development:</strong> Scalable, user-friendly sites for your Forex brokerage and MT5 white label provider needs.</li>
+                                <li style="font-weight: 400;"><strong>Responsive Design:</strong> Seamless experience across all devices to enhance user engagement and support your Forex business.</li>
+                                <li style="font-weight: 400;"><strong>E-commerce Solutions:</strong> Secure payment gateways and intuitive interfaces, perfect for your PSP account for high-risk industries.</li>
+                                <li style="font-weight: 400;"><strong>Content Management Systems (CMS):</strong> Easy content management for Forex brokers and company formation.</li>
+                                <li style="font-weight: 400;"><strong>Website Maintenance:</strong> Ongoing support to keep your site secure and up to date, alongside our outsourcing services for the Forex industry.
                                 </li>
                             </ul>
                         </div>
@@ -196,20 +196,20 @@
 
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <div class="choose-content">
+                        <div class="choose-content about-list list-unstyled">
                             <div class="site-heading mb-3">
                                 <h2 class="site-title" style="padding-top:60px;">Why <span> Choose Us?
                                     </span>
                                 </h2>
                             </div>
                             <ul>
-                                <li><strong>Expert Team:</strong> Skilled in the latest technologies, we’re a leading technology provider for Forex brokerage and MT5 provider.
+                                <li style="font-weight: 400;"><strong>Expert Team:</strong> Skilled in the latest technologies, we’re a leading technology provider for Forex brokerage and MT5 provider.
                                 </li>
-                                <li><strong>Customized Services:</strong> Tailored solutions to help you set up your Forex brokerage, open your brokerage business, or find an affordable MT5 server provider.
+                                <li style="font-weight: 400;"><strong>Customized Services:</strong> Tailored solutions to help you set up your Forex brokerage, open your brokerage business, or find an affordable MT5 server provider.
                                 </li>
-                                <li><strong>SEO-Friendly Design:</strong> WOptimized websites to rank higher and drive organic traffic, supporting your Forex business growth.
+                                <li style="font-weight: 400;"><strong>SEO-Friendly Design:</strong> WOptimized websites to rank higher and drive organic traffic, supporting your Forex business growth.
                                 </li>
-                                <li><strong>Commitment to Quality:</strong> We ensure high standards in liquidity providers for the Forex industry, brokerage regulation, and risk management for Forex brokers.
+                                <li style="font-weight: 400;"><strong>Commitment to Quality:</strong> We ensure high standards in liquidity providers for the Forex industry, brokerage regulation, and risk management for Forex brokers.
                                 </li>
                             </ul>
                         </div>
