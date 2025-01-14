@@ -1239,7 +1239,7 @@
                             <li><a href="terms-of-use.html">Terms of Use</a></li>
                             <li><a href="privacy-policy.html">Privacy Policy</a></li>
                             <li><a href="gdpr-compliances.html">GDPR Compliances</a></li>
-                            <li><a href="disclaimer.html">Disclaimer</a></li>
+                            <li><a href="disclaimer.php">Disclaimer</a></li>
                         </ul>
                     </div>
                 </div>
