@@ -68,7 +68,7 @@
                                     src="assets\img\pop trading/outsource -Server Management -Seamless Trading Experience.png"
                                     alt="Prixim Global's MT4 Admin Services for efficient platform management" style="height: 230px;width:400px ;"></div>
                             <div class="item blog-item-info">
-                                <h3 style="font-size: 22px;">Seamless Trading</h3><br><br>
+                                <h3 style="font-size: 22px;">Seamless Trading</h3><br>
                                 <span> Reliable MT5 servers ensure smooth operations for your Forex brokerage.
                                 </span>
                             </div>
@@ -92,7 +92,7 @@
                                     alt="Technology solutions for forex brokerages| MT5 Turnkey Solution "></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Cost-Effective Services</h3><br>
-                                <span> Reduce in-house IT needs with our low-cost Forex services to easily start your Forex brokerage.
+                                <span>Reduce in-house IT needs with our low-cost Forex services to easily start your Forex brokerage.
                                 </span>
                             </div>
                         </div>
