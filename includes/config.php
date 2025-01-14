@@ -32,30 +32,30 @@ switch ($menuactive) {
         $description = "Partner with Prixim Global for company formation, brokerage regulation, trading platforms, and outsourcing services to grow your Forex business.";
         break;
     
-        case 'our-certification.php':
-            $title = "ISO Certified and a Proud NASSCOM Member";
-            $description = "Prixim Global is ISO 9001 and ISO 27001 certified, Shariah compliant, and a proud NASSCOM member, ensuring quality and compliance in Forex solutions.";
-            break;
+    case 'our-certification.php':
+        $title = "ISO Certified and a Proud NASSCOM Member";
+        $description = "Prixim Global is ISO 9001 and ISO 27001 certified, Shariah compliant, and a proud NASSCOM member, ensuring quality and compliance in Forex solutions.";
+        break;
     
-        case 'mt5-hosting-whitelabel.php':
-            $title = "Prixim Global | MT5 Hosting, White Label & MetaTrader5";
-            $description = "Start your Forex brokerage with Prixim Global. We offer MT5 Hosting, MT5 White Label, and MetaTrader5 for a seamless business setup.";
-            break;
+    case 'mt5-hosting-whitelabel.php':
+        $title = "Prixim Global | MT5 Hosting, White Label & MetaTrader5";
+        $description = "Start your Forex brokerage with Prixim Global. We offer MT5 Hosting, MT5 White Label, and MetaTrader5 for a seamless business setup.";
+        break;
     
-        case 'match-trader-whitelabel.php':
-            $title = "Brokerage Setup | Match Trader Platform | Company Formation";
-            $description = "Start your Forex brokerage with Prixim Global. Use our Brokerage Calculator and Match Trader Platform for company formation and regulation guidance.";
-            break;
+    case 'match-trader-whitelabel.php':
+        $title = "Brokerage Setup | Match Trader Platform | Company Formation";
+        $description = "Start your Forex brokerage with Prixim Global. Use our Brokerage Calculator and Match Trader Platform for company formation and regulation guidance.";
+        break;
 
-        case 'match-trader-prop-trading.php':
-                $title = "Match Trader Platform by Prixim Global for Brokerage Businesses";
-                $description = "Match-Trader by Prixim Global: an all-in-one platform for brokers, featuring built-in CRM, social and prop trading, and advanced tools for traders and brokers.";
-                break;
+    case 'match-trader-prop-trading.php':
+        $title = "Match Trader Platform by Prixim Global for Brokerage Businesses";
+        $description = "Match-Trader by Prixim Global: an all-in-one platform for brokers, featuring built-in CRM, social and prop trading, and advanced tools for traders and brokers.";
+        break;
     
-        case 'vertexfx-whitelabel.php':
-            $title = "VertexFX Trading by Prixim Global for Brokerage Businesses";
-            $description = "VertexFX by Prixim Global with customizable risk management and powerful tools for trading operations and portfolio management.";
-            break;
+    case 'vertexfx-whitelabel.php':
+        $title = "VertexFX Trading by Prixim Global for Brokerage Businesses";
+        $description = "VertexFX by Prixim Global with customizable risk management and powerful tools for trading operations and portfolio management.";
+        break;
     
         case 'wow-trader-prop-trading.php':
             $title = "Forex Brokerage Setup | Match Trader, Wow Trader & Formation";
