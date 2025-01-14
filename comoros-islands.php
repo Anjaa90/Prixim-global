@@ -28,16 +28,16 @@
                             <div class="about-list-wrapper">
 
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Company formation:</b>Affordable options for company formation and Forex brokerage setup in Comoros Islands.</li>
-                                    <li style="font-weight: 400;"><b>Cost-Effective Jurisdiction:</b>Affordable options for company formation and Forex brokerage setup.
+                                    <li style="font-weight: 400;"><b>Company formation:</b> Affordable options for company formation and Forex brokerage setup in Comoros Islands.</li>
+                                    <li style="font-weight: 400;"><b>Cost-Effective Jurisdiction:</b> Affordable options for company formation and Forex brokerage setup.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Growing Financial Sector:</b>Strong opportunities to start your Forex broker business.
+                                    <li style="font-weight: 400;"><b>Growing Financial Sector:</b> Strong opportunities to start your Forex broker business.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Simple Regulations & Low Setup Costs:</b>Minimal regulatory requirements and affordable setup for Forex brokers.
+                                    <li style="font-weight: 400;"><b>Simple Regulations & Low Setup Costs:</b> Minimal regulatory requirements and affordable setup for Forex brokers.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Attractive Tax Environment:</b>Favorable tax structure for brokers.
+                                    <li style="font-weight: 400;"><b>Attractive Tax Environment:</b> Favorable tax structure for brokers.
                                     </li> 
-                                    <li style="font-weight: 400;"><b>Affordable MT5 Servers:</b>Perfect for MT5 whitelabel solutions and minimal administration.
+                                    <li style="font-weight: 400;"><b>Affordable MT5 Servers:</b> Perfect for MT5 whitelabel solutions and minimal administration.
                                     </li> 
                                 </ul>
                             </div>
@@ -130,11 +130,11 @@
                             <div class="about-list-wrapper">
 
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Less Regulated:</b>Comoros offers a flexible environment with fewer regulations for Forex brokers.
+                                    <li style="font-weight: 400;"><b>Less Regulated:</b> Comoros offers a flexible environment with fewer regulations for Forex brokers.
                                     </li>
                                     <li style="font-weight: 400;"><b>Basic Compliance:</b> Brokers must follow AML and KYC procedures.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Regulatory Oversight:</b>Ensures brokers meet minimal standards for Forex brokerage setup.
+                                    <li style="font-weight: 400;"><b>Regulatory Oversight:</b> Ensures brokers meet minimal standards for Forex brokerage setup.
                                     </li>
                                     <li style="font-weight: 400;"><b>Client Protection:</b> Focused on safeguarding clients' funds and transactions.</li> 
                                 </ul>

@@ -28,16 +28,16 @@
                             <div class="about-list-wrapper">
 
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Company Formation:</b>Easy and cost-effective company formation for Forex brokers to open their brokerage business in Seychelles.
+                                    <li style="font-weight: 400;"><b>Company Formation:</b> Easy and cost-effective company formation for Forex brokers to open their brokerage business in Seychelles.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Low Taxation:</b>Seychelles offers favorable tax rates for Forex brokers, making it a cost-effective jurisdiction for Forex brokerage setup.
+                                    <li style="font-weight: 400;"><b>Low Taxation:</b> Seychelles offers favorable tax rates for Forex brokers, making it a cost-effective jurisdiction for Forex brokerage setup.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Business-Friendly:</b>Known for its supportive regulatory environment, ideal for those looking to start your Forex broker business.
+                                    <li style="font-weight: 400;"><b>Business-Friendly:</b> Known for its supportive regulatory environment, ideal for those looking to start your Forex broker business.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Regulated by FSA:</b>Overseen by the Seychelles Financial Services Authority (FSA), ensuring compliance with brokerage regulation.
+                                    <li style="font-weight: 400;"><b>Regulated by FSA:</b> Overseen by the Seychelles Financial Services Authority (FSA), ensuring compliance with brokerage regulation.
 
                                     </li>
-                                    <li style="font-weight: 400;"><b>Cost-Effective Base:</b>An ideal location for brokers seeking a reliable and affordable base for their operations.
+                                    <li style="font-weight: 400;"><b>Cost-Effective Base:</b> An ideal location for brokers seeking a reliable and affordable base for their operations.
                                     </li>
                                     
                                 </ul>
@@ -128,7 +128,7 @@
                             <div class="about-list-wrapper">
 
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>Regulated by FSA:</b>The Seychelles Financial Services Authority oversees forex brokers.</li>
+                                    <li style="font-weight: 400;"><b>Regulated by FSA:</b> The Seychelles Financial Services Authority oversees forex brokers.</li>
                                     <li style="font-weight: 400;"><b>AML & KYC Compliance:</b> Ensures adherence to Anti-Money Laundering and KYC regulations.</li>
                                     <li style="font-weight: 400;"><b>Operational Oversight:</b> The FSA ensures brokers follow proper operational practices.
                                     </li>
