@@ -120,7 +120,7 @@
                         <div class="team-item">
                             <div class="team-content">
                                 <h4 class="h2tag">Quality Assurance</h4>
-                                <p>We deliver high-quality releases with automated testing. Offering MT5 whitelabel, affordable MT5 servers, and liquidity services for Forex.</p>
+                                <p>We deliver high-quality releases with automated testing. Offering MT5 whitelabel, affordable MT5 servers, and liquidity services for Forex.</p><br>
                             </div>
                         </div>
                     </div>
@@ -128,7 +128,7 @@
                         <div class="team-item">
                             <div class="team-content">
                                 <h4 class="h2tag">Quality Assurance</h4>
-                                <p>We deliver top-quality releases with automated testing. Offering MT5 whitelabel, affordable MT5 servers, and liquidity services for Forex.</p>
+                                <p>We deliver top-quality releases with automated testing. Offering MT5 whitelabel, affordable MT5 servers, and liquidity services for Forex.</p><br>
                             </div>
                         </div>
                     </div>
@@ -148,7 +148,7 @@
                 <div class="row justify-content-between">
                     <div class="col-lg-3 col-md-6 text-center mb-30">
                         <div class="process-single process-color-1">
-                            <div class="icon"><span></span><i class="fa-thin fa-money-check-dollar-pen"></i></div>
+                            <div class="icon"><span>01</span><i class="fa-thin fa-money-check-dollar-pen"></i></div>
                             <h3 style="font-size: 22px;">Efficiency & <br>Cost Savings</h3>
                         </div>
                     </div>

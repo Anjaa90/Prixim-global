@@ -95,7 +95,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 text-center mb-30">
                         <div class="process-single process-single-last process-color-3">
-                            <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
+                            <div class="icon"><span>04</span><i class="fa-thin fa-user-shield" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Privacy</h3>
                             <p>Seychelles ensures strong privacy for brokers and clients, ideal for company formation and Forex brokerage.
@@ -104,7 +104,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 text-center mb-30">
                         <div class="process-single process-single-last process-color-3">
-                            <div class="icon"><span>03</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
+                            <div class="icon"><span>05</span><i class="fa-thin fa-file-signature" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Flexible Compliance</h3>
                             <p>Seychelles provides flexible compliance with international standards, perfect for company formation and Forex brokerage setup.
