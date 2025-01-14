@@ -207,7 +207,7 @@
                                 </li>
                                 <li style="font-weight: 400;"><strong>Customized Services:</strong> Tailored solutions to help you set up your Forex brokerage, open your brokerage business, or find an affordable MT5 server provider.
                                 </li>
-                                <li style="font-weight: 400;"><strong>SEO-Friendly Design:</strong> WOptimized websites to rank higher and drive organic traffic, supporting your Forex business growth.
+                                <li style="font-weight: 400;"><strong>SEO-Friendly Design:</strong> Optimized websites to rank higher and drive organic traffic, supporting your Forex business growth.
                                 </li>
                                 <li style="font-weight: 400;"><strong>Commitment to Quality:</strong> We ensure high standards in liquidity providers for the Forex industry, brokerage regulation, and risk management for Forex brokers.
                                 </li>
