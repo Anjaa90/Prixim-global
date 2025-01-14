@@ -40,7 +40,7 @@
                         <div class="about-left">
                             <div class="about-img vertical-animation">
                                 <img src="assets\img\server/outsource -Server Management - Server Management Services (1).webp"
-                                    alt="Server Management Services" loading="lazy">
+                                    alt="We specialize in MT5 server setup, monitoring, MT4\MT5 Amin Services" loading="lazy">
                             </div>
                         </div>
                     </div>
@@ -66,7 +66,7 @@
                         <div class="wrapper blog-item">
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img\pop trading/outsource -Server Management -Seamless Trading Experience.png"
-                                    alt="Product Animation" style="height: 230px;width:400px ;"></div>
+                                    alt="Prixim Global's MT4 Admin Services for efficient platform management" style="height: 230px;width:400px ;"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Seamless Trading</h3><br>
                                 <span> Reliable MT5 servers ensure smooth operations for your Forex brokerage.
@@ -78,7 +78,7 @@
                         <div class="wrapper blog-item">
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img\pop trading/outsource -Server Management -Enhanced Security.png"
-                                    alt="Video Animation"></div>
+                                    alt="Efficient MT4 admin services by Prixim Global."></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Enhanced Security</h3><br>
                                 <span>Grow your business while we manage KYC/AML compliance and brokerage regulations.</span>
@@ -89,7 +89,7 @@
                         <div class="wrapper blog-item">
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img\pop trading/outsource -Server Management -Cost-Effective services.png"
-                                    alt="Stop Motion Animation"></div>
+                                    alt="Technology solutions for forex brokerages| MT5 Turnkey Solution "></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Cost-Effective Services</h3><br>
                                 <span> Reduce in-house IT needs with our low-cost Forex services to easily start your Forex brokerage.

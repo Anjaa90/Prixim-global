@@ -32,7 +32,7 @@
                         <div class="about-left">
                             <div class="about-img vertical-animation d-flex justify-content-center"><img
                                     src="assets\img\mt5\Fx platforms - MT5 hosting first image.webp"
-                                    alt="Prixim Global offers MT5 Hosting Services for Trading" loading="lazy" style="height: 358px;"></div>
+                                    alt="Prixim Global offers MT5 Hosting And MT5 Turnkey Services for Trading" loading="lazy" style="height: 358px;"></div>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -261,7 +261,7 @@
                     <!-- Image Column (Left Side) -->
                     <div class="col-lg-6">
                         <img src="assets\img\forex\fx platform - Mt5 hosting- Why Choose Prixim Global for Your Forex Brokerage.webp"
-                            class="img-fluid" alt="Prixim Global MT Hosting for Forex Brokerage" loading="lazy" style="padding-top:50px;">
+                            class="img-fluid" alt="Prixim Global MT5 Turnkey Solution for Forex Brokerage" loading="lazy" style="padding-top:50px;">
                     </div>
 
                     <!-- Content Column (Right Side) -->

@@ -17,7 +17,7 @@
                     <div class="about-left">
                         <div class="about-img vertical-animation">
                         <img src="assets\img\saint lucia.webp" 
-                            alt="Forex License in Saint Lucia" 
+                            alt="Setup your forex brokerage In St Lucia" 
                             loading="lazy" 
                             style="height: 300px !important;">
 

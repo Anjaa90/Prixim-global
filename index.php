@@ -206,7 +206,7 @@
                             <div class="blog-item">
                                 <div class="blog-item-img">
                                     <img src="assets/img/banking/home page- Our Expertise - MT5 Hosting.webp"
-                                        alt="MT5 Hosting by Prixim Global" loading="lazy" width="300" height="200">
+                                        alt="MT5 Hosting a Fast and intuitive trading platform" loading="lazy" width="300" height="200">
                                 </div>
                                 <div class="blog-item-info">
                                     <h3 style="font-size: 18px;" class="my-2">
@@ -221,7 +221,7 @@
                             <div class="blog-item">
                                 <div class="blog-item-img">
                                     <img src="assets\img\banking\home page- Our Expertise - Match trader-1.webp"
-                                        alt="Match Trader by Prixim Global for all Traders" loading="lazy" width="300" height="200">
+                                        alt="Match Trader Platforms for Prop Trading " loading="lazy" width="300" height="200">
                                 </div>
                                 <div class="blog-item-info">
                                     <h3 style="font-size: 18px;" class="my-2"><a href="match-trader-whitelabel.php">Match
@@ -403,7 +403,7 @@
                         <div class="platform-card">
                             <div class="platform-icon " style="color:#FF366B; padding-right: 30px;">
                                 <img src="assets/img/icon/match  trader icon.png" style="height: 100px; width: 120px;"
-                                    alt="Wow Trader Platforms for Prop Trading " loading="lazy">
+                                    alt="Match Trader Platforms for Prop Trading" loading="lazy">
                                 <!-- Icon for Match Trader -->
                             </div>
                             <div>
@@ -420,7 +420,7 @@
                     <div class="col-lg-6">
                         <div class="platform-card">
                             <div class="platform-icon" style="color:#00D3A0; padding-right: 30px;">
-                                <img src="assets/img/icon/wow trader icon.webp" style="width: 120px; height: 100px;"
+                                <img src="assets/img/icon/wow trader icon.webp" style="width: 120px; height: 100px;" alt="Wow Trader Platforms for Prop Trading"
                                     loading="lazy"> <!-- Icon for Wow Trader -->
                             </div>
                             <div>

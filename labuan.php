@@ -17,7 +17,7 @@
                         <div class="about-left">
                             <div class="about-img vertical-animation">
                                 <img src="assets\img/labuan flag.webp"
-                                    alt="Prixim Global Workspace for Business Operations" loading="lazy">
+                                    alt="Setup your forex brokerage In Labuan" loading="lazy">
                             </div>
                         </div>
                     </div>
@@ -199,7 +199,7 @@
                     <div class="col-lg-6">
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img src="assets/img/labuan  OVERVIEW.png"
-                                    alt="B2B Match Trader" loading="lazy"></div>
+                                    alt="Company Formation In Labuan" loading="lazy"></div>
                         </div>
                     </div>
                 </div>

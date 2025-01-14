@@ -17,7 +17,7 @@
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
                                     src="assets\img/Vanuatu flag.webp"
-                                    alt="Prixim Global Workspace for Business Operations" loading="lazy"></div>
+                                    alt="Setup your forex brokerage In Vanuatu" loading="lazy"></div>
                         </div>
                     </div>
                     <div class="col-lg-5">

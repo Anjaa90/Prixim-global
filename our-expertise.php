@@ -19,15 +19,13 @@
                 <div class="row align-items-center mb-5">
                     <div class="col-lg-6">
                         <img src="assets\img\about\know us - our Expertise- Enhance Your Brokerage with Expert Outsourcing Services.webp"
-                            class="img-fluid" alt="Outsourcing Services Image" loading="lazy">
+                            class="img-fluid" alt="Greylabel trading platforms For brokerage Business" loading="lazy">
                     </div>
                     <div class="col-lg-6">
                         <h1 style="font-size:28px">Choose the Right Trading Platform for Your
                         <span style="color:#FF366B; font-size:30px">Forex Brokerage</span></h1>
                         <br>
                         <p class="about-text">PriximGlobal offers affordable MT5 server provider solutions, forex brokerage setup, liquidity connection hub, live chat outsourcing, and KYC AML outsourcing for brokers. We provide technology for forex brokers with MT5 whitelabel solutions, ensuring regulatory compliance and low-cost services for a seamless start to your forex brokerage business.
-
-
                         </p>
                     </div>
                 </div>
@@ -173,7 +171,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="blog-item" style="height: 460px;">
                             <div class="blog-item-img"><img src="assets\img/expertise/Expertise - Banking BPO.webp"
-                                    alt="Banking BPO outsourcing service"></div>
+                                    alt="Banking BPO| Outsourcing Support Provider"></div>
                             <div class="blog-item-info">
                                 <h3 style="font-size: 18px;" class="mb-2">Banking BPO
                                 </h3>
@@ -191,7 +189,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="blog-item" style="height: 460px;">
                             <div class="blog-item-img"><img src="assets\img\expertise/neo bank.webp"
-                                    alt="NEO Bank Support service">
+                                    alt="NEO Bank Support service| Outsourcing Support Provider">
                             </div>
                             <div class="blog-item-info">
                                 <h3 style="font-size: 18px;" class="mb-2">NEO Bank Support
@@ -208,7 +206,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="blog-item" style="height: 460px;">
                             <div class="blog-item-img"><img src="assets\img\expertise/Crypto Broker Assistance.webp"
-                                    loading="lazy" alt="Crypto Broker Assistance by prixim global"></div>
+                                    loading="lazy" alt="Crypto Broker by prixim global| Outsourcing Support Provider"></div>
                             <div class="blog-item-info">
                                 <h3 style="font-size: 18px;" class="mb-2">Crypto Broker Assistance
 
@@ -241,7 +239,7 @@
                         <div class="blog-item" style="height: 460px;">
                             <div class="blog-item-img"><img
                                     src="assets\img\expertise\Expertise - Insurance Outsourcing.webp"
-                                    alt="Insurance Outsourcing Service">
+                                    alt="Insurance Outsourcing Service| Outsourcing Support Provider">
                             </div>
                             <div class="blog-item-info">
                                 <h3 style="font-size: 18px;" class="mb-2">Insurance Outsourcing
@@ -257,7 +255,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="blog-item" style="height: 460px;">
                             <div class="blog-item-img"><img src="assets\img\expertise\Expertise - Healthcare BPM.webp"
-                                    loading="lazy" alt="PriximGlobal's Outsourcing services for Healthcare"></div>
+                                    loading="lazy" alt="Outsourcing Support Provider"></div>
                             <div class="blog-item-info">
                                 <h3 style="font-size: 18px;" class="mb-2">Healthcare BPM
                                 </h3>
@@ -274,7 +272,7 @@
                         <div class="blog-item" style="height: 460px; ">
                             <div class="blog-item-img"><img
                                     src="assets\img\expertise\Expertise - EdTech Outsourcing.webp"
-                                    alt="EdTech Outsourcing solutions and support">
+                                    alt="EdTech Outsourcing solutions and support|Outsourcing Support Provider">
                             </div>
                             <div class="blog-item-info">
                                 <h3 style="font-size: 18px;" class="mb-2">EdTech Outsourcing
@@ -297,7 +295,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="blog-item" style="height: 460px;">
                             <div class="blog-item-img"><img src="assets\img\expertise\Expertise -Forex Outsourcing.webp"
-                                    loading="lazy" alt="Forex businesses support services"></div>
+                                    loading="lazy" alt="Forex businesses support services|Outsourcing Support Provider"></div>
                             <div class="blog-item-info">
                                 <h3 style="font-size: 18px;" class="mb-2">Forex Outsourcing
                                 </h3>
@@ -313,7 +311,7 @@
                         <div class="blog-item" style="height: 460px; ">
                             <div class="blog-item-img"><img
                                     src="assets\img\expertise\Expertise - Gaming Technical Support.webp"
-                                    alt="Gaming Technical Support by Prixim Global">
+                                    alt="Gaming Technical by Prixim Global| Technology Provider for Forex Brokerage">
                             </div>
                             <div class="blog-item-info">
                                 <h3 style="font-size: 18px;" class="mb-2">Gaming Technical Support
@@ -384,7 +382,7 @@
                     stylr="background-color: #F8F9FA !important; padding-top: 80px;">
                     <div class="col-lg-6">
                         <img src="assets\img\about\Why Choose Us for Outsourcing.png"
-                            class="Forex Outsourcing services by Prixim Global" alt="Outsourcing Services Image"
+                            class="Forex Outsourcing services by Prixim Global" alt="Outsourcing Support Provider"
                             loading="lazy">
                     </div>
                     <div class="col-lg-6">

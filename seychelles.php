@@ -17,7 +17,7 @@
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
                                     src="assets\img/Seychelles flag.webp"
-                                    alt="Prixim Global Workspace for Business Operations" loading="lazy"></div>
+                                    alt="Setup your forex brokerage In Seychelles" loading="lazy"></div>
                         </div>
                     </div>
                     <div class="col-lg-5">
@@ -146,7 +146,7 @@
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
                                     src="assets/img/Seychelles OVERVIEW.png"
-                                    alt="B2B Match Trader" loading="lazy"></div>
+                                    alt="Company Formation In Seychelles" loading="lazy"></div>
                         </div>
                     </div>
                 </div>

@@ -35,7 +35,7 @@
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
                                     src="assets\img\cx-services\prop platform - Match trader first image.webp"
-                                    alt="Match Trader Services" loading="lazy"></div>
+                                    alt="Prixim Global offers Match-Trader platform for brokerage businesses| MT5 Turnkey Solution" loading="lazy"></div>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -223,7 +223,7 @@
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
                                     src="assets/img/cx-services/Why Choose Prixim Global - match trader.webp"
-                                    alt="Choose Prixim Global for Prop Trading Brokerage" loading="lazy" /></div>
+                                    alt="Match-Trader Platform Connect matching engine technology via FIX API| MT5 Turnkey Solution" loading="lazy" /></div>
                         </div>
                     </div>
                 </div>

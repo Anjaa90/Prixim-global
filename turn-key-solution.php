@@ -115,7 +115,7 @@
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
                                     src="assets/img/cx-services/prop platform - Prop Trading Broker first image.webp"
-                                    alt="Prixim Global offers tailored lead generation,capital and liquidity solutions to help prop trading Firm"
+                                    alt="Complete lead generation services for MT5 Turnkey trading Firm"
                                     loading="lazy"></div>
                         </div>
                     </div>
@@ -1176,7 +1176,7 @@ rgb(24, 9, 13)
                         <div class="about-left">
                             <div class="about-img vertical-animation"><img
                                     src="assets\img\pop trading\Connections Network.webp"
-                                    alt="Technical Support Outsourcing" loading="lazy"></div>
+                                    alt="Targeted Marketing Strategies for MT5 Turnkey trading Firm" loading="lazy"></div>
                         </div>
                     </div>
                 </div>

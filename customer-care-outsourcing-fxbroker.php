@@ -136,7 +136,7 @@
                         <div class="wrapper blog-item">
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img\outsource\outsource - customer support- Increased Client Satisfaction.png"
-                                    alt="Personalized Customer Support By Prixim Global" loading="lazy"></div>
+                                    alt="Personalized Customer Support By Prixim Global| Outsourcing Services for Forex Industry" loading="lazy"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Increased Client Satisfaction</h3><br>
                                 <span>Personalized Live Chat Services for Forex Brokerage boost client satisfaction and loyalty, supported by our expertise as a leading Live Chat Outsourcing Provider.
@@ -148,7 +148,7 @@
                         <div class="wrapper blog-item">
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img\outsource\outsource - customer support-Enhanced Reputation.png"
-                                    alt="Reliable Customer Care Service By Prixim Global"
+                                    alt="Reliable Customer Care Service By Prixim Global| Outsourcing Services for Forex Industry"
                                     style="height: 193px;width:400px ;" loading="lazy"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Enhanced Reputation</h3><br>
@@ -162,7 +162,7 @@
                         <div class="wrapper blog-item">
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img\outsource\outsource - customer support-Retention Rates.png"
-                                    alt="Quality Customer Support for Higher Retention Rates" loading="lazy"></div>
+                                    alt="Quality Customer Support for Higher Retention Rates| Outsourcing Services for Forex Industry" loading="lazy"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Retention Rates</h3><br>
                                 <span>Quality support through Outsourcing Services for Forex Industry drives higher retention rates, strengthening client loyalty with reliable service.
