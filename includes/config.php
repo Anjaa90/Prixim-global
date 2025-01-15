@@ -148,65 +148,73 @@ switch ($menuactive) {
             break;
 
         case 'thank_you.php':
-            $title = "Prixim Global | Thank You";
-            $description = "We appreciate your interest. Our team will get back to you shortly.";
+            $title = "Thank You for Connecting with Prixim Global";
+            $description = "We appreciate your interest in Prixim Global. Our team will reach out soon to discuss your needs and provide the best solutions for your Brokerage.";
             break;
         
         case 'terms-of-use.php':
-            $title = "Terms of Use - Prixim Global";
-            $description = "Review the Terms of Use for Prixim Global. Understand the guidelines and conditions for using our services.";
+            $title = "Terms Of Use | Prixim Global";
+            $description = "Terms are subject to payment and acceptance for assisting customers with services.";
             break;
 
         case 'privacy-policy.php':
-            $title = "Privacy Policy - Prixim Global";
-            $description = "Learn how Prixim Global protects your data and privacy.";
+            $title = "Privacy Policy | Prixim Global";
+            $description = "This Privacy Policy applies only to our online activities and applies to visitors to our websites with respect to the information they share and collect.";
             break;
-            
+
+        case 'disclaimer.php':
+            $title = "Disclaimer | Prixim Global";
+            $description = "Prixim global makes no guarantees about the accuracy, completeness, or reliability of this information.";
+            break;
         case 'labuan.php':
-                $title = "Labuan Forex Broker License | Company Formation | Regulation";
-                $description = "Get your Labuan Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";
-                break;
+            $title = "Labuan Forex Broker License | Company Formation | Regulation";
+            $description = "Get your Labuan Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";
+            break;
 
-                case 'mauritius.php':
-                    $title = "Mauritius Forex Broker License | Company Formation";
-                    $description = "Get your Mauritius  Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";
-                    break;
+        case 'mauritius.php':
+            $title = "Mauritius Forex Broker License | Company Formation";
+            $description = "Get your Mauritius  Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";
+            break;
 
-                    case 'seychelles.php':
-                        $title = "Seychelles Forex Broker License | Company Formation";
-                        $description = "Get your Seychelles Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";
-                        break;
+        case 'seychelles.php':
+            $title = "Seychelles Forex Broker License | Company Formation";
+            $description = "Get your Seychelles Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";
+            break;
 
-                        case 'vanuatu.php':
-                            $title = "Vanuatu Forex Broker License | Company Formation | Regulation";
-                            $description = "Get your Vanuatu Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";
-                            break;
+        case 'vanuatu.php':
+            $title = "Vanuatu Forex Broker License | Company Formation | Regulation";
+            $description = "Get your Vanuatu Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";
+            break;
 
-                        case 'St-Lucia.php':
-                            $title ="St Lucia Forex Broker License | Company Formation | Regulation";
-                            $description ="Get your St Lucia Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";
-                            break;
+        case 'St-Lucia.php':
+            $title ="St Lucia Forex Broker License | Company Formation | Regulation";
+            $description ="Get your St Lucia Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";
+            break;
 
-                            case 'payments-psp.php':
-                                $title =" PSP for Forex Brokers | Prixim Global | Payment Solution";
-                                $description ="Prixim Global offers secure PSP solutions tailored for Forex brokers. Ensure seamless payment processing and efficient operations with our expertise.";
-                                break;
+        case 'payments-psp.php':
+            $title =" PSP for Forex Brokers | Prixim Global | Payment Solution";
+            $description ="Prixim Global offers secure PSP solutions tailored for Forex brokers. Ensure seamless payment processing and efficient operations with our expertise.";
+            break;
 
-                                case 'broker-setup-guide.php':
-                                    $title ="Forex Brokerage Setup Guide | Company Formation";
-                                    $description ="Start your Forex brokerage with Prixim Global. Get expert guidance on company formation, regulation, and business setup.";
-                                    break;
+        case 'broker-setup-guide.php':
+            $title ="Forex Brokerage Setup Guide | Company Formation";
+            $description ="Start your Forex brokerage with Prixim Global. Get expert guidance on company formation, regulation, and business setup.";
+            break;
 
-                                    case 'customer-care-outsourcing-fxbroker.php':
-                                        $title = "24/5 Customer Support Services | Outsourcing Company in India";
-                                        $description = "Enhance your client support with 24/5 customer care services. As an outsourcing company in India, we provide expert solutions for all your business needs.";
-                                        break;
+        case 'customer-care-outsourcing-fxbroker.php':
+            $title = "24/5 Customer Support Services | Outsourcing Company in India";
+            $description = "Enhance your client support with 24/5 customer care services. As an outsourcing company in India, we provide expert solutions for all your business needs.";
+            break;
 
-                                        case 'tech-support-outsourcing.php':
-                                            $title = "Tech Support for Forex Brokerage | Technology Provider";
-                                            $description = "As a technology provider for Forex brokerage and Forex, we deliver reliable solutions for your business.";
-                                            break;
+        case 'tech-support-outsourcing.php':
+            $title = "Tech Support for Forex Brokerage | Technology Provider";
+            $description = "As a technology provider for Forex brokerage and Forex, we deliver reliable solutions for your business.";
+            break;
 
+        case 'gdpr-compliances.php':
+            $title = "Prixim global | GDPR Compliances";
+            $description = "Grow your Forex brokerage with Prixim Global. We provide technology solutions, outsourcing services, and support to set up and scale your Forex business.";
+            break;
                                 
                     }
 ?>
