@@ -148,8 +148,8 @@ switch ($menuactive) {
             break;
 
         case 'thank_you.php':
-            $title = "Prixim Global | Thank You";
-            $description = "We appreciate your interest. Our team will get back to you shortly.";
+            $title = "Thank You for Connecting with Prixim Global";
+            $description = "We appreciate your interest in Prixim Global. Our team will reach out soon to discuss your needs and provide the best solutions for your Brokerage.";
             break;
         
         case 'terms-of-use.php':
