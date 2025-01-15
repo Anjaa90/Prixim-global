@@ -214,7 +214,7 @@ switch ($menuactive) {
 
         case 'gdpr-compliances.php':
             $title = "Prixim global | GDPR Compliances";
-            $description = "";
+            $description = "Grow your Forex brokerage with Prixim Global. We provide technology solutions, outsourcing services, and support to set up and scale your Forex business.";
             break;
                                 
                     }
