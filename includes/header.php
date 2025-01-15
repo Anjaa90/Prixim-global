@@ -7,7 +7,8 @@
   <meta name="google-site-verification" content="TlcZxQVoKwJF8vMQ7PEgHn4ocwq4k9JWhXJUqDYSLkI" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
+  <meta property="og:image" content="<?php echo $siteImage; ?>">
+ 
 
   
   <title>
@@ -95,7 +96,7 @@
       </div>
     </div>
   </div>
-  <header class="header">
+  <header class="header" style="background-color:#111878">
     <div class="main-navigation">
         <nav class="navbar navbar-expand-lg">
             <div class="container-fluid">
@@ -109,9 +110,9 @@
                         <span class="navbar-toggler-btn-icon"><i class="far fa-bars"></i></span>
                     </button>
                 </div>
-                <div class="collapse navbar-collapse" id="main_nav">
+                <div class="collapse navbar-collapse" id="main_nav" style="background-color:#111878">
                     <ul class="navbar-nav">
-                        <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
+                        <li class="nav-item"><a class="nav-link active" href="index.php" >Home</a></li>
 
                         <!-- New Tab Example -->
                         <!----  <li class="nav-item"><a class="nav-link" href="new-tab.php">New Tab</a></li>  --->
@@ -206,4 +207,9 @@
             </div>
         </nav>
     </div>
+    <style>
+      .navbar-nav > .nav-item > .nav-link {
+    color: white !important; /* Ensure the main nav links are white */
+}
+    </style>
 </header>

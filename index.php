@@ -38,7 +38,7 @@
 
         @media (max-width: 991px) {
             .hero-single {
-                padding-top: 140px;
+                /* padding-top: 140px; */
             }
         }
 
