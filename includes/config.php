@@ -159,6 +159,7 @@ switch ($menuactive) {
             $title = "Privacy Policy - Prixim Global";
             $description = "Learn how Prixim Global protects your data and privacy.";
             break;
+            
         case 'labuan.php':
                 $title = "Labuan Forex Broker License | Company Formation | Regulation";
                 $description = "Get your Labuan Forex broker license with company formation and brokerage regulation services for an easy and flexible business setup.";
