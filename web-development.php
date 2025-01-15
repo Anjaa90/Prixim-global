@@ -88,7 +88,7 @@
                                     <li>Custom Websites</li>
                                     <li> Business to Business (B2B)
                                         Websites</li>
-                                    <li> B2B Websites</li>
+                                    <li>SEO-Friendly Websites</li>
                                 </ul>
                             </div>
                         </div>
@@ -138,10 +138,9 @@
         </div>
 
 
-
-        <div class="process-area pt-50 pb-60">
+                <div class="process-area pb-60 pt-50">
             <div class="container">
-                <div class="row">
+            <div class="row">
                     <div class="col-lg-6 mx-auto">
                         <div class="site-heading text-center">
                             <h2 class="site-title" style="margin-bottom: 90px;">Advantages of <span>Owning a
@@ -151,38 +150,29 @@
                         </div>
                     </div>
                 </div>
-                <div class="row justify-content-center">
+                <div class="row justify-content-between">
                     <div class="col-lg-3 col-md-6 text-center mb-30">
                         <div class="process-single process-color-1">
                             <div class="icon"><span>01</span><i class="fa-thin fa-coins"></i></div>
-                            <h3 style="font-size: 22px">Online Presence
-                            </h3>
-
+                            <h3 style="font-size: 22px;">Online Presence</h3>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 text-center mb-30">
                         <div class="process-single process-color-2">
                             <div class="icon"><span>02</span><i class="fa-thin fa-piggy-bank"></i></div>
-                            <h3 style="font-size: 22px">Credibility and Trust
-                            </h3>
-
+                            <h3 style="font-size: 22px;">Credibility and Trust</h3>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 text-center mb-30">
-                        <div class="process-single process-single-last process-color-3">
+                        <div class="process-single process-color-3">
                             <div class="icon"><span>03</span><i class="fa-thin fa-hospitals"></i></div>
-                            <h3 style="font-size: 22px">Marketing and Reach
-                            </h3>
-
+                            <h3 style="font-size: 22px;">Marketing and Reach</h3>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 text-center mb-30">
-                        <div class="process-single process-single-last process-color-3">
-                            <div class="icon"><span>04</span><i class="fa-thin fa-hospitals"></i></div>
-                            <h3 style="font-size: 22px">Customer Engagement
-
-                            </h3>
-
+                        <div class="process-single process-color-4">
+                            <div class="icon"><span>04</span><i class="fa-thin fa-users"></i></div>
+                            <h3 style="font-size: 22px;">Customer Engagement</h3>
                         </div>
                     </div>
                 </div>

@@ -127,8 +127,9 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="team-item">
                             <div class="team-content">
-                                <h4 class="h2tag">Quality Assurance</h4>
-                                <p>We deliver top-quality releases with automated testing. Offering MT5 whitelabel, affordable MT5 servers, and liquidity services for Forex.</p><br>
+                                <h4 class="h2tag">Innovative Technology
+                                </h4>
+                                <p>Stay ahead with MT5 White Label and tailored trading solutions for your brokerage.</p><br><br>
                             </div>
                         </div>
                     </div>
