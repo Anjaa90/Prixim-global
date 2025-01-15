@@ -211,6 +211,11 @@ switch ($menuactive) {
             $title = "Tech Support for Forex Brokerage | Technology Provider";
             $description = "As a technology provider for Forex brokerage and Forex, we deliver reliable solutions for your business.";
             break;
+
+        case 'gdpr-compliances.php':
+            $title = "Prixim global | GDPR Compliances";
+            $description = "";
+            break;
                                 
                     }
 ?>
