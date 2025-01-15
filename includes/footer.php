@@ -1,4 +1,4 @@
-
+<?php include ('config.php');?>
 <div class="footer-widget">
             <div class="container">
                 <div class="footer-top pt-40 pb-40">
