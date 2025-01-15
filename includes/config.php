@@ -1,3 +1,5 @@
+
+<?php include ('includes/footer.php');?>
 <?php
 $menuactive = basename($_SERVER['PHP_SELF']);
 switch ($menuactive) {
