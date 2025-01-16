@@ -92,9 +92,9 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 text-center mb-30">
-                        <div class="process-single process-single-last process-color-3">
-                            <div class="icon"><span>04</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
+                    <div class="col-lg-4 col-md-6 text-center mb-30 position-relative">
+                        <div class="process-single process-color-3">
+                            <div class="icon"><span>04</span><i class="fa-thin fa-shield" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Minimal Bureaucracy</h3>
                             <p>Brokers can set up and start operations quickly with minimal delays.
@@ -105,7 +105,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 text-center mb-30">
                         <div class="process-single process-single-last process-color-3">
-                            <div class="icon"><span>05</span><i class="fa-thin fa-hospitals" aria-hidden="true"></i>
+                            <div class="icon"><span>05</span><i class="fa-thin fa-user-secret" aria-hidden="true"></i>
                             </div>
                             <h3 style="font-size: 22px">Privacy</h3>
                             <p>Strong privacy safeguards for owners and clients.

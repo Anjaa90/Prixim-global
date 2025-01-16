@@ -73,8 +73,8 @@
                             </div>
                         </div>
 
-                        <div class="col-lg-4 col-md-6 text-center mb-30">
-                            <div class="process-single process-single-last process-color-3">
+                        <div class="col-lg-4 col-md-6 text-center mb-30 position-relative">
+                            <div class="process-single process-color-3">
                                 <div class="icon"><span>04</span><i class="fa-thin fa-building" aria-hidden="true"></i></div>
                                 <h3 style="font-size: 22px">Business-Friendly</h3>
                                 <p>Mauritius provides an easy setup for Forex brokerage, with quick company formation and affordable liquidity providers.</p>
