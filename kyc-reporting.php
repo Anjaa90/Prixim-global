@@ -130,7 +130,7 @@
                                     src="assets\img\pop trading/outsource - KYC Reporting -Peace of Mind.png"
                                     alt="Prixim Global for KYC for Peace of Mind| MT5 Whitelabel Provider"></div>
                             <div class="item blog-item-info">
-                                <h3 style="font-size: 22px;">Peace of Mind</h3><br>
+                                <h3 style="font-size: 22px;">Peace of Mind</h3><br><br>
                                 <span>Grow your business while we handle KYC AML Outsourcing and compliance.</span>
                             </div>
                         </div>
