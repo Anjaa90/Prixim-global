@@ -32,15 +32,16 @@
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&amp;family=Roboto:wght@100;300;400;500;700;900&amp;display=swap">
 
-   <!-- Open Graph Meta Tags -->
-<meta property="og:image" content="assets/img/logo/favicon-01 (1).png" />
-<meta property="og:url" content="https://priximglobal.com/" />
-<meta property="og:type" content="website" />
+    <!-- Open Graph Meta Tags -->
+        <meta property="og:image" content="assets/img/logo/favicon-01 (1).png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:url" content="https://priximglobal.com/" />
+        <meta property="og:type" content="website" />
 
-<!-- Twitter Card Meta Tags -->
-<meta name="twitter:image" content="assets/img/logo/favicon-01 (1).png" />
-<meta name="twitter:card" content="summary_large_image" />
-
+      <!-- Twitter Card Meta Tags -->
+        <meta name="twitter:image" content="assets/img/logo/favicon-01 (1).png" />
+        <meta name="twitter:card" content="summary_large_image" />
 </head>
 
 
