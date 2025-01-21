@@ -9,8 +9,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta property="og:image" content="<?php echo $siteImage; ?>">
  
-
-  
   <title>
         <?php echo $title ?>
   </title>
@@ -33,15 +31,23 @@
     href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&amp;family=Roboto:wght@100;300;400;500;700;900&amp;display=swap">
 
     <!-- Open Graph Meta Tags -->
-        <meta property="og:image" content="assets/img/logo/favicon-01 (1).png" />
+        <!-- <meta property="og:image" content="assets/img/logo/favicon-01 (1).png" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta property="og:url" content="https://priximglobal.com/" />
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content="website" /> -->
 
       <!-- Twitter Card Meta Tags -->
-        <meta name="twitter:image" content="assets/img/logo/favicon-01 (1).png" />
-        <meta name="twitter:card" content="summary_large_image" />
+        <!-- <meta name="twitter:image" content="assets/img/logo/favicon-01 (1).png" />
+        <meta name="twitter:card" content="summary_large_image" /> -->
+
+        <meta property="og:image" content="assets/img/logo/favicon-01 (1).png">
+        <meta property="og:image:width" content="1200">
+        <meta property="og:image:height" content="630">
+        <meta property="og:url" content="https://priximglobal.com/">
+        <meta property="og:type" content="website">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="assets/img/logo/favicon-01 (1).png">
 
 </head>
 
