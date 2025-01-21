@@ -41,13 +41,13 @@
         <!-- <meta name="twitter:image" content="assets/img/logo/favicon-01 (1).png" />
         <meta name="twitter:card" content="summary_large_image" /> -->
 
-        <meta property="og:image" content="assets/img/logo/favicon-01 (1).png">
+        <meta property="og:image" content="https://priximglobal.com/assets/img/logo/favicon-01 (1).png">
         <meta property="og:image:width" content="1200">
         <meta property="og:image:height" content="630">
         <meta property="og:url" content="https://priximglobal.com/">
         <meta property="og:type" content="website">
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:image" content="assets/img/logo/favicon-01 (1).png">
+        <meta name="twitter:image" content="https://priximglobal.com/assets/img/logo/favicon-01 (1).png">
 
 </head>
 
