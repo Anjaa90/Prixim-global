@@ -18,7 +18,7 @@
                 <div class="row">
                     <div class="col">
                         <div class="terms-content">
-                            <h2>What does GDPR mean? </h2>
+                            <h2>What does GDPR mean? </h2><br>
                             <p>The EU General Data Protection Regulation (GDPR) is the most significant European privacy
                                 legislation in the last twenty years. It came directly into force on 25 May 2018. The
                                 GDPR replaces the EU Data Protection Directive 1995 (European Directive 95/46/EC),
@@ -28,7 +28,7 @@
                                 enforceable from 25 </p>
                         </div>
                         <div class="terms-content">
-                            <h2>Responsibility and Accountability </h2>
+                            <h2>Responsibility and Accountability </h2><br>
                             <p>These two words should be echoing in the boardroom of the organization from now on with
                                 this new regulation. An organization should ask itself questions such as – What types of
                                 personal data do we store? Where is it located? How is it available? Are we protecting
@@ -44,7 +44,7 @@
                                 terms of liability. </p>
                         </div>
                         <div class="terms-content">
-                            <h2>Agreement</h2>
+                            <h2>Agreement</h2><br>
                             <p>Many businesses relied on 'implied' consent during the DPA era. This passive approach was
                                 used over the next decade until it was overridden during the GDPR negotiations. Often a
                                 pre-ticked box was used indicating that they had opted in or allowed third parties to
@@ -56,13 +56,13 @@
                                 want their data to be used by the company. . </p>
                         </div>
                         <div class="terms-content">
-                            <h2>The Right to be Forgotten </h2>
+                            <h2>The Right to be Forgotten </h2><br>
                             <p>Consumers have the right to request the erasure of their data thanks to the GDPR. All
                                 personal data stored about the subject must be deleted unless there is a legitimate need
                                 for the business to retain it. </p>
                         </div>
                         <div class="terms-content">
-                            <h2>Data Protection Officers (DPO's)</h2>
+                            <h2>Data Protection Officers (DPO's)</h2><br>
                             <p>Although the requirement to appoint a data protection officer is new under the GDPR, it
                                 is a long-standing element of data protection in Germany. Accordingly, the modified
                                 version made it into the GDPR. Companies are required to appoint a DPO if they regularly
@@ -70,7 +70,7 @@
                                 scale (eg race, religion, health – anything considered sensitive) </p>
                         </div>
                         <div class="terms-content">
-                            <h2>Violations and Penalties</h2>
+                            <h2>Violations and Penalties</h2><br>
                             <p>The penalty for a data breach has increased dramatically from the maximum fine of
                                 £500,000 that was allowed under the DPA. The GDPR provides a comprehensive package for
                                 data collection, processing and management and should therefore not be breached. Those
@@ -79,7 +79,7 @@
                                 annual turnover, whichever is greater. </p>
                         </div>
                         <div class="terms-content">
-                            <h2>What Constitutes a Breach?</h2>
+                            <h2>What Constitutes a Breach?</h2><br>
                             <p>A data breach is more than just the loss of personal information. A breach of security
                                 that results in the destruction, loss, alteration, unauthorized disclosure or access of
                                 personal information. Breaches vary in severity, so it is important to understand how
@@ -94,7 +94,7 @@
                                 reporting. </p>
                         </div>
                         <div class="terms-content">
-                            <h2>How does Prominent Contact B2B Data Comply with GDPR? </h2>
+                            <h2>How does Prominent Contact B2B Data Comply with GDPR? </h2><br>
                             <p>Prominent Contact will follow best data protection practices. This means that we work
                                 closely with our data suppliers to ensure that data is collected in accordance with the
                                 regulations. A prominent contact will ensure that all information is current and
@@ -130,7 +130,7 @@
                                 that Prominent Contact will only sell data that complies with these guidelines. </p>
                         </div>
                         <div class="terms-content">
-                            <h2>Notice to Our Customers</h2>
+                            <h2>Notice to Our Customers</h2><br>
                             <p>It does not mean that you agree to buy data from Prominent Contact. In order to comply
                                 with the GDPR, purchasers of marketing data (email, address or telephone) must also
                                 comply with specific ICO and PECR guidelines (for marketing by electronic means). All UK

@@ -18,7 +18,7 @@
                 <div class="row">
                     <div class="col">
                         <div class="terms-content">
-                            <h2>Disclaimer for Prixim Global</h2>
+                            <h2>Disclaimer for Prixim Global</h2><br>
                             <p>If you require any more information or have any questions about our site's disclaimer,
                                 please feel free to contact us by email at. </p>
                             <p>All the information on this website - https://priximgolbal.com is published in good faith
@@ -36,12 +36,12 @@
                                 engaging in any business or uploading any information. </p>
                         </div>
                         <div class="terms-content">
-                            <h2>Consent</h2>
+                            <h2>Consent</h2><br>
                             <p>The terms of our disclaimer are hereby accepted and agreed to by you by using this
                                 website. </p>
                         </div>
                         <div class="terms-content">
-                            <h2>Update</h2>
+                            <h2>Update</h2><br>
                             <p>We will prominently post any changes to this document if we update, amend, or make
                                 changes. </p>
                         </div>
