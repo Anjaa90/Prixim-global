@@ -35,11 +35,9 @@
                                     <li style="font-weight: 400;"><b>Business-Friendly:</b> Known for its supportive regulatory environment, ideal for those looking to start your Forex broker business.
                                     </li>
                                     <li style="font-weight: 400;"><b>Regulated by FSA:</b> Overseen by the Seychelles Financial Services Authority (FSA), ensuring compliance with brokerage regulation.
-
                                     </li>
                                     <li style="font-weight: 400;"><b>Cost-Effective Base:</b> An ideal location for brokers seeking a reliable and affordable base for their operations.
                                     </li>
-                                    
                                 </ul>
                             </div>
 
@@ -121,8 +119,7 @@
                     <div class="col-lg-6">
                         <div class="about-right">
                             <div class="site-heading mb-3">
-                                <h2 class="site-title">Regulatory
-                                    <span>Overview </span>
+                                <h2 class="site-title">Regulatory <span>Overview </span>
                                 </h2>
                             </div>
                             <div class="about-list-wrapper">

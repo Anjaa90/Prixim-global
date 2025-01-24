@@ -52,9 +52,8 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-right">
-                            <div class="site-heading mb-3">
-                                <h1 class="site-title">Experience Innovative Prop Trading Brokerage with <span>Wow
-                                        Trader</span>
+                            <div class="site-heading mb-4">
+                                <h1 class="site-title">Experience Innovative Prop Trading Brokerage with <span>Wow Trader</span>
                                 </h1>
                             </div>
                             <p class="about-text">
@@ -213,14 +212,10 @@
                             <p class="about-text"><strong>Innovative Technology:</strong> Stay ahead with our
                                 state-of-the-art trading platforms designed specifically for prop trading brokerage
                                 needs.
-
-
                             </p>
                             <p class="about-text"><strong>Dedicated Account Management:</strong> Enjoy personalized
                                 service from a dedicated account manager who understands your unique challenges and
                                 goals in the prop trading brokerage arena.
-
-
                             </p>
                             <p class="about-text"><strong>Robust Risk Management Tools:</strong> Equip your clients with
                                 advanced tools to help them manage risk effectively and protect their investments.

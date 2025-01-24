@@ -123,12 +123,10 @@
                     <div class="col-lg-6">
                         <div class="about-right">
                             <div class="site-heading mb-3">
-                                <h2 class="site-title">Regulatory
-                                    <span>Overview </span>
+                                <h2 class="site-title">Regulatory <span>Overview </span>
                                 </h2>
                             </div>
                             <div class="about-list-wrapper">
-
                                 <ul class="about-list list-unstyled">
                                     <li style="font-weight: 400;"><b>Less Regulated:</b> Comoros offers a flexible environment with fewer regulations for Forex brokers.
                                     </li>
@@ -139,8 +137,6 @@
                                     <li style="font-weight: 400;"><b>Client Protection:</b> Focused on safeguarding clients' funds and transactions.</li> 
                                 </ul>
                             </div>
-                            
-
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -442,20 +438,14 @@
                 <div class="step-number">8</div>
                 <div class="step-content">
                     <p>Implement a strict anti-money laundering and anti-terrorist financing policy.
-
                     </p>
-
                 </div>
             </div>
             <div class="step">
                 <div class="step-number">9</div>
                 <div class="step-content">
-
                     <p>A minimum share capital of USD 18,000 is required.
-
-
                     </p>
-
                 </div>
             </div>
             <div class="step">

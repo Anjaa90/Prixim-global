@@ -39,12 +39,10 @@
                         <div class="about-right">
                             <div class="site-heading mb-3">
                                 <h1 class="site-title" style="font-size:24px">MT5 Hosting Services at Prixim Global – The Best <span>Forex Trading Platform</span> </h1>
-                            </div><br>
+                            </div>
                             <p>Discover premium MT5 hosting services with Prixim Global, your trusted MT5 White Label Provider and Metatrader5 Provider.
-
                             </p>
                             <div class="about-list-wrapper">
-
                                 <ul class="about-list list-unstyled">
                                     <li style="font-weight: 400;"><b>High-Quality Hosting: </b> Experience top-notch performance for seamless trading on MetaTrader5.</li>
                                     <li style="font-weight: 400;"><b>Low Latency:</b> Enjoy lightning-fast responses, perfect for forex traders.</li>
@@ -268,7 +266,7 @@
                     <div class="col-lg-6">
                         <div class="content">
                             <div class="mb-4">
-                                <h2 class="mb-5 align-items-left">Why Choose <span style="color:#FF366B"> Prixim Global
+                                <h2 class="mb-4 align-items-left">Why Choose <span style="color:#FF366B"> Prixim Global
                                         for Your Forex Brokerage
 
                                     </span></h2>
@@ -318,6 +316,24 @@
 
 
         <!-- CTA Section -->
+        <div class="cta-area bg pt-50 pb-50">
+            <div class="cta-shape"><img class="cta-shape-2" src="assets/img/shape/04.png" alt=""></div>
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-8 mx-auto">
+                        <div class="cta-content">
+                            <h2 >Experience the best foreign exchange trading platform with
+                            </h2>
+                            <p style="font-size: 18px;"><strong>Prixim Global’s</strong> hosting services!
+
+                            </p>
+                            <button class="theme-btn" onclick="toggleForm()">Get in Touch</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+<!-- 
         <div class="cta-area bg " style="padding: 80px 0;background-color: #F8F9FA !important;">
             <div class="cta-shape"><img class="cta-shape-2" src="assets/img/shape/04.png" alt=""></div>
             <div class="container">
@@ -332,7 +348,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </main>
     <!-- Button to Open the Form Modal -->
 

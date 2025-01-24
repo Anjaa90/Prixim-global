@@ -214,8 +214,6 @@
                                 <p>
                                     Access specialized support for crypto brokerage, including customer care and
                                     compliance, to navigate trading complexities.
-
-
                                 </p>
                             </div>
                         </div>
@@ -386,7 +384,7 @@
                             loading="lazy">
                     </div>
                     <div class="col-lg-6">
-                        <h2 class="text-left mb-3">Why Choose Us for <span style="color: #ff366b;">Outsourcing?</span>
+                        <h2 class="text-left mb-4">Why Choose Us for <span style="color: #ff366b;">Outsourcing?</span>
                         </h2>
                         <p class="about-text">We offer expert outsourcing services for forex brokers, including affordable MT5 server solutions, live chat outsourcing, and KYC/AML compliance. Our technology and support help you successfully set up and run your forex brokerage with ease.
                         </p>

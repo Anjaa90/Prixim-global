@@ -40,11 +40,8 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-right">
-                            <div class="site-heading mb-3">
-                                <h1 class="site-title">Start Your Prop Trading Brokerage With <span>PriximGlobal on
-                                        match
-                                        Traders</span>
-
+                            <div class="site-heading mb-4">
+                                <h1 class="site-title">Start Your Prop Trading Brokerage With <span>PriximGlobal on match Traders</span>
                                 </h1>
                             </div>
                             <p class="about-text">
@@ -238,11 +235,10 @@
                     <div class="col-lg-6 mx-auto">
                         <div class="site-heading text-center">
                             <h2 class="site-title">Benefits</h2>
-                            <br>
                             <div class="heading-divider"></div>
                         </div>
                     </div>
-                </div>
+                </div><br>
                 <div class="row justify-content-center">
                     <div class="col-lg-4 col-md-6 text-center mb-30">
                         <div class="process-single process-color-1">

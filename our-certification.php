@@ -46,15 +46,13 @@
 
                     <div class="col-lg-6">
                         <div class="about-right">
-                            <div class="site-heading mb-3">
+                            <div class="site-heading mb-4">
                                 <h1 class="site-title">Prixim Global Certified Quality and
                                     <span> Compliance in Forex</span>
                                 </h1>
                             </div>
                             <p class="about-text" style="margin-bottom: 15px;">At Prixim Global, customer safety is our priority. We uphold trust, quality, and professionalism while staying ahead of industry trends. As a Technology Provider for Forex Brokerage, we offer services like MT5 White Label Provider and Liquidity Provider for Forex Industry, ensuring innovative solutions for your success.
-
                             </p>
-
                         </div>
                     </div>
                 </div>
@@ -68,23 +66,20 @@
                 <div class="row align-items-center reverse-row">
                     <div class="col-lg-6">
                         <div class="about-left">
-                            <div class="site-heading mb-3">
+                            <div class="site-heading mb-4">
                                 <h2 class="site-title">ISO 9001 Certification at <span>Prixim Global</span>
                                 </h2>
                             </div>
-
                             <ul class="about-list list-unstyled">
-                                <li style="font-weight:normal;"><strong>Commitment to Quality :</strong>We uphold top standards, including MT5 White Label Provider and Affordable MT5 Server Provider.
+                                <li style="font-weight:normal;"><strong>Commitment to Quality :</strong> We uphold top standards, including MT5 White Label Provider and Affordable MT5 Server Provider.
                                 </li>
                                 <li style="font-weight:normal;"><strong>Globally Recognized Standard :</strong> ISO 9001 ensures reliable Forex Brokerage services.
                                 </li>
-                                <li style="font-weight:normal;"><strong>Enhanced Efficiency :</strong>Streamlined processes, like Risk Management Provider for Forex Broker, boost operations.
+                                <li style="font-weight:normal;"><strong>Enhanced Efficiency :</strong> Streamlined processes, like Risk Management Provider for Forex Broker, boost operations.
                                 </li>
-                                <li style="font-weight:normal;"><strong>Customer Satisfaction :</strong>Focusing on Brokerage Regulation for Forex Brokers, we ensure dependable results.
+                                <li style="font-weight:normal;"><strong>Customer Satisfaction :</strong> Focusing on Brokerage Regulation for Forex Brokers, we ensure dependable results.
                                 </li>
                             </ul>
-
-
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -109,7 +104,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-right">
-                            <div class="site-heading mb-3">
+                            <div class="site-heading mb-4">
                                 <h2 class="site-title">ISO 27001 Certification at <span>Prixim Global</span>
                                 </h2>
                             </div>
@@ -127,7 +122,7 @@
                 <div class="row align-items-center reverse-row">
                     <div class="col-lg-6">
                         <div class="about-left">
-                            <div class="site-heading mb-3">
+                            <div class="site-heading mb-4">
                                 <h2 class="site-title">Shariah-Compliant IT Solutions at <span>Prixim
                                         Global</span></h2>
                                     <p><strong>Customized Financial Software for Forex Brokerages:</strong>
@@ -166,18 +161,18 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-right">
-                            <div class="site-heading mb-3">
+                            <div class="site-heading mb-4">
                                 <h2 class="site-title">
                                     Proud NASSCOM Member </h2>
                             </div>
                             <ul class="about-list list-unstyled">
-                                <li style="font-weight:normal;"><strong>Prestigious Network :</strong>Connects with leading IT and outsourcing firms, enhancing Forex services.
+                                <li style="font-weight:normal;"><strong>Prestigious Network :</strong> Connects with leading IT and outsourcing firms, enhancing Forex services.
                                 </li>
                                 <li style="font-weight:normal;"><strong>Access to Resources :</strong> Utilizes industry insights, events, and networking for Forex growth.
                                 </li>
-                                <li style="font-weight:normal;"><strong>Advocacy and Collaboration :</strong>Promotes policies that benefit IT and Forex businesses.
+                                <li style="font-weight:normal;"><strong>Advocacy and Collaboration :</strong> Promotes policies that benefit IT and Forex businesses.
                                 </li>
-                                <li style="font-weight:normal;"><strong>Commitment to Excellence :</strong>Drives innovation in services like MT5 whitelabel, liquidity provision, and risk management.
+                                <li style="font-weight:normal;"><strong>Commitment to Excellence :</strong> Drives innovation in services like MT5 whitelabel, liquidity provision, and risk management.
                                 </li>
 
                             </ul>

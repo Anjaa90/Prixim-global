@@ -181,9 +181,6 @@
 
         <div class="choose-area" style="padding: 50px 0;">
             <div class="container">
-
-
-
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="choose-content about-list list-unstyled">

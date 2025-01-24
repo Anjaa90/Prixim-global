@@ -84,15 +84,14 @@ Tailored for Specific Industries: Live chat services for Forex Brokerage, NEO ba
                     </div>
                     <div class="col-lg-6">
                         <div class="about-right">
-
                             <div class="about-list-wrapper">
-                                <h2 class="site-title">Why Choose Prixim Global for <span>Live Chat & Email
+                                <h2 class="site-title mb-3">Why Choose Prixim Global for <span>Live Chat & Email
                                         Support?</span></h2>
-                                <br>
+                                
                                 <ul class="about-list list-unstyled">
                                     <li style="font-weight: 400;"><b>Instant Communication:</b> Real-time Live Chat Services for Forex Brokerage for prompt inquiries.
                                     </li>
-                                    <li style="font-weight: 400;"><b>Thorough Email Support:</b>Detailed responses ensuring clarity, including KYC AML Outsourcing for Financial Brokerage.</li>
+                                    <li style="font-weight: 400;"><b>Thorough Email Support:</b> Detailed responses ensuring clarity, including KYC AML Outsourcing for Financial Brokerage.</li>
                                     <li style="font-weight: 400;"><b>24/5 Availability: </b>Support throughout the trading week, leveraging our expertise as a Technology Provider for Forex Brokerage and Outsourcing Support Provider.
                                     </li>
                                 </ul>

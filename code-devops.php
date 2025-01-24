@@ -21,10 +21,10 @@
                     <div class="row align-items-center">
                         <div class="col-md-6 col-lg-6">
                             <div class="hero-content">
-                                <h1 class="hero-title wow animate__fadeInUp" data-wow-duration="1s"
+                                <h2 class="hero-title wow animate__fadeInUp" data-wow-duration="1s"
                                     data-wow-delay=".50s" style="color: #080c3c;font-size: 40px;">
                                     Enhance Your Software Development with <span>Prixim Global's</span> Code DevOps
-                                </h1>
+                                </h2>
                                 <p class="wow animate__fadeInUp" data-wow-duration="1s" data-wow-delay=".75s"
                                     style="font-weight: 500; color:#52576B;">
                                     Prixim Global’s Code DevOps approach ensures faster, high-quality software delivery. As a trusted technology provider for Forex brokerage, we offer solutions like MT5 server, MT5 whitelabel, Forex brokerage setup, and liquidity provider. We also provide outsourcing services for Forex, including live chat and KYC AML outsourcing, to help your business thrive.

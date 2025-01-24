@@ -17,23 +17,20 @@
     <div class="about-area" style="padding-top: 50px; padding-bottom: 80px">
       <div class="container">
         <div class="row align-items-center">
-          <div class="col-lg-7">
+          <div class="col-lg-6">
             <div class="about-left">
               <div class="about-img vertical-animation"><img
                   src="assets\img\about\know us - Infrastructure - Prixim Global Infrastructure.webp"
                   alt="Technology Provider for Forex Brokerage" loading="lazy" /></div>
             </div>
           </div>
-          <div class="col-lg-5">
+          <div class="col-lg-6">
             <div class="about-right">
               <div class="site-heading mb-3">
                 <h1 class="site-title">Modern Workspace for <span>Business Operations</span></h1>
               </div>
               <p class="about-text">At Prixim Global, we ensure seamless operations for your Forex brokerage with automated desks, high-speed internet, and secure data management, supporting your business growth with outsourcing services.
-
-
               </p>
-
             </div>
           </div>
         </div>

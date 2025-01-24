@@ -23,9 +23,8 @@
                                 </h1>
                             </div>
                             <div class="about-list-wrapper">
-
                                 <ul class="about-list list-unstyled">
-                                    <li style="font-weight: 400;"><b>KYC Services:</b>Ensure seamless compliance with global KYC AML Outsourcing for Financial Brokerage standards.</li>
+                                    <li style="font-weight: 400;"><b>KYC Services:</b> Ensure seamless compliance with global KYC AML Outsourcing for Financial Brokerage standards.</li>
                                     <li style="font-weight: 400;"><b>Regulatory Compliance:</b> Navigate Brokerage Regulation Forex Broker with tailored solutions.</li>
                                     <li style="font-weight: 400;"><b>Seamless Reporting: </b> Streamlined reporting to meet Forex Industry regulatory requirements.
                                     </li>
@@ -65,9 +64,7 @@
                                 <h2 class="site-title">Why Choose Prixim Global for <span>KYC & Reporting?</span></span>
                                 </h2>
                             </div>
-
                             <div class="about-list-wrapper">
-
                                 <ul class="about-list list-unstyled">
                                     <li style="font-weight: 400;"><b>Efficient KYC:</b> Quick, compliant onboarding with KYC AML Outsourcing for Financial Brokerage.</li>
                                     <li style="font-weight: 400;"><b>Regulatory Expertise:</b> Stay compliant with Brokerage Regulation Forex Broker.

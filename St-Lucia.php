@@ -30,7 +30,6 @@
                             <h1 class="site-title">Forex License <span>- Saint Lucia</span></h1>
                         </div>
                         <div class="about-list-wrapper">
-
                         <ul class="about-list list-unstyled">
                             <li style="font-weight: 400;"><b>Company Formation:</b> Easy process to set up your Forex brokerage in Saint Lucia.</li>
                             <li style="font-weight: 400;"><b>Low Taxes:</b> Saint Lucia offers favorable tax rates for Forex businesses.</li>
@@ -39,8 +38,6 @@
                             <li style="font-weight: 400;"><b>Global Trust:</b> Trusted internationally for Forex brokerage regulation.</li>
                             <li style="font-weight: 400;"><b>Blacklist-Free:</b> Saint Lucia is not listed on any financial blacklists.</li>
                         </ul>
-
-                                
                         </div>
                         <!-- Button -->
                         <a href="contact-us.php" class="theme-btn" style="margin-top: 20px;">Get Started Now</a>

@@ -120,7 +120,6 @@
                             </p>
                             <br>
                             <p style="font-size: 17px;"> Prixim Global provides turnkey solutions, including MT5 integration, brokerage regulation support, and affordable MT5 server services to help you open your brokerage business and grow with ease.
-
                             </p>
                             <br>
                             
