@@ -149,7 +149,7 @@
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img\outsource\outsource - customer support-Enhanced Reputation.png"
                                     alt="Reliable Customer Care Service By Prixim Global| Outsourcing Services for Forex Industry"
-                                    style="height: 193px;width:400px ;" loading="lazy"></div>
+                                    loading="lazy"></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Enhanced Reputation</h3><br>
                                 <span> Reliable customer care and Outsourcing Services for Forex Industry enhance your brokerage's reputation, building trust and client loyalty.

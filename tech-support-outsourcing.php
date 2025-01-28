@@ -185,7 +185,7 @@
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img\outsource\outsource - Tech Support Sales -Minimized Downtime.png"
                                     alt="trading operations which Minimized Downtime| Technology Provider for Forex"
-                                    style="height: 230px;width:400px ;"></div>
+                                 ></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Minimized Downtime</h3><br>
                                 <span> Quick issue resolution ensures uninterrupted trading. As a trusted Technology Provider for Forex Brokerage, we keep your Metatrader5 platform running smoothly.

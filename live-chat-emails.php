@@ -134,7 +134,7 @@ Tailored for Specific Industries: Live chat services for Forex Brokerage, NEO ba
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img\pop trading/outsource - live chat - Complete Coverage.png"
                                     alt="Live Chat & Email Support gives Clients a choose preferred method of communication | Outsourcing Support Provider"
-                                    style="height: 199px;width:390px ;"></div>
+                                    ></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;" class="pb-2">Complete Coverage</h3>
                                 <span>Clients can choose their preferred communication method, with support from our Live Chat Services for Forex Brokerage and Outsourcing Support Provider expertise.
