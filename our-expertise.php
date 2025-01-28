@@ -168,8 +168,8 @@
                     </div>
                 </div>
                 <div class="row" style="justify-content: center;">
-                    <div class="col-md-6 col-lg-3">
-                        <div class="blog-item" style="height: 460px;">
+                    <div class="col-md-4 col-lg-3">
+                        <div class="blog-item " style="height: 460px;">
                             <div class="blog-item-img"><img src="assets\img/expertise/Expertise - Banking BPO.webp"
                                     alt="Banking BPO| Outsourcing Support Provider"></div>
                             <div class="blog-item-info">
@@ -186,7 +186,7 @@
 
 
 
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-4 col-lg-3">
                         <div class="blog-item" style="height: 460px;">
                             <div class="blog-item-img"><img src="assets\img\expertise/neo bank.webp"
                                     alt="NEO Bank Support service| Outsourcing Support Provider">
@@ -203,7 +203,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-4 col-lg-3">
                         <div class="blog-item" style="height: 460px;">
                             <div class="blog-item-img"><img src="assets\img\expertise/Crypto Broker Assistance.webp"
                                     loading="lazy" alt="Crypto Broker by prixim global| Outsourcing Support Provider"></div>
@@ -233,7 +233,7 @@
                     </div>
                 </div>
                 <div class="row" style="justify-content: center;">
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-4 col-lg-3">
                         <div class="blog-item" style="height: 460px;">
                             <div class="blog-item-img"><img
                                     src="assets\img\expertise\Expertise - Insurance Outsourcing.webp"
@@ -250,7 +250,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-4 col-lg-3">
                         <div class="blog-item" style="height: 460px;">
                             <div class="blog-item-img"><img src="assets\img\expertise\Expertise - Healthcare BPM.webp"
                                     loading="lazy" alt="Outsourcing Support Provider"></div>
@@ -266,7 +266,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-4 col-lg-3">
                         <div class="blog-item" style="height: 460px; ">
                             <div class="blog-item-img"><img
                                     src="assets\img\expertise\Expertise - EdTech Outsourcing.webp"
@@ -290,7 +290,7 @@
                     </div>
                 </div>
                 <div class="row" style="justify-content: center;">
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-4 col-lg-3">
                         <div class="blog-item" style="height: 460px;">
                             <div class="blog-item-img"><img src="assets\img\expertise\Expertise -Forex Outsourcing.webp"
                                     loading="lazy" alt="Forex businesses support services|Outsourcing Support Provider"></div>
@@ -305,7 +305,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-4 col-lg-3">
                         <div class="blog-item" style="height: 460px; ">
                             <div class="blog-item-img"><img
                                     src="assets\img\expertise\Expertise - Gaming Technical Support.webp"
