@@ -99,7 +99,7 @@
                             <div class="blog-item-img"><img class="blog-img2"
                                     src="assets\img\pop trading/outsource - KYC Reporting -Reduced Fraud Risk.png"
                                     alt="Prixim Global's KYC processes help prevent fraud| KYC AML Outsourcing for Financial Brokerage"
-                                    style="height: 230px;width:400px ;"></div>
+                                    ></div>
                             <div class="item blog-item-info">
                                 <h3 style="font-size: 22px;">Reduced Fraud Risk</h3><br>
                                 <span> Our thorough KYC AML Outsourcing helps prevent fraud, ensuring secure, compliant transactions.
