@@ -163,7 +163,7 @@
                         <div class="blog-item">
                             <div class="blog-item-img"><img
                                     src="assets\img\digital\digital -Marketing -Plan for e-commerce strategy.png"
-                                    alt="Prixim Global e-commerce strategy" style="height: 241px;" loading="lazy"></div>
+                                    alt="Prixim Global e-commerce strategy" loading="lazy"></div>
                             <div class="blog-item-info">
                                 <h3 style="font-size: 22px;" class="h2tag blog-title"><a href="#">Plan for e-commerce
                                         strategy</a></h3>
@@ -217,7 +217,7 @@
                             <div class="blog-item-img"><img
                                     src="assets\img\digital\digital -Marketing -Strategy for optimizing search engines.png"
                                     alt=" Prixim Global offer SEO suggestions for preventing website issues."
-                                    style="height: 257px;" loading="lazy"></div>
+                                     loading="lazy"></div>
                             <div class="blog-item-info">
                                 <h3 style="font-size: 22px;" class="h2tag blog-title"><a href="#">Strategy for
                                         optimizing search engines</a></h3>
