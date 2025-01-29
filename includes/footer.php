@@ -17,7 +17,7 @@
                     </div>
                 </div>
                 <div class="row footer-widget-wrapper pt-100">
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-4 col-lg-3">
                         <div class="footer-widget-box about-us"><a href="#" class="footer-logo"><img
                                     src="assets/img/logo/logo.webp" alt="" style="height: 64px; width: 272px"
                                     aria-label="logo" loading="lazy" /></a>
@@ -39,7 +39,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-4 col-lg-3">
                         <div class="footer-widget-box list">
                             <h3 class="footer-widget-title">Know Us</h3>
                             <ul class="footer-list">
@@ -53,7 +53,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-4 col-lg-3">
                         <div class="footer-widget-box list">
                             <h3 class="footer-widget-title">FX Platforms</h3>
                             <ul class="footer-list">
@@ -75,7 +75,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-4 col-lg-3">
                         <div class="footer-widget-box list">
                             <h3 class="footer-widget-title">Prop Platforms</h3>
                             <ul class="footer-list">
@@ -88,7 +88,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-4 col-lg-3">
                         <div class="footer-widget-box list">
                             <h3 class="footer-widget-title">Outsource</h3>
                             <ul class="footer-list">
@@ -105,7 +105,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-4 col-lg-3">
                         <div class="footer-widget-box list">
                             <h3 class="footer-widget-title">Digital</h3>
                             <ul class="footer-list">
