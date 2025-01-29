@@ -3,7 +3,7 @@
             <div class="container">
                 <div class="footer-top pt-40 pb-40">
                     <div class="footer-newsletter">
-                        <div class="col-md-12">
+                        <div class="col-md-12 f1" >
                             <div class="footer-newsletter-content">
                                 <img src="assets/img/partner/DUNS img.jpeg"
                                     style="border-radius: 50%; justify-content: center;" alt="" class="img1"
@@ -194,6 +194,15 @@
     <script src="assets/js/wow.min.js"></script>
     <script src="assets/js/contact-form.js"></script>
     <script src="assets/js/main.js"></script>
+    <style>
+    
+    
+        @media (max-width:978px) {
+            .f1 {
+                text-align:center;
+            }
+        }
+    </style>
 </body>
 
 </html>
