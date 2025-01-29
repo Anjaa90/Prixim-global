@@ -295,39 +295,12 @@
             <h1>Compliance</h1>
             <div class="card-containers">
                 <!-- Compliance Cards -->
-                <div class="card" data-cost="35000">
+                <div class="card" data-cost="7500">
                     <div class="card-content">
-                        <h2><img src="assets/img/vanuatu.png"> Vanuatu</h2>
-                        <p class="duration">3-4 Months</p>
-                        <p class="cost">Total Cost: <span>$35,000.00</span></p>
-                        <p class="renewal">Renewal Cost: <span>$8,000.00</span></p>
-                    </div>
-                    <button class="select-btn">Select</button>
-                </div>
-                <div class="card" data-cost="34125">
-                    <div class="card-content">
-                        <h2><img src="assets/img/mauritius.png"> Mauritius</h2>
-                        <p class="duration">2-3 Months</p>
-                        <p class="cost">Total Cost: <span>$34,125.00</span></p>
-                        <p class="renewal">Renewal Cost: <span>$22,050.00</span></p>
-                    </div>
-                    <button class="select-btn">Select</button>
-                </div>
-                <div class="card" data-cost="25850">
-                    <div class="card-content">
-                        <h2><img src="assets/img/seychelles.png"> Seychelles</h2>
-                        <p class="duration">1 Month</p>
-                        <p class="cost">Total Cost: <span>$25,850.00</span></p>
-                        <p class="renewal">Renewal Cost: <span>$19,800.00</span></p>
-                    </div>
-                    <button class="select-btn">Select</button>
-                </div>
-                <div class="card" data-cost="28000">
-                    <div class="card-content">
-                        <h2><img src="assets/img/labuan.png"> Labuan</h2>
-                        <p class="duration">4-7 Months</p>
-                        <p class="cost">Total Cost: <span>$28,000.00</span></p>
-                        <p class="renewal">Renewal Cost: <span>$19,600.00</span></p>
+                        <h2><img src="assets\img\Saintlucia.png"> Saint Lucia</h2>
+                        <p class="duration">2 Weeks</p>
+                        <p class="cost">Total Cost: <span>$7,500.00</span></p>
+                        <p class="renewal">Renewal Cost: <span>$4,500.00</span></p>
                     </div>
                     <button class="select-btn">Select</button>
                 </div>
@@ -340,6 +313,43 @@
                     </div>
                     <button class="select-btn">Select</button>
                 </div>
+                <div class="card" data-cost="25850">
+                    <div class="card-content">
+                        <h2><img src="assets/img/seychelles.png"> Seychelles</h2>
+                        <p class="duration">1 Month</p>
+                        <p class="cost">Total Cost: <span>$25,850.00</span></p>
+                        <p class="renewal">Renewal Cost: <span>$19,800.00</span></p>
+                    </div>
+                    <button class="select-btn">Select</button>
+                </div>
+                <div class="card" data-cost="34125">
+                    <div class="card-content">
+                        <h2><img src="assets/img/mauritius.png"> Mauritius</h2>
+                        <p class="duration">2-3 Months</p>
+                        <p class="cost">Total Cost: <span>$34,125.00</span></p>
+                        <p class="renewal">Renewal Cost: <span>$22,050.00</span></p>
+                    </div>
+                    <button class="select-btn">Select</button>
+                </div>
+                
+                <div class="card" data-cost="28000">
+                    <div class="card-content">
+                        <h2><img src="assets/img/labuan.png"> Labuan</h2>
+                        <p class="duration">4-7 Months</p>
+                        <p class="cost">Total Cost: <span>$28,000.00</span></p>
+                        <p class="renewal">Renewal Cost: <span>$19,600.00</span></p>
+                    </div>
+                    <button class="select-btn">Select</button>
+                </div>
+                <div class="card" data-cost="35000">
+                    <div class="card-content">
+                        <h2><img src="assets/img/vanuatu.png"> Vanuatu</h2>
+                        <p class="duration">3-4 Months</p>
+                        <p class="cost">Total Cost: <span>$35,000.00</span></p>
+                        <p class="renewal">Renewal Cost: <span>$8,000.00</span></p>
+                    </div>
+                    <button class="select-btn">Select</button>
+                </div>
             </div>
             <div class="footer">
                 <button class="back-btn">Back</button>
@@ -348,7 +358,7 @@
             <div class="total-amount-section">
                 <span class="total-text">Total Amount</span>
                 <span class="total-amount">$0</span>
-                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.form">Proceed</a></button>
+                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.php">Proceed</a></button>
             </div>
         </div>
 
@@ -1191,7 +1201,7 @@ updateTotalAmount();
                 <div class="row align-items-center">
                     <div class="col-lg-8 mx-auto">
                         <div class="cta-content">
-                            <h2>Calculate Your Expenses of Brokerage With PriximGlobal
+                            <h2>Calculate Your Expenses of Brokerage With Prixim Global
 
                             </h2>
                             <p style="font-size: 18px;">contact us now for more information
