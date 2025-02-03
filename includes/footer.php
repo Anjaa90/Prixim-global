@@ -166,7 +166,7 @@
     <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
     <script
         type="text/javascript">var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date(); (function () { var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0]; s1.async = true; s1.src = 'https://embed.tawk.to/645b4eb9ad80445890ec1d03/1h02an22m'; s1.charset = 'UTF-8'; s1.setAttribute('crossorigin', '*'); s0.parentNode.insertBefore(s1, s0); })(); </script>
-    <a href="#" id="scroll-top"><i class="far fa-arrow-up-to-line"></i></a>
+    <a href="#" id="scroll-top" ><i class="far fa-arrow-up-to-line "></i></a>
     <script async src="https://www.google.com/recaptcha/api.js"></script>
     <script>window.onload = function () {
             var recaptcha = document.forms["consult"]["g-recaptcha-response"]; recaptcha.required = true; recaptcha.oninvalid = function (e) { // do something 
