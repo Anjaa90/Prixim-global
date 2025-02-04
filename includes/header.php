@@ -20,17 +20,36 @@
   <script src="https://kit.fontawesome.com/d9355482a9.js" crossorigin="anonymous"></script>
   
   <link rel="icon" type="image/png" sizes="56x56" href="assets/img/logo/favicon-01 (1).png">
-  
- <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+
+  <!-- <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
   <link rel="stylesheet" href="assets/css/all-fontawesome.min.css" />
   <link rel="stylesheet" href="assets/css/flaticon.css" />
   <link rel="stylesheet" href="assets/css/animate.min.css" />
   <link rel="stylesheet" href="assets/css/magnific-popup.min.css" />
   <link rel="stylesheet" href="assets/css/owl.carousel.min.css" />
-  <link rel="stylesheet" href="assets/css/style.css" /> 
+  <link rel="stylesheet" href="assets/css/style.css" /> -->
 
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
 
+<!-- FontAwesome -->
+<link rel="stylesheet" href="assets/css/all-fontawesome.min.css" />
 
+<!-- Flaticon -->
+
+<link rel="stylesheet" href="assets/css/flaticon.css" />
+
+<!-- Animate.css -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+
+<!-- Magnific Popup -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" />
+
+<!-- Owl Carousel -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+
+<!-- Your Custom Style (Host Yourself) -->
+<link rel="stylesheet" href="assets/css/style.css" />
 
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&amp;family=Roboto:wght@100;300;400;500;700;900&amp;display=swap">
