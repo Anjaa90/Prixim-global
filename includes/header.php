@@ -20,14 +20,18 @@
   <script src="https://kit.fontawesome.com/d9355482a9.js" crossorigin="anonymous"></script>
   
   <link rel="icon" type="image/png" sizes="56x56" href="assets/img/logo/favicon-01 (1).png">
-
-  <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+  
+ <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
   <link rel="stylesheet" href="assets/css/all-fontawesome.min.css" />
   <link rel="stylesheet" href="assets/css/flaticon.css" />
   <link rel="stylesheet" href="assets/css/animate.min.css" />
   <link rel="stylesheet" href="assets/css/magnific-popup.min.css" />
   <link rel="stylesheet" href="assets/css/owl.carousel.min.css" />
-  <link rel="stylesheet" href="assets/css/style.css" />
+  <link rel="stylesheet" href="assets/css/style.css" /> 
+
+
+
+
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&amp;family=Roboto:wght@100;300;400;500;700;900&amp;display=swap">
 
