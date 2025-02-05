@@ -218,7 +218,7 @@ switch ($menuactive) {
 
         case 'forex-brokerage-calculator-form.php':
             $title = "Prixim global | Forex Brokerage Calculator Form";
-            $description = "";
+            $description = "Get in touch with us! Fill out the form, and we’ll get back to you soon| Forex Brokerage Calculator Form";
             break;
                                 
                     }
