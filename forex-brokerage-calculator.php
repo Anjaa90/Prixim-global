@@ -392,7 +392,7 @@
             <div class="total-amount-section">
                 <span class="total-text">Total Amount</span>
                 <span class="total-amount">$0</span>
-                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.html">Proceed</a></button>
+                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.php">Proceed</a></button>
             </div>
         </div>
 
@@ -428,7 +428,7 @@
             <div class="total-amount-section">
                 <span class="total-text">Total Amount</span>
                 <span class="total-amount">$0</span>
-                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.html">Proceed</a></button>
+                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.php">Proceed</a></button>
             </div>
         </div>
 
@@ -480,7 +480,7 @@
             <div class="total-amount-section">
                 <span class="total-text">Total Amount</span>
                 <span class="total-amount">$0</span>
-                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.html">Proceed</a></button>
+                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.php">Proceed</a></button>
             </div>
         </div>
 
@@ -523,7 +523,7 @@
             <div class="total-amount-section">
                 <span class="total-text">Total Amount</span>
                 <span class="total-amount">$0</span>
-                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.html">Proceed</a></button>
+                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.php">Proceed</a></button>
             </div>
         </div>
 
@@ -567,7 +567,7 @@
             <div class="total-amount-section">
                 <span class="total-text">Total Amount</span>
                 <span class="total-amount">$0</span>
-                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.html">Proceed</a></button>
+                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.php">Proceed</a></button>
             </div>
         </div>
 
@@ -610,7 +610,7 @@
             <div class="total-amount-section">
                 <span class="total-text">Total Amount</span>
                 <span class="total-amount">$0</span>
-                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.html">Proceed</a></button>
+                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.php">Proceed</a></button>
             </div>
         </div>
 
@@ -645,7 +645,7 @@
             <div class="total-amount-section">
                 <span class="total-text">Total Amount</span>
                 <span class="total-amount">$0</span>
-                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.html">Proceed</a></button>
+                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.php">Proceed</a></button>
             </div>
         </div>
 
@@ -679,7 +679,7 @@
             <div class="total-amount-section">
                 <span class="total-text">Total Amount</span>
                 <span class="total-amount">$0</span>
-                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.html">Proceed</a></button>
+                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.php">Proceed</a></button>
             </div>
         </div>
 
@@ -705,7 +705,7 @@
             <div class="total-amount-section">
                 <span class="total-text">Total Amount</span>
                 <span class="total-amount">$0</span>
-                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.html">Proceed</a></button>
+                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.php">Proceed</a></button>
             </div>
         </div>
 
@@ -731,7 +731,7 @@
             <div class="total-amount-section">
                 <span class="total-text">Total Amount</span>
                 <span class="total-amount">$0</span>
-                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.html">Proceed</a></button>
+                <button class="proceed-btn"><a href="forex-brokerage-calculator-form.php">Proceed</a></button>
             </div>
         </div>
 
