@@ -431,7 +431,7 @@
                 <button class="proceed-btn"><a href="forex-brokerage-calculator-form.php">Proceed</a></button>
             </div>
         </div>
-
+     
 
 
         <!-- Trading Platform Container -->
