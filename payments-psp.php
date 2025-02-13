@@ -168,7 +168,7 @@
                     <div class="col-lg-8 mx-auto">
                         <div class="cta-content">
                             <h2>Best IT and BPM Solution for Your Forex Business</h2>
-                            <p></p><a href="contact-us.html" class="theme-btn">Contact Now <i
+                            <p></p><a href="contact-us.php" class="theme-btn">Contact Now <i
                                     class="far fa-arrow-right"></i></a>
                         </div>
                     </div>

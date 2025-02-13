@@ -3,7 +3,7 @@
             <div class="container">
                 <div class="footer-top pt-40 pb-40">
                     <div class="footer-newsletter">
-                        <div class="col-md-12 f1" >
+                        <div class="col-md-12">
                             <div class="footer-newsletter-content">
                                 <img src="assets/img/partner/DUNS img.jpeg"
                                     style="border-radius: 50%; justify-content: center;" alt="" class="img1"
@@ -17,7 +17,7 @@
                     </div>
                 </div>
                 <div class="row footer-widget-wrapper pt-100">
-                    <div class="col-md-4 col-lg-3">
+                    <div class="col-md-6 col-lg-3">
                         <div class="footer-widget-box about-us"><a href="#" class="footer-logo"><img
                                     src="assets/img/logo/logo.webp" alt="" style="height: 64px; width: 272px"
                                     aria-label="logo" loading="lazy" /></a>
@@ -39,7 +39,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-4 col-lg-3">
+                    <div class="col-md-6 col-lg-3">
                         <div class="footer-widget-box list">
                             <h3 class="footer-widget-title">Know Us</h3>
                             <ul class="footer-list">
@@ -53,7 +53,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-4 col-lg-3">
+                    <div class="col-md-6 col-lg-3">
                         <div class="footer-widget-box list">
                             <h3 class="footer-widget-title">FX Platforms</h3>
                             <ul class="footer-list">
@@ -75,7 +75,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-4 col-lg-3">
+                    <div class="col-md-6 col-lg-3">
                         <div class="footer-widget-box list">
                             <h3 class="footer-widget-title">Prop Platforms</h3>
                             <ul class="footer-list">
@@ -88,7 +88,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-4 col-lg-3">
+                    <div class="col-md-6 col-lg-3">
                         <div class="footer-widget-box list">
                             <h3 class="footer-widget-title">Outsource</h3>
                             <ul class="footer-list">
@@ -105,7 +105,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-4 col-lg-3">
+                    <div class="col-md-6 col-lg-3">
                         <div class="footer-widget-box list">
                             <h3 class="footer-widget-title">Digital</h3>
                             <ul class="footer-list">
@@ -181,28 +181,25 @@
     </script>
     <script
         type="application/ld+json">{ "@context": "https://schema.org", "@type": "Organization", "name": "Contact Us", "alternateName": "Contact Us", "url": "https://priximglobal.com/contact-us.php", "logo": "https://priximglobal.com/assets/img/logo/logo.webp", "contactPoint":{ "@type": "ContactPoint", "telephone": "+917972359229", "contactType": "customer service", "areaServed": "GB", "availableLanguage": "en"}, "sameAs": [ "https://www.facebook.com/priximglobal/", "https://twitter.com/prixim_global", "https://www.instagram.com/prixim_global/", "https://www.linkedin.com/company/prixim-global-private-limited" ]} </script>
-    <script src="assets/js/jquery-3.6.0.min.js"></script>
+
+    <!-- <script src="assets/js/jquery-3.6.0.min.js"></script> -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="assets/js/modernizr.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <!-- <script src="assets/js/bootstrap.bundle.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0-alpha1/js/bootstrap.bundle.min.js"></script>
     <script src="assets/js/imagesloaded.pkgd.min.js"></script>
     <script src="assets/js/jquery.magnific-popup.min.js"></script>
     <script src="assets/js/isotope.pkgd.min.js"></script>
     <script src="assets/js/jquery.appear.min.js"></script>
     <script src="assets/js/jquery.easing.min.js"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>
+    <!-- <script src="assets/js/owl.carousel.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
     <script src="assets/js/counter-up.js"></script>
     <script src="assets/js/wow.min.js"></script>
     <script src="assets/js/contact-form.js"></script>
     <script src="assets/js/main.js"></script>
-    <style>
-    
-    
-        @media (max-width:978px) {
-            .f1 {
-                text-align:center;
-            }
-        }
-    </style>
+
+
 </body>
 
 </html>

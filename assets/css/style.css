@@ -693,8 +693,7 @@ label {
     text-align: center;
     opacity: 0;
     visibility: hidden;
-    z-index: 1;
-    margin-top: -50px;
+    z-index: 1
 }
 
 #scroll-top::before {

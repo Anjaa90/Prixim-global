@@ -215,6 +215,11 @@ switch ($menuactive) {
             $title = "Prixim global | GDPR Compliances";
             $description = "Grow your Forex brokerage with Prixim Global. We provide technology solutions, outsourcing services, and support to set up and scale your Forex business.";
             break;
+
+        case 'forex-brokerage-calculator-form.php':
+            $title = "Prixim global | Forex Brokerage Calculator Form";
+            $description = "Get in touch with us! Fill out the form, and we’ll get back to you soon| Forex Brokerage Calculator Form";
+            break;
                                 
                     }
 ?>
