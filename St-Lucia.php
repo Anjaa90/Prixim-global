@@ -100,60 +100,63 @@
     </div>
 
     <!-- Assistance Section -->
-<div class="container">
-    <div class="section-header text-center" style="margin: 50px 0 40px;">
-        <h2 style="font-size: 2.5rem; font-weight: bold; color: #080c3c;">How Prixim Global Helps</h2>
-        <p style="color: #555; font-size: 1.1rem; max-width: 600px; margin: 0 auto;">
-            From registration to compliance, we've got you covered.
-        </p>
-    </div>
+    <div class="container">
+        <div class="section-header text-center" style="margin: 50px 0 40px;">
+            <h2 style="font-size: 2.5rem; font-weight: bold; color: #080c3c;">How Prixim Global Helps</h2>
+            <p style="color: #555; font-size: 1.1rem; max-width: 600px; margin: 0 auto;">
+                From registration to compliance, we've got you covered.
+            </p>
+        </div>
 
-    <!-- Assistance Steps -->
-    <div class="row justify-content-center">
-        <div class="col-lg-4 col-md-6 mb-4">
-            <div class="step-card"
-                style="background:  linear-gradient(135deg,rgb(155, 21, 77), #FF366B); color: #fff; padding: 25px; border-radius: 12px; text-align: center; transition: transform 0.3s; box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);">
-                <div class="step-icon" style="font-size: 2.5rem; margin-bottom: 15px;">
-                    <i class="fa-solid fa-building"></i>
+        <!-- Assistance Steps -->
+        <div class="row justify-content-center">
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="step-card"
+                    style="background:  linear-gradient(135deg,rgb(155, 21, 77), #FF366B); color: #fff; padding: 25px; border-radius: 12px; text-align: center; transition: transform 0.3s; box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);">
+                    <div class="step-icon" style="font-size: 2.5rem; margin-bottom: 15px;">
+                        <i class="fa-solid fa-building"></i>
+                    </div>
+                    <h3 style="font-size: 1.3rem; margin-bottom: 10px;">Company Registration</h3>
+                    <p style="font-size: 1rem; color: #f1f1f1;">Register your company and obtain the required license.
+                    </p>
                 </div>
-                <h3 style="font-size: 1.3rem; margin-bottom: 10px;">Company Registration</h3>
-                <p style="font-size: 1rem; color: #f1f1f1;">Register your company and obtain the required license.</p>
+            </div>
+
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="step-card"
+                    style="background:  linear-gradient(135deg,rgb(155, 21, 77), #FF366B); color: #fff; padding: 25px; border-radius: 12px; text-align: center; transition: transform 0.3s; box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);">
+                    <div class="step-icon" style="font-size: 2.5rem; margin-bottom: 15px;">
+                        <i class="fa-solid fa-shield-halved"></i>
+                    </div>
+                    <h3 style="font-size: 1.3rem; margin-bottom: 10px;">Regulatory Compliance</h3>
+                    <p style="font-size: 1rem; color: #f1f1f1;">Ensure compliance with both local and global
+                        regulations.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="step-card"
+                    style="background: linear-gradient(135deg,rgb(155, 21, 77), #FF366B); color: #fff; padding: 25px; border-radius: 12px; text-align: center; transition: transform 0.3s; box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);">
+                    <div class="step-icon" style="font-size: 2.5rem; margin-bottom: 15px;">
+                        <i class="fa-solid fa-coins"></i>
+                    </div>
+                    <h3 style="font-size: 1.3rem; margin-bottom: 10px;">Financial Advisory</h3>
+                    <p style="font-size: 1rem; color: #f1f1f1;">Advise on tax benefits and financial service
+                        opportunities.</p>
+                </div>
             </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 mb-4">
-            <div class="step-card"
-                style="background:  linear-gradient(135deg,rgb(155, 21, 77), #FF366B); color: #fff; padding: 25px; border-radius: 12px; text-align: center; transition: transform 0.3s; box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);">
-                <div class="step-icon" style="font-size: 2.5rem; margin-bottom: 15px;">
-                    <i class="fa-solid fa-shield-halved"></i>
-                </div>
-                <h3 style="font-size: 1.3rem; margin-bottom: 10px;">Regulatory Compliance</h3>
-                <p style="font-size: 1rem; color: #f1f1f1;">Ensure compliance with both local and global regulations.</p>
-            </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-4">
-            <div class="step-card"
-                style="background: linear-gradient(135deg,rgb(155, 21, 77), #FF366B); color: #fff; padding: 25px; border-radius: 12px; text-align: center; transition: transform 0.3s; box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);">
-                <div class="step-icon" style="font-size: 2.5rem; margin-bottom: 15px;">
-                    <i class="fa-solid fa-coins"></i>
-                </div>
-                <h3 style="font-size: 1.3rem; margin-bottom: 10px;">Financial Advisory</h3>
-                <p style="font-size: 1rem; color: #f1f1f1;">Advise on tax benefits and financial service opportunities.</p>
-            </div>
+        <!-- Call to Action -->
+        <div class="text-center" style="margin-top: 40px;">
+            <a href="contact-us.php" class="theme-btn"
+                style="color: #fff; padding: 15px 30px; margin-bottom:20px; font-size: 1rem; text-transform: uppercase;">
+                Start Your Journey Today
+            </a>
         </div>
     </div>
 
-    <!-- Call to Action -->
-    <div class="text-center" style="margin-top: 40px;">
-        <a href="contact-us.php" class="theme-btn"
-            style="color: #fff; padding: 15px 30px; margin-bottom:20px; font-size: 1rem; text-transform: uppercase;">
-            Start Your Journey Today
-        </a>
-    </div>
 </div>
-
-    </div>
 
 
 <footer class="footer-area">
