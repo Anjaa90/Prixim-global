@@ -147,17 +147,65 @@
             </div>
         </div>
 
-        <!-- Call to Action -->
-        <div class="text-center" style="margin-top: 40px;">
-            <a href="contact-us.php" class="theme-btn"
-                style="color: #fff; padding: 15px 30px; margin-bottom:20px; font-size: 1rem; text-transform: uppercase;">
-                Start Your Journey Today
-            </a>
-        </div>
+        
     </div>
-
+<!-- Call to Action -->
+<div class="cta-area bg " style="padding: 80px 0;background-color: #F8F9FA !important;">
+            <div class="cta-shape"><img class="cta-shape-2" src="assets/img/shape/04.png" alt="" loading="lazy"></div>
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-8 mx-auto">
+                        <div class="cta-content">
+                            <h2>Set up your offshore brokerage in Saint Lucia with minimal hassle</h2>
+                            <p>Let us help you through the process</p>
+                            <button class="theme-btn" onclick="toggleForm()">Start Your Brokerage</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 </div>
 
+ <!-- Modal Toggle Script -->
+ <script>
+    function toggleForm() {
+        var modal = document.getElementById("formModal");
+        modal.style.display = (modal.style.display === "block") ? "none" : "block";
+    }
+
+    // Close the modal when clicking outside of the content
+    window.onclick = function (event) {
+        var modal = document.getElementById("formModal");
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    }
+
+    // Dynamic Service Selection
+    document.getElementById('service-category').addEventListener('change', function () {
+        var serviceCategory = this.value;
+        var specificService = document.getElementById('specific-service');
+        specificService.innerHTML = '';
+
+        if (serviceCategory === 'technology') {
+            specificService.innerHTML += '<option value="mt5">MT5</option>';
+            specificService.innerHTML += '<option value="matchTrader">Match Trader</option>';
+            specificService.innerHTML += '<option value="vertexFX">Vertex FX</option>';
+            specificService.innerHTML += '<option value="sirix">Sirix</option>';
+            specificService.innerHTML += '<option value="extremeWowTrader">XTreme / Wow Trader</option>';
+        } else if (serviceCategory === 'outsourcing') {
+            specificService.innerHTML += '<option value="customerSupport">Customer Support</option>';
+            specificService.innerHTML += '<option value="techSupport">Technical Support</option>';
+            specificService.innerHTML += '<option value="serverManagement">Server Management</option>';
+            specificService.innerHTML += '<option value="liveChatEmail">Live Chat & Emails</option>';
+        } else if (serviceCategory === 'digital') {
+            specificService.innerHTML += '<option value="marketing">Marketing</option>';
+            specificService.innerHTML += '<option value="codeDevops">Code/DevOps</option>';
+            specificService.innerHTML += '<option value="webDevelopment">Web Development</option>';
+        }
+    });
+</script>
+<?php include ('includes/getintouch.php');?>
 
 <footer class="footer-area">
     <div class="floating-button">
