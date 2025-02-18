@@ -114,7 +114,7 @@
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="step-card" style="background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 0 40px 5px rgb(0 0 0 / 5%); text-align: center;">
                     <div class="step-icon" style="font-size: 2.5rem; margin-bottom: 15px;">
-                        <i class="fa-solid fa-building"></i>
+                        <i class="fa-solid fa-building"  style="color: #ff366b;"></i>
                     </div>
                     <div class="step-content">
                     <h3 style="font-size: 1.3rem; margin-bottom: 10px;">Company Registration</h3>
@@ -126,7 +126,7 @@
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="step-card" style="background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 0 40px 5px rgb(0 0 0 / 5%); text-align: center;">
                     <div class="step-icon" style="font-size: 2.5rem; margin-bottom: 15px;">
-                        <i class="fa-solid fa-shield-halved"></i>
+                        <i class="fa-solid fa-shield-halved"  style="color: #ff366b;"></i>
                     </div>
                     <div class="step-content">
                     <h3 style="font-size: 1.3rem; margin-bottom: 10px;">Regulatory Compliance</h3>
@@ -138,7 +138,7 @@
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="step-card" style="background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 0 40px 5px rgb(0 0 0 / 5%); text-align: center;">
                     <div class="step-icon" style="font-size: 2.5rem; margin-bottom: 15px;">
-                        <i class="fa-solid fa-coins"></i>
+                        <i class="fa-solid fa-coins"  style="color: #ff366b;"></i>
                     </div>
                     <div class="step-content">
                     <h3 style="font-size: 1.3rem; margin-bottom: 10px;">Financial Advisory</h3>
