@@ -196,10 +196,15 @@
                     </p>
                 </div>
             </div>
-            <br><br>
-            <p>Launch your forex brokerage with Prixim Global's expert guidance and tools, covering location, technology, and client management for success in the forex market.
-            </p>
+            
         </div>
+
+        <div class="text-center container p-5">
+            <h5>Launch your forex brokerage with Prixim Global's expert guidance and tools, covering location, technology, and client management for success in the forex market.
+            </h5>
+        </div>
+        
+      
     </main>
     <div class="cta-area bg " style="padding: 80px 0;background-color: #F8F9FA !important;">
         <div class="cta-shape"><img class="cta-shape-2" src="assets/img/shape/04.png" alt=""></div>

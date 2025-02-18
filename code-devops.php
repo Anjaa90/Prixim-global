@@ -233,7 +233,7 @@
             </div>
         </div>
     </div>
-    <<?php include ('includes/getintouch.php');?>
+    <?php include ('includes/getintouch.php');?>
     
     <!-- Modal CSS -->
     <style>
